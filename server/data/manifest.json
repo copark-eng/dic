@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-20T02:43:17.210972+00:00",
+  "updated_at": "2026-09-20T02:47:53.421330+00:00",
   "levels": {
     "1": {
       "name": "기초",
@@ -43,9 +43,9 @@
       "code": "L5",
       "total_words": 4000,
       "file": "level_5.json",
-      "file_size_bytes": 2607002,
-      "sha256": "5e63886df6df3fb6105d3fb900c39738f4a1689b6c58b55a4824fcd5f1263742",
-      "updated_at": "2026-09-20T00:39:07.150847+00:00"
+      "file_size_bytes": 2643320,
+      "sha256": "c1f945804943ee472956744f804cc8d0b5b10aa528189d4ef98b9eeb835853ef",
+      "updated_at": "2026-09-20T02:47:53.406329+00:00"
     },
     "6": {
       "name": "TOEIC 900",
