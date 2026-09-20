@@ -27,6 +27,7 @@ RAW_DIR = BASE_DIR / "raw"
 AUDIO_DIR = BASE_DIR / "audio"
 
 LEVEL_NAMES = {
+    0: "전체 레벨 (All 26,500단어)",
     1: "Level 1 (기초 1,000)",
     2: "Level 2 (중등 2,000)",
     3: "Level 3 (수능기본 3,000)",
@@ -51,6 +52,14 @@ def load_level_data(level: int):
         with open(file_path, "r", encoding="utf-8") as f:
             return json.load(f)
     return []
+
+@st.cache_data
+def load_all_words():
+    combined = []
+    for lvl in range(1, 8):
+        data = load_level_data(lvl)
+        combined.extend(data)
+    return combined
 
 # 사이드바
 st.sidebar.title("📚 MyDic Admin")
@@ -92,61 +101,163 @@ if menu == "📊 데이터셋 현황 (Manifest)":
 elif menu == "🔍 단어 검색 및 검수":
     st.header("🔍 단어 검색, 예문 검수 및 발음 테스트")
     
-    col1, col2 = st.columns([1, 3])
+    col1, col2 = st.columns([1, 2])
     with col1:
-        selected_level = st.selectbox("조회할 레벨 선택", options=list(range(1, 8)), format_func=lambda x: LEVEL_NAMES[x])
+        selected_level = st.selectbox(
+            "조회할 레벨 선택",
+            options=list(range(0, 8)),
+            format_func=lambda x: LEVEL_NAMES[x],
+            index=1,
+        )
     with col2:
         search_query = st.text_input("단어 또는 한국어 뜻 검색", placeholder="예: schedule, 발견하다, apple...")
     
-    words = load_level_data(selected_level)
+    # State key to detect filter changes and reset page to 1
+    current_filter_key = f"{selected_level}::{search_query.strip().lower()}"
+    if st.session_state.get("last_filter_key") != current_filter_key:
+        st.session_state.last_filter_key = current_filter_key
+        st.session_state.admin_page = 1
+
+    if selected_level == 0:
+        words = load_all_words()
+    else:
+        words = load_level_data(selected_level)
     
     if words:
         if search_query:
+            q = search_query.strip().lower()
             filtered = [
                 w for w in words
-                if search_query.lower() in w.get("word", "").lower() or search_query in w.get("meaning", "")
+                if q in w.get("word", "").lower() or q in w.get("meaning", "").lower()
             ]
         else:
-            filtered = words[:50]
+            filtered = words
         
-        st.write(f"표시 단어: **{len(filtered)}**건 (전체 {len(words)}건 중)")
+        total_items = len(filtered)
         
-        for idx, item in enumerate(filtered):
-            with st.expander(f"**{item.get('word')}** [{item.get('pos')}] - {item.get('meaning')}"):
-                c1, c2 = st.columns([2, 2])
-                with c1:
-                    st.write(f"**ID:** `{item.get('id')}`")
-                    st.write(f"**미국식 발음:** `{item.get('phonetics', {}).get('us', '-')}`")
-                    st.write(f"**영국식 발음:** `{item.get('phonetics', {}).get('uk', '-')}`")
-                    
-                    entry_id = item.get("id", "")
-                    local_us = AUDIO_DIR / f"level_{selected_level}" / f"{entry_id}_us.mp3"
-                    local_uk = AUDIO_DIR / f"level_{selected_level}" / f"{entry_id}_uk.mp3"
+        if total_items == 0:
+            st.warning("검색 조건에 일치하는 단어가 없습니다.")
+        else:
+            # 페이징 컨트롤 바
+            ctrl_col1, ctrl_col2, ctrl_col3 = st.columns([2, 2, 2])
+            with ctrl_col1:
+                page_size = st.selectbox(
+                    "페이지당 단어 수",
+                    options=[20, 50, 100, 200, 500],
+                    index=1,
+                    key="admin_page_size",
+                )
+            
+            total_pages = max(1, (total_items + page_size - 1) // page_size)
+            
+            if "admin_page" not in st.session_state:
+                st.session_state.admin_page = 1
+            if st.session_state.admin_page > total_pages:
+                st.session_state.admin_page = total_pages
+            if st.session_state.admin_page < 1:
+                st.session_state.admin_page = 1
 
-                    us_audio = item.get("audio", {}).get("us")
-                    uk_audio = item.get("audio", {}).get("uk")
+            with ctrl_col2:
+                page_input = st.number_input(
+                    f"페이지 번호 (1 ~ {total_pages})",
+                    min_value=1,
+                    max_value=total_pages,
+                    value=st.session_state.admin_page,
+                    step=1,
+                    key="page_input_widget",
+                )
+                if page_input != st.session_state.admin_page:
+                    st.session_state.admin_page = page_input
+                    st.rerun()
 
-                    if local_us.exists():
-                        st.audio(str(local_us), format="audio/mp3")
-                        st.caption(f"US (Local File): {local_us.name}")
-                    elif us_audio:
-                        st.audio(us_audio, format="audio/mp3")
-                        st.caption(f"US CDN: {us_audio}")
+            with ctrl_col3:
+                view_mode = st.radio(
+                    "화면 표시 형태",
+                    options=["상세 카드 (오디오/예문)", "빠른 표 (테이블)"],
+                    horizontal=True,
+                )
 
-                    if local_uk.exists():
-                        st.audio(str(local_uk), format="audio/mp3")
-                        st.caption(f"UK (Local File): {local_uk.name}")
-                    elif uk_audio:
-                        st.audio(uk_audio, format="audio/mp3")
-                        st.caption(f"UK CDN: {uk_audio}")
-                        
-                with c2:
-                    st.markdown(f"**예문 (EN):** {item.get('example_en', '-')}")
-                    st.markdown(f"**해석 (KO):** {item.get('example_ko', '-')}")
-                    if item.get("synonyms"):
-                        st.caption(f"유의어: {', '.join(item['synonyms'])}")
-                    if item.get("antonyms"):
-                        st.caption(f"반의어: {', '.join(item['antonyms'])}")
+            # 이전/다음 네비게이션 버튼
+            btn1, btn2, btn3, btn4 = st.columns([1, 1, 1, 3])
+            with btn1:
+                if st.button("⏮ 처음", disabled=(st.session_state.admin_page <= 1)):
+                    st.session_state.admin_page = 1
+                    st.rerun()
+            with btn2:
+                if st.button("◀ 이전", disabled=(st.session_state.admin_page <= 1)):
+                    st.session_state.admin_page -= 1
+                    st.rerun()
+            with btn3:
+                if st.button("다음 ▶", disabled=(st.session_state.admin_page >= total_pages)):
+                    st.session_state.admin_page += 1
+                    st.rerun()
+            with btn4:
+                if st.button("끝 ⏭", disabled=(st.session_state.admin_page >= total_pages)):
+                    st.session_state.admin_page = total_pages
+                    st.rerun()
+
+            start_idx = (st.session_state.admin_page - 1) * page_size
+            end_idx = min(start_idx + page_size, total_items)
+
+            st.success(
+                f"총 **{total_items:,}**개 단어 중 **{start_idx + 1:,} ~ {end_idx:,}**번째 표시 (페이지 **{st.session_state.admin_page} / {total_pages}**)"
+            )
+
+            page_items = filtered[start_idx:end_idx]
+
+            if view_mode == "빠른 표 (테이블)":
+                table_rows = []
+                for w in page_items:
+                    table_rows.append({
+                        "Level": f"L{w.get('level', selected_level)}",
+                        "ID": w.get("id"),
+                        "단어": w.get("word"),
+                        "품사": w.get("pos"),
+                        "뜻": w.get("meaning"),
+                        "미국식 발음": w.get("phonetics", {}).get("us", "-"),
+                        "영국식 발음": w.get("phonetics", {}).get("uk", "-"),
+                        "예문(EN)": w.get("example_en", "-"),
+                        "해석(KO)": w.get("example_ko", "-"),
+                    })
+                st.dataframe(table_rows, use_container_width=True, height=600)
+            else:
+                for idx, item in enumerate(page_items):
+                    item_lvl = item.get("level", selected_level)
+                    with st.expander(f"**[{item.get('id')}] {item.get('word')}** (Level {item_lvl}, {item.get('pos')}) - {item.get('meaning')}"):
+                        c1, c2 = st.columns([2, 2])
+                        with c1:
+                            st.write(f"**ID:** `{item.get('id')}` | **레벨:** `Level {item_lvl}`")
+                            st.write(f"**미국식 발음:** `{item.get('phonetics', {}).get('us', '-')}`")
+                            st.write(f"**영국식 발음:** `{item.get('phonetics', {}).get('uk', '-')}`")
+                            
+                            entry_id = item.get("id", "")
+                            local_us = AUDIO_DIR / f"level_{item_lvl}" / f"{entry_id}_us.mp3"
+                            local_uk = AUDIO_DIR / f"level_{item_lvl}" / f"{entry_id}_uk.mp3"
+
+                            us_audio = item.get("audio", {}).get("us")
+                            uk_audio = item.get("audio", {}).get("uk")
+
+                            if local_us.exists():
+                                st.audio(str(local_us), format="audio/mp3")
+                                st.caption(f"US (Local File): {local_us.name}")
+                            elif us_audio:
+                                st.audio(us_audio, format="audio/mp3")
+                                st.caption(f"US CDN: {us_audio}")
+
+                            if local_uk.exists():
+                                st.audio(str(local_uk), format="audio/mp3")
+                                st.caption(f"UK (Local File): {local_uk.name}")
+                            elif uk_audio:
+                                st.audio(uk_audio, format="audio/mp3")
+                                st.caption(f"UK CDN: {uk_audio}")
+                                
+                        with c2:
+                            st.markdown(f"**예문 (EN):** {item.get('example_en', '-')}")
+                            st.markdown(f"**해석 (KO):** {item.get('example_ko', '-')}")
+                            if item.get("synonyms"):
+                                st.caption(f"유의어: {', '.join(item['synonyms'])}")
+                            if item.get("antonyms"):
+                                st.caption(f"반의어: {', '.join(item['antonyms'])}")
     else:
         st.warning(f"Level {selected_level} 데이터 파일이 없습니다. 먼저 빌더를 실행하세요.")
 
