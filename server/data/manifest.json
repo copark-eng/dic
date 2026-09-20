@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-20T02:38:43.174830+00:00",
+  "updated_at": "2026-09-20T02:43:17.210972+00:00",
   "levels": {
     "1": {
       "name": "기초",
@@ -34,9 +34,9 @@
       "code": "L4",
       "total_words": 4500,
       "file": "level_4.json",
-      "file_size_bytes": 2919592,
-      "sha256": "85bcb1cacfa06072cb13122016586faa99a3400b77ef7548de476fbb261286d4",
-      "updated_at": "2026-09-20T00:39:06.916846+00:00"
+      "file_size_bytes": 2962030,
+      "sha256": "5f8969559e47f30774c0f2895c77976756edfab54629cbb1f3a57987612be677",
+      "updated_at": "2026-09-20T02:43:17.192073+00:00"
     },
     "5": {
       "name": "TOEIC 750",
