@@ -21,8 +21,10 @@ st.set_page_config(
 )
 
 BASE_DIR = Path(__file__).resolve().parent
+SERVER_DIR = BASE_DIR
 DATA_DIR = BASE_DIR / "data"
 RAW_DIR = BASE_DIR / "raw"
+AUDIO_DIR = BASE_DIR / "audio"
 
 LEVEL_NAMES = {
     1: "Level 1 (기초 1,000)",
@@ -118,8 +120,8 @@ elif menu == "🔍 단어 검색 및 검수":
                     st.write(f"**영국식 발음:** `{item.get('phonetics', {}).get('uk', '-')}`")
                     
                     entry_id = item.get("id", "")
-                    local_us = SERVER_DIR / "audio" / f"level_{selected_level}" / f"{entry_id}_us.mp3"
-                    local_uk = SERVER_DIR / "audio" / f"level_{selected_level}" / f"{entry_id}_uk.mp3"
+                    local_us = AUDIO_DIR / f"level_{selected_level}" / f"{entry_id}_us.mp3"
+                    local_uk = AUDIO_DIR / f"level_{selected_level}" / f"{entry_id}_uk.mp3"
 
                     us_audio = item.get("audio", {}).get("us")
                     uk_audio = item.get("audio", {}).get("uk")
