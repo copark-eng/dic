@@ -1,0 +1,69 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-09-20T00:39:07.837354+00:00",
+  "levels": {
+    "1": {
+      "name": "기초",
+      "code": "L1",
+      "total_words": 1000,
+      "file": "level_1.json",
+      "file_size_bytes": 626860,
+      "sha256": "d5732c0874bb956eac947133503c1ae9b451b2ca7c8223a3d40b7889a812b07d",
+      "updated_at": "2026-09-20T00:39:05.629827+00:00"
+    },
+    "2": {
+      "name": "중등",
+      "code": "L2",
+      "total_words": 2000,
+      "file": "level_2.json",
+      "file_size_bytes": 1273821,
+      "sha256": "dc7cea50a153978dbedbec35002fbaa539a7230179b82861c038c124a8b603bd",
+      "updated_at": "2026-09-20T00:39:05.762833+00:00"
+    },
+    "3": {
+      "name": "수능기본",
+      "code": "L3",
+      "total_words": 3000,
+      "file": "level_3.json",
+      "file_size_bytes": 1938538,
+      "sha256": "ccc9750d0824d0373c8bb55d1a29131ad70a1a87fc8fc2b5c1a34949ba6f3ef3",
+      "updated_at": "2026-09-20T00:39:06.312814+00:00"
+    },
+    "4": {
+      "name": "수능심화",
+      "code": "L4",
+      "total_words": 4500,
+      "file": "level_4.json",
+      "file_size_bytes": 2919592,
+      "sha256": "85bcb1cacfa06072cb13122016586faa99a3400b77ef7548de476fbb261286d4",
+      "updated_at": "2026-09-20T00:39:06.916846+00:00"
+    },
+    "5": {
+      "name": "TOEIC 750",
+      "code": "L5",
+      "total_words": 4000,
+      "file": "level_5.json",
+      "file_size_bytes": 2607002,
+      "sha256": "5e63886df6df3fb6105d3fb900c39738f4a1689b6c58b55a4824fcd5f1263742",
+      "updated_at": "2026-09-20T00:39:07.150847+00:00"
+    },
+    "6": {
+      "name": "TOEIC 900",
+      "code": "L6",
+      "total_words": 5500,
+      "file": "level_6.json",
+      "file_size_bytes": 3590587,
+      "sha256": "3cdf82b1720252b536e56b71f92350b8242970db4f7aa86a6d433331d71a5213",
+      "updated_at": "2026-09-20T00:39:07.454844+00:00"
+    },
+    "7": {
+      "name": "TOEIC 990",
+      "code": "L7",
+      "total_words": 6500,
+      "file": "level_7.json",
+      "file_size_bytes": 4234379,
+      "sha256": "cb8ea6270641aaa9f9408765b14d227ac45bb5f463968f5f8516abd08ba21530",
+      "updated_at": "2026-09-20T00:39:07.831405+00:00"
+    }
+  }
+}

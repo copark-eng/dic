@@ -1,0 +1,5500 @@
+abnormality,병신
+adaptive,적합한
+approximation,근사치
+categorize,분류하다
+causal,원인의
+causation,인과관계
+characterization,특징 부여
+conditional,조건부의
+constrain,압박하다
+cumulative,누적적
+description,서술
+descriptive,기술적인
+developed,선진의
+deviation,벗어남
+during,의동안
+efficacy,효능
+encode,암호화하다
+event,큰 사건
+exemplify,예시하다
+explain,덧붙이기
+explanatory,해석상의
+fact,일
+geographical,지라적인
+hierarchical,성직자단
+horizontal,수평선
+implicit,내재하는
+implicitly,넌지시
+inconsistent,일치하지 않는
+independently,독립하여
+inference,추론
+initiation,입문
+instability,불안정
+interested,흥미를 가진
+interviewee,인터뷰 당하는사람
+interviewer,탐방기자
+intrinsic,본래 갖추어진
+introduce,끼워넣다
+localized,지방적인
+locally,장소상으로
+meaning,뜻
+mediate,중개의
+methodological,방법론적
+modern,근대적인
+modernity,현대성
+modernization,근대화
+negatively,소극적으로
+ok,승인필
+optimal,최상의
+positively,맹세코
+progression,수열
+proportional,비례적
+quantitative,양적
+randomize,무작위화하다
+rationality,도리를 알고 있음
+reliance,신뢰
+resistant,레지스탕스의 일원
+restrictive,옹졸
+sensory,지각의
+should,일 것이다
+similar,비슷한
+societal,사회적인
+statistically,통계항목
+stimulation,진흥
+substantive,독립의
+terminology,술어
+unclear,아슴하다
+unrelated,언급되지 않은
+unstable,변하기쉬운
+validate,비준하다
+variance,상위
+archdeaconry,그직
+thither,그쪽에
+autodafe,그처형
+inunction,그치료법
+perpetually,그칠사이 없이
+afteryears,그후의 세월
+extremum,극값
+codeclination,극거리
+aurora,극광
+auroral,극광의
+resound,극구 칭찬하다
+trowel,극구 칭찬하다
+pogo,극궤도 관측 위성
+selfdenying,극기심 있는
+southernmost,극남의
+maximization,극대화
+consumedly,극도로
+hardcore,극도로 노골적인
+overinflation,극도로 부풀리기
+frantically,극도로 흥분하여
+consummate,극도의
+unmeasurable,극도의
+simplism,극도의 단순화
+revulsion,극도의 불쾌감
+heebiejeebies,극도의 신경 과민
+cafard,극도의 우울
+parsimony,극도의 절약
+feaf,극동 공군
+fen,극동 방송망
+paradise,극락
+elysium,극락
+imperceptibility,극미
+micromesh,극미 그물코의
+animalculism,극미 동물설
+microchip,극미 박편
+animalcule,극미동물
+indivisible,극미분자
+submicroscopic,극미소 물체의
+microscopic,극미의
+ical,극미의
+infinitesimal,극미한
+vincible,극복할 수 있는
+impassable,극복할수 없는
+invincible,극복할수 없는
+negotiable,극복할수 있는
+hyperborean,극북의
+qclearance,극비 문서 취급인가
+beggary,극빈
+climax,극상
+nonpareil,극상품
+negativistic,극성
+polarity,극성
+ministate,극소 국가
+microlens,극소 사진 촬영용 렌즈
+nanosurgery,극소수술
+enormity,극악
+villainy,극악
+photodrama,극영화
+birchism,극우 반공주의
+polar,극의
+scenic,극의
+stagecraft,극작법
+dramaturgic,극작의
+loge,극장 간막이
+rialto,극장가
+galleryite,극장의 꼭대기 관락석의 관람객
+savoyard,극장의 단골 손님
+cryocable,극저온 지하 전기 케이블
+cryogenic,극저온에 맞는
+scena,극적 독창곡
+tableau,극적 장면
+solstice,극점
+hospitality,극진
+friendliness,극진
+hospitable,극진하다
+microwave,극초단파
+hypersonic,극초음속의
+acme,극치
+culmination,극치
+echinoderm,극피동물
+capitally,극형으로
+dramatize,극화하다
+theatricalize,극화하다
+adynamic,근 무력증
+kinesthesia,근각
+groundless,근거 없는
+ungrounded,근거 없는
+potshot,근거리 사격
+baseless,근거없는
+unfounded,근거없는
+grounded,근거있는
+syssarcosis,근골연결
+suburbicarian,근교 주택 지구의
+rhizosphere,근권
+yesteryear,근년
+chard,근대
+nightingale,근대 간호학 확립의 공로자
+redbrick,근대 대학
+neolatin,근대 라틴어 로만스 말
+pantaloon,근대 무언극의
+modernistic,근대 적인
+modernism,근대어법
+aggiornamento,근대화
+modernize,근대화하다
+rocky,근들근들하는
+latterday,근래의
+thews,근력
+emblements,근로 과실
+servitor,근로 장학생
+clubroot,근류병
+nodulation,근립착생
+fascia,근막
+assiduity,근면
+diligence,근면
+painstaker,근면가
+assiduous,근면하다
+hardworking,근면하다
+industrious,근면하다
+fibril,근모
+fibrillary,근모의
+rota,근무명부
+cornerstone,근본 이념
+primal,근본의
+fundamentalism,근본주의
+closeness,근사
+convergence,근사 현상
+nde,근사사체험
+twinship,근사성
+gloriously,근사하게
+marvie,근사하다
+marvy,근사하다
+approximate,근사한
+splendid,근사한
+exiguity,근소
+fewness,근소
+littleness,근소
+myopia,근시
+myopy,근시
+nearsightedness,근시
+nearsighted,근시의
+shortsighted,근시의
+indiscretion,근신하지 않는 행위
+perturbative,근심
+cares,근심걱정
+sobriety,근엄
+stern,근엄하다
+affinity,근연
+royalist,근왕의
+numen,근원력
+fontal,근원을 이루는
+elemental,근원적인
+perilune,근월점
+grenadier,근위 보병 제1연대의 병사
+blues,근위기병 제 3연대
+kinesthetic,근육 운동 감각의
+crick,근육경련
+intramuscular,근육내의
+inositol,근육당
+muscular,근육의
+kink,근육의 경련
+kinky,근육의 경련
+inotropic,근육의 수축을 지배하는
+incoordination,근육의 협동 운동실조
+musclebound,근육이 굳어버린
+muscularity,근육이 억셈
+rhizic,근의
+apsis,근일
+oddcomeshortly,근일
+perihelion,근일점
+anomalistic,근일점의
+grounding,근저
+pedestal,근저
+emg,근전 기록 장치
+electromyogram,근전도
+electromyography,근전도 검사법
+eradication,근절
+extirpation,근절
+eradicative,근절시키는
+uproot,근절시키다
+exterminator,근절자
+exterminatory,근절적인
+eradicant,근절제
+hydraheaded,근절하기 어려운
+hydra,근절하기 어려운 것
+extirpative,근절하는
+deracinate,근절하다
+eradicate,근절하다
+exterminate,근절하다
+extirpate,근절하다
+ineradicable,근절할 수 없는
+inextirpable,근절할 수 없는
+exterminable,근절할 수 있는
+eradicable,근절할 수 있는
+periapsis,근점
+appulse,근접
+flyby,근접통과
+proxemics,근접학
+coadjacent,근접한
+rhizopod,근족충류의 동물
+perigee,근지점
+perigeal,근지점의
+perigean,근지점의
+intermarriage,근친결혼
+closecross,근친교접
+velamen,근피
+longshoreman,근해 어부
+banking,근해 어업
+solidness,귿음
+lines,글귀
+verses,글귀
+amphibology,글귀의 모호함
+gladiolus,글라디올러스
+glasphalt,글라스팔트
+glassivation,글라시베이션
+glassine,글라신지
+glauce,글라우케
+glyconic,글라이콘 시체 글라이콘 시체시
+bareknuckled,글러브를 끼지 않은
+glazed,글레이즈를 바른
+globalist,글로벌리스트
+globulin,글로불린
+globin,글로빈
+gloucester,글로스터치즈
+gloxinia,글록시니아
+glucinum,글루시늄
+gluon,글루온
+glucagon,글루카곤
+glucoreceptor,글루코리셉터
+glucoside,글루코사이드
+glutamine,글루타민
+glutathione,글루타티온
+gluten,글루텐
+glissade,글리사드
+glissando,글리산도의
+glycerol,글리세롤
+glycerinate,글리세린으로 처리하다
+glyceryl,글리세릴기의
+glycerin,글리신
+glycine,글리신
+glia,글리아
+gliadine,글리아딘
+glycogen,글리코겐
+glycogenesis,글리코겐 합성
+glycogenic,글리코겐의
+glycoside,글리코시드
+glycol,글리콜
+glycolic,글리콜의
+scrabble,글씨 채우기 게임
+unwritten,글씨가 씌어 있지 않은
+cacographer,글씨를 잘 틀리는 사람
+calligraphy,글씨체
+sentences,글월
+literate,글을 아는
+literalize,글자 뜻대로 해석하다
+rebus,글자 맞추기
+logomachy,글자 맞추기 놀이
+scraper,글자 지우개
+literality,글자대로의 해석
+illiterate,글자를 모르는
+illiteracy,글자를 읽고 쓸줄 모름
+anagram,글자바꿈수수께끼
+aitch,글자발음
+lettering,글자배치
+hornbook,글자판
+scrape,긁어 모으다
+farraginous,긁어 모은
+scraping,긁어 모은것
+claw,긁어모으다
+boomerang,긁어부스럼
+aurum,금
+goldsmith,금 세공인
+emery,금강사
+diamondcutter,금강석을 다듬는 사람
+foxtail,금강아지풀
+quinine,금계랍
+pheasant,금계랍
+safebreaking,금고 털이
+cracksman,금고 털이 도둑
+safealarm,금고용
+chryselephantine,금과 상아로 만든
+brasswind,금관악기의
+ingot,금괴로 만들다
+timocracy,금권
+plutodemocracy,금권 민주 정치
+plutocracy,금권 정치
+snob,금권주의자
+kumquat,금귤
+dutchmansbreeches,금낭화류의 물
+gilt,금니
+forbidden,금단의
+bullion,금덩어리
+baldachin,금란
+samite,금란
+nasturtium,금련화과
+prohibition,금령
+chrysoberyl,금록석
+iguanodon,금룡
+globeflower,금매화
+gilding,금박 입히기
+mordant,금박 점착제
+goldbeating,금박 제조
+gilder,금박공
+goldbeater,금박공
+titling,금박으로 제목을 박기
+bespangle,금박으로장식하다
+estoppel,금반언
+estop,금반언으로 금지하다
+fairhaired,금발의
+blondie,금발의 여자
+goldilocks,금발의사람
+hotbox,금방 달아오르는 여자
+ragwort,금불초
+fleawort,금불초 무리
+goldfish,금붕어
+antirrhinum,금붕어 꽃
+aurify,금빛으로 물들이다
+aureate,금빛의
+metallography,금상학
+epigraphist,금석학자
+venus,금성
+goldwork,금세공
+cyclograph,금속 경도 측정기
+mosfet,금속 산화막 반도체 전계 효과 트랜지스터
+palladium,금속 원소의 하나
+sterilized,금속 탐지 검사를 받은 사람 외에는 탑승 금지의
+fractography,금속 파면 등의 현미경 관찰
+metallograph,금속 표면 확대도
+tubed,금속제 호흡관을 댄
+carbonyl,금속카르보닐
+metallization,금속화
+metallicize,금속화하다
+metallize,금속화하다
+calx,금속회
+calendula,금송화
+bestialize,금수화하다
+fasting,금식
+tinsel,금실을 넣은 얇은 천
+orphrey,금실자수
+fishin,금어 구역 설정 항의 데모
+snapdragon,금어초
+maxims,금언집
+antismoking,금연을 지향하는
+nonsmoking,금연의
+eschscholtzia,금영화
+fridays,금요일마다
+abstinence,금욕
+stoical,금욕의
+stoically,금욕적으로
+monastically,금욕적으로
+monastic,금욕적인
+abstinent,금욕적인
+stoic,금욕주의자
+taurus,금우궁
+financier,금융업자
+auriferous,금을 산출하는
+goldfilled,금을 입힌
+auric,금의
+aurous,금의
+crannied,금이 난
+gapped,금이 많은
+notchy,금이 있는
+miniate,금자로 장식하다
+besom,금작화
+broom,금작화
+broomrape,금작화 등의 뿌리에 기생하는 식물의 총칭
+greenweed,금작화류
+dyersbroom,금작화의 일종
+marigold,금잔화
+teller,금전 출납 계원
+monetary,금전상의
+moneyed,금전의
+monied,금전의
+pecuniary,금전의
+dollarwise,금전적으로
+illicit,금제의
+interdictory,금제의
+prohibitory,금제의
+contraband,금제품
+lyrebird,금조
+moneywort,금좁쌀풀류의 덩굴풀
+temperance,금주
+abstain,금주가
+waterdrinker,금주가
+nondrinking,금주의 술을 마시지 않는
+pussyfoot,금주주의자
+doping,금지 약물 복용
+injunction,금지명령
+nono,금지사항
+proscriptive,금지의
+dont,금지조항서
+prohibitive,금지하는
+forbidder,금지하는 사람
+interdiction,금치산선고
+blowfly,금파리
+bluebottle,금파리
+troy,금형
+rutile,금홍석
+ocher,금화
+aftertime,금후
+hoick,급각도로 올라가다
+dogleg,급각도로 휜
+eclampsia,급간
+stuka,급강하 폭격기
+divebomb,급강하폭격하다
+quickness,급격
+sharpiy,급격하게
+sunddenness,급격함
+highpitched,급경사의
+booming,급등하는
+remuneration,급료
+saveasyouearn,급료 공제 저금
+payoff,급료 지불
+payroll,급료 지불부
+chutes,급류
+rapids,급류
+torrential,급류의
+exigency,급무
+exigent,급박
+imminence,급박하다
+urgency,급박하다
+shakeup,급변화
+cheque,급부
+courier,급사
+escarpment,급사면
+headwaiter,급사장
+zoom,급상승
+chandelle,급상승 방향전환
+haste,급속
+rapidity,급속
+deepfreeze,급속냉동
+allegro,급속도로
+galloping,급속도의
+drinker,급수기
+waterer,급수기
+waterworks,급수소
+hydrant,급수전
+pounce,급습
+stormer,급습자
+blitz,급습하다
+swoop,급습하다
+companies,급식
+subsist,급양하다
+godevil,급유관 청소기
+bowser,급유용 트럭
+metastasis,급전환
+snub,급정거
+screech,급정거 소리
+foudroyant,급증의
+ultraliberal,급진적 자유주의의
+radiclib,급진적 자유주의자
+radicalize,급진적으로 하다
+dynamitism,급진적혁명주의
+leftofcenter,급진지지의
+haulabout,급탄선
+scamper,급하게 훑어 읽기
+hasty,급한
+presto,급한
+affirmation,긍
+litmusless,긍정도 부정도 안하는
+affirmative,긍정문
+affirmatory,긍정의
+tinge,기
+tint,기
+mist,기
+bunting,기 만드는 천
+vertiport,기 이착륙장
+unquailing,기가 꺾이지 않는
+chapfallen,기가 꺾인
+dispirited,기가 꺾인
+pshaw,기가 막혀!
+despondent,기가 죽은
+heap,기가 푹 꺽이다
+brokendown,기가꺽인
+quail,기가죽다
+gigaton,기가톤
+cavalry,기갑부대
+highspirited,기개 있는
+outtray,기결함
+machining,기계 가공
+jiggerman,기계 놀로공
+gadgety,기계 만지기를 좋아하는
+gadgeteer,기계 만지기를 좋아하는 사람
+retool,기계 설비를 재정비하다
+mechanoreceptor,기계 수용기
+mechanotherapy,기계 요법
+televox,기계 인간
+outmachin,기계 장비면에서  능가하다
+mechanician,기계 조립공
+mechanochemistry,기계 화학
+machinelike,기계같은
+machineman,기계공
+fandangle,기계기구
+mechanist,기계기사
+mechanically,기계로
+machinemade,기계로 만든
+enginery,기계류
+exploded,기계를 분해하여 부품의 상호 관계를 나타내는
+instrumentation,기계사용
+dynamoelectric,기계에너지를 전기에너지로 바꾸는
+appurtenance,기계장치
+rote,기계적 기억
+harddock,기계적 조작에 의해 도킹하다
+clone,기계적으로 행동하는 사람
+automaton,기계적으로행동하는사람
+routineer,기계적인 일만 하는 사람
+mechanics,기계학
+mechanistic,기계학적인
+mechanization,기계화
+mechs,기계화 부대
+mechanize,기계화하다
+highheartness,기고 만장
+triumphantly,기고 만장하여
+highheartly,기고 만장해서
+antiquated,기고하다
+backbone,기골
+backboned,기골이 있는
+handicraftsman,기공
+groundbreaking,기공
+pore,기공
+stigma,기공
+stoma,기공
+vesicle,기공
+skewback,기공석
+trachea,기관
+windpipe,기관
+tracheotomy,기관 절제술
+gapeworm,기관개취층
+greaser,기관사
+cab,기관사실
+stokehold,기관실
+organically,기관에 의하여
+tracheitis,기관염
+bronch,기관지
+bronchia,기관지
+bronchium,기관지
+bronchus,기관지
+bronchopneumonia,기관지 페렴
+bronchiectasis,기관지 확장증
+bronchoscope,기관지경
+bronchitis,기관지염
+bronchitic,기관지염성의
+bronchial,기관지의
+bronchotomy,기관지절개술
+puffpuff,기관차
+wildcat,기관차
+doubleheader,기관차를 둘 단 열차
+baroque,기괴한
+monstrous,기괴한
+finesse,기교
+ballute,기구 낙하산
+ballooning,기구 비행 경기
+satelloon,기구 위성
+aerostatics,기구 항공학
+defat,기권
+abstention,기권
+renounce,기권하다
+famine,기근
+scarcity,기근
+fundraiser,기금 조달자
+unctuous,기금같은
+endow,기금을기부하다
+agreeably,기꺼이
+cheerfully,기꺼이
+gladly,기꺼이
+willingly,기꺼이
+gratulate,기꺼이 맞이하다
+amenability,기꺼이 복종함
+snatch,기꺼이 응하다
+fain,기꺼이하는
+cinchonize,기나로 처리하다
+cinchona,기나수
+quinquina,기나수
+cinchonism,기나중독
+gosport,기내 통화관
+carryon,기내 휴대 수하물
+inbd,기내의
+festschrift,기념 논문집
+stela,기념 석주
+monumental,기념되는
+memento,기념물
+cenotaph,기념비
+pantheon,기념비가 있는 건물
+commemorative,기념우표
+memorialization,기념함
+urolagnia,기뇨증
+trailing,기는
+flagellum,기는 가지
+creeper,기는 것
+funetionalist,기능 주의자
+pressor,기능 촉진의
+dynapolis,기능도시
+beautility,기능미
+malfunction,기능부전
+insulinoma,기능성 췌도종양
+fuctionword,기능어
+deskill,기능을 시대에 뒤지게 하다
+functionate,기능을 하다
+guinea,기니
+guineaman,기니 무역선
+agouti,기니아픽
+cavy,기니피그
+longsome,기다란
+longspun,기다란
+longeared,기다란 귀를 가진
+ivory,기다란 앞니
+expectant,기다리고 있는
+longawaited,기다린 지 오랜
+waiting,기다림
+anecdote,기담
+recline,기대게하다
+incumbent,기대는
+leaner,기대는 사람
+recliner,기대는 사람
+expectative,기대되는 것
+treacherous,기대에 어긋나는
+onlooking,기대하는
+anticipant,기대한
+recumbent,기댄
+recumbency,기댐
+incubation,기도
+intercession,기도
+priedieu,기도대
+prayin,기도로 항의하는 집회
+psalmbook,기도문
+canticle,기도서성가
+gurdwara,기도소
+liturgist,기도식문 편집자
+oratory,기도실
+prayerful,기도에 열심인
+attempted,기도한
+christianism,기독교 교리
+demochristian,기독교 민주당원
+antichristian,기독교 반대자
+christianize,기독교 신자로 만들다
+phalangist,기독교 우파
+christless,기독교 정신에 어긋나는
+unchristian,기독교가 아닌
+christendom,기독교계
+christian,기독교도
+nazarene,기독교도
+rayah,기독교도
+christianly,기독교도다운
+christianization,기독교화
+mobilization,기동
+troops,기동대
+impetus,기동력
+mounted,기동력이 있는
+maneuverability,기동성
+tenstrike,기둥 10개를 전부 넘어뜨리기
+knop,기둥 머리
+systyle,기둥 사이가 약간 좁은
+gigolo,기둥 서방
+chapiter,기둥머리
+gorgein,기둥몸과 대접받침과의 접합부
+intercolumniation,기둥배치
+intercolumnar,기둥사이의
+underprop,기둥으로 받치다
+banderole,기드림
+streamer,기드림
+aerometer,기량계
+greylag,기러기
+honk,기러기 우는 소리
+chevalet,기러기발
+graylag,기러기의 일종
+goahead,기력
+flabby,기력없는
+renovate,기력을 회복시키다
+pithless,기력이 없는
+plucky,기력이 좋은
+crossroad,기로
+archival,기록 보관소의
+rapporteur,기록계
+registrary,기록담당자
+archivist,기록보관인
+blotter,기록부
+registrar,기록원
+scorekeeper,기록원
+chronicler,기록자
+paravane,기뢰 방어기
+yawnful,기루하게 하는
+airflow,기류
+airstream,기류
+damper,기를 꺽는 석
+damp,기를 꺽다
+dash,기를 꺽다
+desperation,기를 씀
+discouragement,기를 죽이는 것
+struggling,기를쓰는
+papillote,기름 먹인 종이
+olier,기름 붓는사람
+oily,기름같이
+fatty,기름기가 많은
+fattiness,기름기가 많음
+oilstone,기름숫돌
+saute,기름에 살짝 튀긴
+deepfried,기름에 튀긴
+fried,기름에 튀긴
+braise,기름에살짝튀긴후뭉근불에끓이다
+panbroll,기름을 거의 치지 않은 프라이팬을 굽다
+oleiferous,기름을 내는
+refuel,기름을 붓다
+flench,기름을 뺨다
+flense,기름을 뺨다
+oilfired,기름을 연료로 쓰는
+lardy,기름이 많은
+greaseproof,기름이 안배는
+oilless,기름이 없는
+greasily,기름지게
+fatten,기름지게 하다
+fertile,기름지다
+greasy,기름진
+lubricator,기름치는 기구
+oilcan,기름치는 기구
+longish,기름하다
+commend,기리다
+camelopard,기린
+kylin,기린
+rising,기립
+troophorse,기마
+outrunnet,기마 수행자
+postrider,기마 우편 집배인
+yeoman,기마 의용병
+cavalcade,기마대
+prancer,기마사관
+ahorse,기마의
+equestrian,기마의
+yeomanry,기마의용
+vedette,기마초병
+spanking,기막히게 좋은
+kneeslapper,기막힌 농담
+beguilement,기만
+camouflage,기만
+cozenage,기만
+flam,기만
+fraudulence,기만
+fraudulency,기만
+humbuggery,기만
+delusive,기만적인
+beguile,기만하다
+narcolepsy,기면 발작
+proxies,기명 투표
+writein,기명 투표
+registered,기명의
+inscribe,기명하다
+gigmill,기모 공장
+oddness,기묘
+fantastic,기묘한
+quizzical,기묘한
+squirrelly,기묘한
+stomstal,기문의
+odor,기미
+savor,기미
+smack,기미
+speckle,기미
+tincture,기미
+astute,기민한
+dexterous,기민한
+incisive,기민한
+sagacious,기민한
+shrewd,기민한
+celerity,기민함
+leakproof,기밀 누설 방지의
+declassify,기밀 리스트에서 빼다
+reclassify,기밀 분류를 바꾸다
+secrecy,기밀 엄수
+unclassified,기밀 취급을 받지 않은
+classified,기밀 취급의
+confidentiality,기밀성
+confidential,기밀의
+restricted,기밀의
+bedrock,기반
+newness,기발
+fanciful,기발한
+fantasmo,기발한
+vagarious,기발한
+quirk,기벽
+strongminded,기벽 있는
+tidings,기별
+cavalryman,기병
+horseman,기병
+cornet,기병대 기수
+squadron,기병대대
+carbine,기병총
+notation,기보법
+undulations,기복
+corpus,기본금
+rudimentary,기본의
+suchness,기본적 성질
+cardinal,기본적인
+meatandpotatoes,기본적인
+nutsandbolts,기본적인
+nittygritty,기본적인 사실
+chantry,기부
+endowment,기부
+subbase,기부
+rimfire,기부 가장 자리에 기폭약이 있는
+whipround,기부 권유
+disendow,기부 재산을 몰수하다
+purse,기부금
+uncanny,기분 나쁜
+eeriness,기분 나쁨
+distraction,기분 전환
+pastime,기분 전환
+diverting,기분 전환이 되는
+cheery,기분 좋은
+cozy,기분 좋은
+gemutlich,기분 좋은
+uncouth,기분나뿐
+unearthly,기분나쁜
+anodyne,기분을 누구러뜨리는
+comforting,기분을 돋우는
+exhilarant,기분을 상쾌하게 하는 것
+tiff,기분을 상하다
+beguiling,기분을 전환시키는
+temperamental,기분의
+exhilarated,기분이 들뜬
+refresh,기분이 상쾌해지다
+cheeriness,기분이 썩 좋음
+splenetic,기분이 언짢은
+trippy,기분이 좋아진
+boon,기분이 좋은
+louring,기분이 좋지않은
+humorly,기분이해서
+whimsical,기분적인
+cheerily,기분좋게
+nuzzle,기분좋게 자다
+nestle,기분좋게 자리잡다
+balmy,기분좋은
+caressive,기분좋은
+heartwarming,기분좋은
+pleasurable,기분좋은
+conviviality,기분좋음
+niceness,기분좋음
+coprophilia,기분증
+gibson,기브슨
+gibeon,기브온
+gibeonit,기브온 주민
+ghibli,기블리
+entrancement,기뻐 어쩔 줄 모름
+rapturous,기뻐날뛰는
+stoked,기뻐날뛰는
+ravishment,기뻐날뜀
+carol,기뻐노래하다
+gratified,기뻐하는
+rejoicing,기뻐하여
+unpleased,기뻐하지 않는
+joyously,기쁘게
+jubilantly,기쁨에 넘쳐
+gratulant,기쁨을 나타내는
+paean,기쁨의 노래
+euphrosyne,기쁨의여신
+joyless,기쁨이 없는
+caballero,기사
+cavalier,기사
+knight,기사
+knightly,기사다운
+knightage,기사단
+chivalry,기사도
+knighthood,기사도
+meteorology,기상
+reveille,기상 나팔
+loadmaster,기상 수송원
+meteorograph,기상 자동 기록기
+crotcheteer,기상가
+atmospherium,기상변화 투영 장치
+meteoric,기상상의
+tacan,기상용 단거리 항법장치
+inflight,기상의
+meteorological,기상의
+mindshattering,기상천외의
+outofthisworld,기상천외의
+meteorologist,기상학자
+parasitism,기생
+parasite,기생 동물
+saprophyte,기생 식물
+monticule,기생 화산
+parasitic,기생물의
+parasitical,기생물의
+aerophyte,기생식물
+demoiselle,기생잠자리
+tickseed,기생초
+helminth,기생충
+helminthiasis,기생충병
+vermination,기생충병
+verminosis,기생충병
+worms,기생충병
+parasitology,기생충학
+steamboat,기선
+steamship,기선
+preconceived,기성
+handmedown,기성복
+pretaporter,기성복
+decriminalize,기소대상에서 제외하다
+indictable,기소되어야 할
+indictor,기소자
+implead,기소하다
+indict,기소하다
+rider,기수
+consummation,기수
+standardbearer,기수
+ensigncy,기수의 역할
+postilion,기수장
+boarding,기숙
+livingin,기숙
+housemother,기숙사의 여사감
+boarder,기숙생
+artificer,기술가
+technically,기술적으로
+sneakraiding,기습
+surprisal,기습
+blindside,기습 공격을 감행하다
+sneakraid,기습 공습
+parachronism,기시 착오
+aspirate,기식음으로 발음하다
+breathy,기식음의
+sponge,기식하다
+foundling,기아
+instrumentalist,기악가
+drafting,기안
+baro,기압
+allobar,기압 등변화선
+pulsometer,기압 양수기
+barometry,기압 측정법
+barometer,기압계
+manometer,기압계
+col,기압골
+isallobar,기압등변화선
+barometric,기압상의
+millibar,기압의 단위
+ridge,기압의 봉우리
+creeping,기어 돌아다니는
+climber,기어 오르는 식물
+unscalable,기어 오를 수 없는
+climbing,기어 오름
+clamber,기어 올라가다
+crawlingly,기어가듯이
+repent,기어다니는
+reptile,기어다니는
+scansorial,기어오르기에 알맞은
+scandent,기어오르는
+engram,기억 심상
+earom,기억되어 있는 데이터를 전기적으로 바꿔 써 넣을 수 있는 롬
+unremenbered,기억되지 않은
+remembrance,기억력
+retentivity,기억력
+recollective,기억력이 있는
+retentive,기억력이 좋은
+parrotfashion,기억만으로
+mnemon,기억소
+mnemonics,기억술
+mnemonic,기억술의
+ransack,기억을 더듬다
+rememberable,기억할 수 있는
+agrobusiness,기업 농업
+ci,기업 인식
+decartelization,기업 집중 배제
+trustify,기업 합동으로 하다
+enterpriser,기업가
+intrapreneurship,기업내 기업제도
+lan,기업내 정보 통신망
+incompany,기업내의
+syndicate,기업연합
+businesses,기업체
+craftsman,기예가
+tile,기와
+tilery,기와 공장
+tiling,기와 이기
+tiler,기와 이는 사람
+tegular,기와의
+imbrication,기왓장 처럼 겹친 모양
+forgone,기왕의
+guyot,기요
+appointing,기용
+alarmism,기우
+wobble,기우뚱거리다
+comatose,기운 없이 졸리는
+frisky,기운 좋게 뛰어다니는
+exhilarative,기운나게 하는
+invigorating,기운나게 하는
+invigorate,기운나게 하다
+refect,기운나게 하다
+quickening,기운을 돋우는
+invigorator,기운을 돋우어 주는 사람
+pep,기운을 북돋다
+inspiriting,기운을 북돋우는
+recreate,기운을 회복시키다
+elate,기운을북돋우다
+exhilarate,기운을북돋우다
+nervy,기운좋은
+animated,기운찬
+bouncing,기운찬
+chipper,기운찬
+dashing,기운찬
+pert,기운찬
+zippy,기운찬
+crank,기울기 쉬운
+cranky,기울기 쉬운
+metacenter,기울심
+declining,기울어
+aslant,기울어져
+atit,기울어져
+tippy,기울어지기 쉬운
+cockeyed,기울어진
+tipsy,기울어진
+declension,기욺
+snooper,기웃거리며 돌아다니는사람
+snoop,기웃거리며 서성대다
+conjuration,기원
+imprecation,기원
+invocation,기원
+supplication,기원
+optative,기원법
+zechariah,기원전 6세기의 예언자
+conjure,기원하다
+supplicate,기원하다
+oddly,기이하게
+geek,기인
+oddity,기인
+originality,기인
+kooky,기인의
+newsperson,기자 특파원 뉴스 캐스터
+giza,기자이집트 부근의 도시
+millet,기장
+mollet,기장
+insignia,기장
+regalia,기장
+skipper,기장
+emblematist,기장고안자
+registry,기재
+diapers,기저귀
+baseband,기저대역
+hooter,기적
+miraculously,기적적으로
+miraculous,기적적인
+emf,기전력
+electrophorus,기전반
+fainting,기절
+swoon,기절
+stupefied,기절초풍
+dumbfounded,기절초풍
+terminus,기점
+fiducial,기점의
+perissodactyla,기제류
+keynote,기조
+baselevel,기준면
+bofey,기준타수
+gin,기중기
+hoist,기중기
+cranage,기중기 사용권
+allin,기진맥진하여
+usedup,기진한
+habitude,기질
+proclivity,기질
+stroma,기질
+substrate,기질
+trainsick,기차 멀미하는
+entrain,기차에 태우다타다
+fuselage,기체
+gasdynamics,기체 역학
+aerostatic,기체 정역학의
+outgas,기체가 없어지다
+aerometry,기체측정
+underwork,기초 구조
+planting,기초 밑층
+olevel,기초 학력 시험
+substructure,기초공사
+underpin,기초를 보강하다
+superweapon,기초병
+basal,기초의
+basilar,기초의
+draftsman,기초자
+baseplate,기초판
+soleplate,기초판
+carabineer,기총병
+strafe,기총소사하다
+linctus,기침 물약
+cough,기침병
+antitussive,기침약
+tussive,기침의
+etceteras,기타 등등
+catalyst,기타리스트
+chatty,기탄없는
+fairminded,기탄없는
+unreservedly,기탄없이
+cylinder,기통
+steamcylinder,기통
+algolagnia,기통애
+cylindered,기통의
+praiseworthy,기특하다
+blowhole,기포
+bladdery,기포가 있는
+favolate,기포가 있는
+detonator,기폭약
+fuze,기폭장치
+priming,기폭제
+amorce,기폭제
+princely,기품 높은
+demure,기품 있는
+princeliness,기품이 있는 거동
+distingue,기품있는
+climactic,기풍
+ethos,기풍
+geep,기프
+evasion,기피
+skulk,기피하다
+evade,기피하다
+shirk,기피하다
+gosh,기필코
+geometrician,기하 학자
+geometric,기하적인
+geometer,기하학자
+geometry,기하학책
+indented,기한부
+whimsicality,기행
+travelogue,기행 영화
+anamorphosis,기형
+freakish,기형적인
+talipes,기형족
+teratoid,기형종의
+dysmorphology,기형학
+thymine,기호
+mendelevium,기호 , Mv , 번호 10
+logistic,기호 논리학
+symbolism,기호 사용
+semiolgy,기호 언어
+sigla,기호 일람표
+semiosis,기호 현상
+marked,기호가 붙은
+symbolization,기호로 나타냄
+symbology,기호론
+notational,기호법의
+assembler,기호변환 프로그램
+moneme,기호소
+semiology,기호학
+carburetion,기화
+etherealization,기화
+vaporization,기화
+carburetor,기화기
+vaporize,기화시키다
+volatilize,기화시키다
+opportunism,기회주의
+fencesitter,기회주의자
+opportunist,기회주의자
+temporizer,기회주의자
+climatograph,기후 그래프
+climatic,기후상의
+climatology,기후학
+climatologist,기후학자
+pneumothorax,기흉
+gambado,긴 각반
+sidewhiskers,긴 구레나룻
+longies,긴 내의
+chibouk,긴 담뱃대
+jointer,긴 대패
+pantalets,긴 드로즈
+bodkin,긴 머리 핀
+jobation,긴 사설
+pennon,긴 삼각기
+rebozo,긴 스카프
+stocking,긴 양말
+pilgrimage,긴 여행
+tirade,긴 열변
+settee,긴 의자
+gauntlet,긴 장갑
+jackboot,긴 장화
+calumet,긴 파이프
+pressing,긴급한
+intertwined,긴밀히
+instancy,긴박
+bolster,긴베개
+razorback,긴수염고래
+rorqual,긴수염고래
+indispensability,긴요성
+screed,긴이야기
+pendulum,긴자
+detente,긴장 완화
+entasia,긴장성
+bracing,긴장시키는
+tensional,긴장의
+tensive,긴장의
+constriction,긴축
+constringency,긴축하는
+gibbon,긴팔원숭이
+guideboard,길 안내판
+trackless,길 없는
+stray,길 잃은
+estray,길 잃은 가축
+gilgamesh,길가메시
+roadside,길가의
+gutterman,길가의 싸구려 장수
+lengthways,길게
+iliad,길게 계속되는것
+tippet,길게 늘어진 부분
+wiredrawn,길게 늘여진
+slit,길게 벤자리
+lengthen,길게하다
+balloonflower,길경
+longwool,길고 거친 털을 가진 양
+mortal,길고 긴
+ria,길고 좁은 쐐기형 후미
+epode,길고짧은행이번갈아있는서정시
+guild,길드
+guildsman,길드 조합원
+guildhall,길드회의소
+tamed,길든
+tamely,길들어서
+unbroken,길들여 지지 않은
+tameness,길들여져 있음
+taming,길들이기
+untamed,길들이지 않은
+tamable,길들일 수 있는
+domestication,길들임
+gilyak,길랴크족
+nurser,길러주는 사람
+guillotine,길로틴
+packsaddle,길마
+saddlebags,길마
+solen,길맛
+screeve,길바닥 화가 노릇을 하다
+gilbert,길버트
+euphobia,길보공포증
+farer,길손
+pathless,길없는
+pathbreaker,길을 트는 사람
+astray,길을잃어
+longways,길이로
+benighted,길이저문 ( 저물다 )
+clew,길잡이 실
+cynosure,길잡이가 되는 것
+auspice,길조
+dexter,길조의
+pulpity,길쭉하다
+slimjim,길쭉하다
+handpost,길표
+reeky,김나는
+stale,김빠진
+vapid,김빠진
+diminution,김소
+fescue,김의털
+sew,깁다
+stitch,깁다
+feathering,깃
+flagpole,깃대
+flagstaff,깃대
+indwell,깃들다
+featherbone,깃뼈
+lownecked,깃을 깊이 판
+imp,깃을 덧붙여주다
+plumage,깃털
+feathered,깃털 장식이 있는
+shuttlecock,깃털공
+fledge,깃털로 덮다
+plume,깃털로 장장식하다
+deplume,깃털을 잡아 뜯다
+fledgeling,깃털이 갓난새 새끼
+unfledged,깃털이 다 나지 않은
+fledged,깃털이 다 난
+callow,깃털이 아직 나지 않은
+plumose,깃털이 있는
+fullfledged,깃털이다난
+nib,깃펜끝
+gingham,깅엄
+deepen,깊게 하다
+profundity,깊은속
+incised,깊이 갈라진
+gash,깊이 갈라진 틈
+overpower,깊이 감동시키다
+scotia,깊이 도려낸 쇠시리
+ingrain,깊이 베어든
+ingrained,깊이 베어든
+deeprooted,깊이 뿌리 박힌
+affectionate,깊이 사랑하고 있는
+preoccupy,깊이 생각케 하다
+ruminative,깊이 생각하는
+contemplator,깊이 생각하는 사람
+chew,깊이 생각하다
+steeped,깊이 스며든
+unsound,깊이 안 든
+slushy,깊이 없고 감상적인
+wakeless,깊이 잠든
+deepset,깊이 파인
+waistdeep,깊이가 허리까지 차는
+fathomless,깊이를 알 수 없는
+croppy,까까머리
+shaveling,까까중
+adz,까뀌
+arista,까끄라기
+hummel,까끄라기 없는
+awned,까끄라기가 있는
+flagstone,까는 돌
+rug,까는 모피
+prigishness,까다로움
+annoyingly,까다롭게
+sourly,까다롭게
+idle,까닭 없는
+unproblished,까닭 없는
+unaccountable,까닭을 알 수 없는
+beardless,까락이 없는
+crow,까마귀
+corvus,까마귀속
+skyhigh,까마득히 높은
+batblind,까막눈이의
+bearberry,까막월귤
+coaly,까만
+decumulate,까먹어 없애다
+frollicking,까부는
+sportive,까부는
+frolicsomely,까불거리며
+frolicsome,까불거리며 뛰노는 흥겨운
+vivacity,까불기
+frolic,까불다
+rollick,까불며 날뛰다
+caw,까악까악
+croak,까악까악 울다
+until,까지
+backdate,까지 소급시키다
+chafe,까지다
+bracketing,까치발
+currant,까치밥나무
+ribes,까치밥나무속의 식물
+loosestrife,까치수염속
+whittle,깍다
+politely,깍듯이
+courtesely,깍듯이
+paring,깍은 부스러기
+cupule,깍정이
+shelling,깍지가기
+interdigitate,깍지끼다
+shellless,깍지없는
+husky,깍지의
+cheapener,깎아 주는 사람
+snick,깎아 치다
+shaving,깎아낸 부스러기
+chopping,깎아치기
+shave,깎은 부스러기
+splinter,깎이다
+picky,깐깐하다
+bobble,깐닥깐닥상하로움직이다
+screaming,깔깔 웃는
+chortle,깔깔 웃다
+cackle,깔깔웃다
+neatly,깔끔하게
+neatness,깔끔함
+filler,깔때기
+funnelform,깔때기 꼴의
+slighting,깔보는
+liner,깔쇠
+shelve,깔아 뭉개다
+bedstraw,깔짚
+ratchet,깔쭉톱니바퀴
+twinkling,깜ㅃ가임
+darky,깜둥이
+nigger,깜둥이
+blinking,깜박거리는
+blink,깜박거리다
+aglimmer,깜박깜박 빛나서
+winker,깜박이는사람
+dustbrand,깜부기병
+forgetfully,깜빡 잊어서
+twinkle,깜빡할 사이
+whizzer,깜작 놀라게 하는 조크
+openeyed,깜작 놀란
+startle,깜작놀라다
+blimey,깜짝이야!
+geewhizz,깜짝이야!
+답답하다,깝깝하다
+scutum,깝상 연골
+phalarope,깝작도요무리
+tenaciousness,깡체질
+benne,깨
+natty,깨끔한
+ablution,깨끗이 씻는 물
+slickedup,깨끗이 정돈된
+clearable,깨끗이 할 수 있는
+cleansing,깨끗이 함
+lustrate,깨끗이하다
+clarifier,깨끗하고 맑게 하는 것
+shipshape,깨끗항
+larn,깨닫게 하다
+undeceive,깨닫게 하다
+breaker,깨뜨리는 기계
+chomp,깨물다
+waking,깨어 있는
+awake,깨어서
+brickle,깨어지기 쉬운
+slimsy,깨어지기 쉬운
+admonish,깨우치다
+salted,깨잎
+cracky,깨지기 쉬운
+breakable,깨지기 쉬운 것
+eggshell,깨지기 쉬운 것
+unbreakable,깨지지않는
+cracked,깨진
+spall,깨진 조각
+yelp,깽깽
+yelper,깽깽 짖는 개
+tweedle,깽깽하는 소리
+upend,꺼꾸로 세우다
+awn,꺼끄러기
+disinclination,꺼림
+reluctance,꺼림
+scat,꺼져
+dying,꺼져가는
+unextinguished,꺼지지 않은
+dished,꺼진
+extinct,꺼진
+asperity,꺼칠꺼칠함
+disbranch,꺽다
+snag,꺽인 가지
+snaggy,꺽인 가지
+twisted,꺾이다
+cachinnate,껄껄 웃다
+cachinnation,껄껄 웃음
+yuck,껄껄 웃음
+granulate,껄껄하게 되다
+shagreen,껄끄러운 가죽
+sandy,껄끄럽다
+obtected,껍데기가 있는
+coarctate,껍데기에 싸여 있는
+sheller,껍질 까는 사람
+shelly,껍질 많은
+barker,껍질 벗기는 사람
+peeler,껍질 벗기는 사람
+parer,껍질 벗기는기구
+skinless,껍질 없는
+encrust,껍질로 덮다
+excoriate,껍질을 까다
+debark,껍질을 벗기다
+pare,껍질을 벗기다
+peel,껍질을 벗기다
+unhulled,껍질을 벗기지 않은
+shelled,껍질을 벗긴깐껍질을 깐 견과
+peeling,껍질을 벗김
+softshell,껍질이 무른
+scaled,껍질이 벗겨진
+crupper,껑거리 끈
+gangly,껑충하다
+spindly,껑충하다
+abstersive,께끗이 하는
+cuddle,껴안고 귀여워하다
+cuddly,껴안고 싶어하는
+cannonball,껴안기형으로 다이빙하다
+caress,껴안다
+hug,껴안다
+layering,껴입기
+cluck,꼬꼬 울다
+clack,꼬꼬댁거리다
+laying,꼬는 법
+entwist,꼬다
+caudate,꼬리 모양의 부속 기관을 가진
+parakite,꼬리 없는 연
+bangtail,꼬리 자른 말
+broadtail,꼬리가 굵은 양
+rattail,꼬리가 긴 민어과의 심해어
+forktailed,꼬리가 두 갈래 난
+tailheavy,꼬리가 무거운
+tailless,꼬리가 없는
+caudad,꼬리근처에
+ament,꼬리꽃차례
+languishing,꼬리를 끄는
+bumpertobumper,꼬리를 문
+tailfirst,꼬리를 옆으로 하고
+docktailed,꼬리를자른
+telson,꼬리마디
+sapajou,꼬리말이 원숭이
+caudal,꼬리모양의
+batrachian,꼬리업는 양서루의 동물
+ringtail,꼬리에 고리 무의가 있는 동물
+fishtail,꼬리치기 활공
+speedwell,꼬리풀의 일종
+brat,꼬마놈
+jacksmelt,꼬마도요
+nipper,꼬마둥이
+turnstone,꼬마물떼새
+elf,꼬마요정
+elfin,꼬마요정
+minikin,꼬마의
+runty,꼬마의
+dodgem,꼬마전기 자동차의 충돌놀이
+priestling,꼬마중
+livelong,꼬박
+obediently,꼬박꼬박
+serviently,꼬박꼬박
+tortuosity,꼬부라짐
+pothook,꼬부랑 글씨
+meandering,꼬부랑길
+waggly,꼬불꼬불 구부러진
+torsional,꼬이는
+tangle,꼬이다
+unlaid,꼬이지 않은
+temptation,꼬임
+allurement,꼬임
+tweak,꼬집다
+broach,꼬챙이
+skewer,꼬챙이
+spitchcock,꼬치구이
+nitpick,꼬치꼬치캐다
+rattle,꼬투리 속에서 소리나는 열매가 생기는 식물
+capsulate,꼬투리가 달린
+pod,꼬투리를 까다
+tightly,꼭꼭
+phantom,꼭두
+madder,꼭두서니
+seizing,꼭쥠
+braided,꼰
+plait,꼰 끈
+pigtail,꼰 담배
+organzine,꼰 명주실
+sennit,꼰 밧줄
+gurglingly,꼴꼴소리를 내며
+clumpy,꼴사나운
+ungraceful,꼴사나운
+unseemly,꼴사나운
+unsightly,꼴사나운
+flub,꼴사나운 실패
+nicely,꼼꼼하게
+prim,꼼꼼하게 하다
+scrutinizingly,꼼꼼히
+schneider,꼼작 못하게 누르다
+crusher,꼼짝 못하게 굴복시키는 논박
+impale,꼼짝 못하게 하다
+refute,꼼짝 못하게 하다
+committed,꼼짝 못할 입장이 되어
+damning,꼼짝못할
+erectile,꼿꼿이설수있는
+moaning,꽁꽁
+groaning,꽁꽁
+flinch,꽁무니 뺌
+butt,꽁초
+hornfish,꽁치아재비
+implant,꽂아 넣다
+infix,꽂아넣다
+rammer,꽂올대
+inserted,꽂히다
+grandiflora,꽃 송이가 큰 장미
+flowering,꽃 장식을 달기
+pollen,꽃가루
+flowerily,꽃같이
+rachis,꽃대
+perianth,꽃덮이
+isomerous,꽃등 각부분이 등수의
+syrphid,꽃등에
+nutant,꽃등이 고개를 숙이는 성질의
+hesperis,꽃무 무리
+flowerage,꽃무늬
+murrhine,꽃무늬 유리의
+floriated,꽃무늬의
+corbeil,꽃바구니 장식
+dittany,꽃박하
+origanum,꽃박하속의 식물
+torus,꽃받기
+calyx,꽃받침
+antheral,꽃밥의
+ballflower,꽃방망이
+osier,꽃버들
+vase,꽃병
+budded,꽃봉오리를 밍은
+jackinthebox,꽃불
+jackinabox,꽃불의 일종
+chicory,꽃상추
+endive,꽃상추
+escarole,꽃상추의일종
+maypop,꽃시계 덩굴
+phanerpogamic,꽃식물의
+phanerpogamous,꽃식물의
+filament,꽃실
+filamentary,꽃실의
+cauliflower,꽃양배추
+limpet,꽃양산조개
+flowered,꽃으로 덮인
+beflower,꽃으로 뒤덮다
+biflorate,꽃을 두 개 가진
+deflower,꽃을 따다
+defloration,꽃을 땀
+flowerbearing,꽃을 피우는
+floral,꽃의
+floristic,꽃의
+tuft,꽃의 송이
+gynoecium,꽃의 자성기
+attar,꽃의 정
+floriferous,꽃이 많은
+floweriness,꽃이 많음
+flowerless,꽃이 없는
+abloom,꽃이 피어
+efflorescent,꽃이 핀
+inflorescent,꽃이핀
+petaloid,꽃잎 모양의
+petaline,꽃잎에 붙은
+apetalous,꽃잎이 없는
+polypetalous,꽃잎이 여러개인
+petalled,꽃잎이 있는
+bipetalous,꽃잎이둘있는
+peduncle,꽃자루
+uniparous,꽃자루가 하나뿐인
+florist,꽃장수
+electrolier,꽃전등
+festoon,꽃줄
+festoonery,꽃줄
+anthotaxy,꽃차례
+receptacle,꽃턱
+effloresce,꽃피다
+groundcherry,꽈리
+impaction,꽉 들어차게함
+chockfull,꽉 들어찬
+jerk,꽉 비틀다
+jab,꽉 찌르기
+packed,꽉 찬
+impacted,꽉 채워진
+bodice,꽉끼는
+handfast,꽉쥐기
+chockablock,꽉차서
+pow,꽝
+thud,꽝
+quackquack,꽥꽥
+squawk,꽥꽥 거리다
+squall,꽥꽥 떠들다
+gabble,꽥꽥 울다
+squeaker,꽥꽥거리는 사람
+trickery,꾀
+devices,꾀
+artifices,꾀
+finical,꾀까다로운
+squeamish,꾀까다로운
+waspish,꾀까다로운
+cacique,꾀꼬리
+blackcap,꾀꼬리의 무리
+firebird,꾀꼬리의 일종
+oriole,꾀꼬리의 일종
+allure,꾀다
+inveigle,꾀다
+outjockey,꾀를 써서 이기다
+quirky,꾀바른
+malingery,꾀병
+leadswinger,꾀병쟁이
+bugout,꾀부리는 사람
+decoy,꾀어들이다
+slyboots,꾀자기
+enticement,꾐
+borrower,꾸는 사람
+parcel,꾸러미
+unpack,꾸러미를 끄르다
+rustic,꾸림없는
+pseudoevent,꾸며 낸 일
+flourishy,꾸며 쓴
+fabricate,꾸며내다
+contrived,꾸며낸
+madeup,꾸며낸
+fabled,꾸며낸 이야기의
+figment,꾸며낸 일
+feignedly,꾸며서
+hatch,꾸며지다
+wriggle,꾸물거리다
+writhe,꾸물거리다
+squirm,꾸물거리다
+procrastinate,꾸물거리다
+temporize,꾸물거리다
+dilatoriness,꾸물거림
+laggardly,꾸물꾸물
+dillydally,꾸물대다
+adornment,꾸미기
+ornamentation,꾸밈
+unaffected,꾸밈 없는
+unvarnished,꾸밈없는
+drowsily,꾸벅꾸벅
+napper,꾸벅꾸벅 조는 사람
+nidnod,꾸벅꾸벅졸다
+drowse,꾸벅꾸벅졺
+crankle,꾸부러지다
+trimmer,꾸지람 하는 사람
+objurgation,꾸짖는
+chide,꾸짖다
+reprobate,꾸짖다
+scold,꾸짖다
+reprovingly,꾸짖듯이
+debtor,꾼 사람
+mellifluous,꿀같이 감미로운
+honeysweet,꿀같이 단
+gulpingiy,꿀걱꿀걱
+grunt,꿀꿀 거리다
+curculio,꿀꿀이바구미속
+honeypot,꿀단지
+gulp,꿀떡꿀떡 마시다
+honeycreeper,꿀먹이새
+hydromel,꿀물
+skep,꿀벌집
+beehive,꿀벌통
+hive,꿀벌통
+nectary,꿀샘
+allheal,꿀풀
+dreamful,꿈 많은
+moony,꿈같은
+trance,꿈결
+stargazing,꿈결 같음
+dreaminess,꿈꾸듯 황홀함 어렴풋함
+dreamless,꿈꾸지 않는
+dreamland,꿈나라
+undreamedof,꿈에도 생각 않은
+oneiric,꿈의
+dreamworld,꿈의세계
+outface,꿈쩍도 않다
+wriggler,꿈틀거리는 사람
+wringle,꿈틀기리다
+fortitude,꿋꿋함
+congou,꿍후차
+pheasanteyed,꿩 눈같이 반점이 있는
+pheasantry,꿩 사육장
+stonecrop,꿩의 비름
+fireback,꿩의 일종
+impenetrability,꿰뚫기 어려움
+penetrable,꿰뚫는
+impenetrably,꿰뚫을수 없게
+seam,꿰매 맞추다
+seamless,꿰매 맞추다
+stitchery,꿰매기
+cobble,꿰매어 고치다
+suture,꿰맨 자리
+sutural,꿰맨자리의
+darn,꿰메 깁다
+piercing,꿰찌르는
+tractor,끄는 도구
+dragrope,끄는 줄
+niddlenoddle,끄덕거리는
+impregnable,끄떡 않는
+unshrinking,끄떡없는
+unbind,끄르다
+unfix,끄르다
+unsnap,끄르다
+undoing,끄름
+shred,끄트러기
+repoint,끄트머리를 바꾸어 달다
+eyelet,끈 꿰는 구멍
+capote,끈 달린 보닛의 일종
+taenioid,끈 모양의
+strapwork,끈 모양의 세공
+pertinacious,끈기 있는
+stayer,끈기 있는 사람
+indefatigable,끈기있는
+birdlime,끈끈이
+catchfly,끈끈이 대나물
+limy,끈끈이를 바른
+limetwig,끈끈이를 바른 나뭇가지
+pastiness,끈끈함
+viscidity,끈끈함
+sticktoitive,끈덕진
+unvaried,끈덕진
+glutton,끈덕진 사람
+importunity,끈덕진 요구
+indefatigability,끈덕짐
+pertinacity,끈덕짐
+sticktoitiveness,끈덕짐
+lacing,끈목
+galloon,끈목
+laceup,끈으로 묶는
+braider,끈을 땋는 사람
+laced,끈이 달린
+stickily,끈적거리게
+stickiness,끈적거림
+slimily,끈적끈적하게
+ropy,끈적끈적하는
+pressingly,끈질기게
+nag,끈질기게 괴롭히다
+birddog,끈질기게 뒤밟아 탐정하다
+importunate,끈질긴
+nagging,끈질긴
+unremitting,끈질긴
+untiring,끈질긴
+kicker,끈질긴 반항자
+neverfailing,끊기지 않는
+seethe,끊어 오르다
+gapless,끊어진 데가 없는
+discontinuity,끊어짐
+abstentious,끊은
+scalder,끊이는 기구
+unceasing,끊임 없는
+ceaseless,끊임없는
+incessantly,끊임없는
+uninterrupted,끊임없는
+borer,끌
+chisel,끌
+quenchless,끌 수 없는
+unquenchable,끌 수 없는
+extinguishable,끌 수 있는
+quench,끌수 없는
+conduction,끌어 들임
+indraft,끌어 들임
+trice,끌어 올려서 묶다
+refloat,끌어 올리다
+elicit,끌어내다
+derivable,끌어낼 수 있는
+eduction,끌어냄
+puller,끌어당기는 사람
+drabble,끌어더럽히다
+leadin,끌어들이는을 이끄는
+heaving,끌어올림
+fang,끌이나 찬칼 따위의 슴베
+thiller,끌채에 맨 말
+boiling,끓음
+boiler,끓이는 그릇
+jumbo,끔찍이 큰 사람
+slay,끔찍하게 죽이다
+appalling,끔찍하다
+hideous,끔찍하다
+cruelty,끔찍함
+hits,끗
+points,끗
+overtrump,끗수가 높은 패로 따다
+groaningly,끙끙대다
+desinence,끝 행
+subterminal,끝가까운
+edgeways,끝과 끝을 맞대고
+terminative,끝내는 사람
+epilogue,끝맺음말
+finishing,끝손질의
+everlasting,끝없는
+infinite,끝없는
+interminable,끝없는
+unlimited,끝없는
+abysm,끝없이 깊은 지옥
+wilderness,끝없이 넓음
+undersign,끝에 서명하다
+chape,끝에 씌운쇠
+knobstick,끝에 혹이 달린 곤봉
+antepenultimate,끝에서 세번째 음절
+antepenult,끝에서 세번째의
+truncated,끝을 자른
+truncation,끝을 잘라냄
+apocope,끝음생략
+ultima,끝음절
+taper,끝이 가는
+slapstick,끝이 갈라진 타봉
+squaretoed,끝이 네모진
+retuse,끝이 둥글고 약간 움푹 들어간
+tapering,끝이 뾰족해진
+inswept,끝이가는
+cleansable,끼끗이 할 수 있는
+bathe,끼얹다
+douse,끼얹다
+inset,끼워 넣다
+inlay,끼워넣다
+scroop,끼익 끼익 하다
+screak,끼익끼익하다
+unfitted,끼지 않는
+squeak,끽끽
+squealer,끽끽 우는 동물
+chatter,끽끽 우는 소리
+squeal,끽끽 울다
+squelch,끽소리 못하게 하기
+confute,끽소리 못하게 하다
+squash,끽소리 못하게 하다
+giggly,낄낄 웃는
+giggle,낄낄거리다
+nicker,낄낄웃다
+whimper,낑낑거리는 소리
+whine,낑낑거리는 소리
+ourself,나 스스로
+colous,나 있는의 뜻
+vent,나갈 구멍을 터주다
+canalize,나갈 길을 열어주다
+brayer,나귀 소리를 내는 것
+bray,나귀가울다
+asinine,나귀의
+heehaw,나귀의 울음 소리
+lemming,나그네쥐
+homuncule,나나쟁이
+nanometer,나노미터10억분의 1미터 , 기호
+nanoatom,나노아톰원자의 10억분의
+nanoamp,나노앰프의 10억분의
+nanoparticles,나노입자
+aliquot,나누어 떨어지는
+aliquant,나누어 떨어지지않는
+impartation,나누어 줌
+divisible,나누어지는
+undivided,나눌 수 없는
+indivisibility,나눌수 없는
+inseparable,나눌수없는
+sharing,나눔
+impart,나눠 주다덧붙이다
+indiscrete,나뉘어져 있지 않은
+parted,나뉜
+gad,나다니다
+nathanael,나다니엘
+adderstongue,나도고사리삼속의 일종
+turtlehead,나도사향나무
+goatsbeard,나도쇠채
+hartstongue,나도파초 일엽
+nard,나드
+stateless,나라가 없는
+ia,나라이름에 붙임
+narratage,나라타주
+comfrey,나래지치
+narrate,나레이타가 되다
+narrator,나레이터
+narrater,나레이터
+charon,나루지기
+ferry,나루터
+tote,나르기
+bearer,나르는 사람
+narceine,나르세인
+narcissus,나르시스
+narcotine,나르코틴
+narthex,나르텍스
+listly,나른한
+febrile,나른한
+heaviness,나른함 무기력
+liliaceous,나리과의
+niobe,나리의 일종
+saboted,나막신을 신은
+naomi,나모미의 시어머니
+treed,나무 가죽
+knur,나무 공
+arbor,나무 그늘의 휴게소
+bowery,나무 그늘이 많은
+bosky,나무 그늘이 있는
+grubber,나무 그루터기를 파내는 사람
+raspberry,나무 딸기
+cradling,나무 또는 쇠로 된 뼈대
+nutter,나무 열매를 줍는사람
+reglet,나무 인테르
+kartel,나무 침대
+butcherblock,나무 토막을 모아서 만든
+treelined,나무가 늘어진
+grovy,나무가 많은
+arborescent,나무가지 모양의
+culy,나무결이 물결 모양의
+lathi,나무곤봉
+embower,나무그늘에서쉬다
+woodenware,나무기구
+cuthbert,나무딸기
+boysenberry,나무딸기의 일종
+reprehend,나무라다
+reprove,나무라다
+reproachingly,나무라듯이
+unimpeachable,나무랄 데 없는
+unreproachable,나무랄 데 없는
+impeccable,나무랄데 없는
+defoliation,나무를 자르거나 숲을 불태우거나 하는 작전
+xylophagous,나무를 자르는
+bentwood,나무를휘어만든
+firewood,나무마개
+knag,나무마디
+hammer,나무망치
+arbored,나무모양
+treenail,나무못
+nog,나무벽돌
+halftimbered,나무뼈대의
+clump,나무숲
+xylotomous,나무에 구멍을 뚫을 수 있는
+insessorial,나무에 앉기에 알맞은
+percher,나무에 앉는 새
+silvichemical,나무에서 추출되는 화학 물질의 총칭
+nutting,나무열매 줍기
+nutbutter,나무열매로 만든 대용버터
+trencher,나무접시
+woodwork,나무제품
+woodworm,나무좀
+bole,나무줄기
+timberwark,나무짜기
+brandreth,나무틀
+namibia,나미비아
+navarin,나바랑
+navarre,나바르
+navaho,나바호말
+moth,나방
+psyche,나방의 일종
+leprosy,나병
+naboth,나봇
+flutter,나부끼다
+pieces,나부랭이
+knot,나비 매듭
+papilionaceous,나비 모양의
+pealike,나비 모양의
+thumbscrew,나비나사
+bowknot,나비매듭
+scalewinged,나비목의
+goodish,나쁘지 않은
+badness,나쁨
+nasa,나사
+corkscrew,나사 모양의
+turnbuckle,나사 조이개
+threader,나사깎개
+nazarite,나사렛사람
+lazarus,나사로
+unscrew,나사를돌려늦추다
+conchoid,나사선
+duffel,나사의 일종
+cone,나사조개
+pushful,나서기 잘하는
+chary,나서지 않는
+gyration,나선
+helix,나선
+spiral,나선
+caracole,나선 계단
+spirally,나선 비행
+screwworm,나선구더기
+spirillum,나선균
+whorled,나선모양으로 된
+helical,나선모양의
+helicoid,나선모양의
+chromonema,나선사
+helicline,나선상 도로
+spica,나선상 붕대
+spirochete,나선상균
+involute,나선의
+helic,나선의 뜻
+gyre,나선형
+varix,나선형 융기
+helily,나선형으로
+gyroidal,나선형으로 배열된
+nasserism,나세르주의
+nasdaq,나스다크
+restive,나아가기를 싫어하는
+onward,나아가서 =
+effeminacy,나약
+enervation,나약
+nambypambyism,나약하여 남자답지 못함
+nambypamby,나약한
+sissyish,나약한
+unmanly,나약한
+offglide,나오는 경과음
+lauan,나왕
+nauru,나우루 공화국
+nausicaa,나우시카아
+nauplius,나우플리우스
+baas,나으리
+nibs,나으리
+rhonchus,나음
+my,나의
+hoary,나이 들어 점잖은
+boyhusband,나이 어린 남편
+younger,나이 적은 쪽의
+dame,나이가 든 여인
+youngold,나이는 들었지만 젊어 보이는
+nydrazid,나이드라짓
+naira,나이라나이지리아의 화폐단위 100기호 N
+nairobi,나이로비공화국의 수도
+niagara,나이아가라
+naiad,나이아스
+nigeria,나이지리아
+nigerian,나이지리아의
+nike,나이키
+tablifter,나이트 클럽의 손님
+accolade,나이트작 수여식
+nightclubber,나이트클럽의 단골손님
+nineball,나인볼
+nile,나일강
+nilotic,나일강 유역 주민의
+alexandria,나일강어귀의 항구
+nilometer,나일강의 수위계
+dahabeah,나일강의 여객용 범선
+nylon,나일론
+scourer,나일론 수세미
+gymnosperm,나자식물
+nude,나체
+naturism,나체주
+nudism,나체주
+nazi,나치
+hakenkreuz,나치스 독일의 기장
+brownshirt,나치스당원
+demassify,나치스화하다
+naziism,나치주의
+nazification,나치화
+nazify,나치화하다
+rhumb,나침방위
+compass,나침의
+binnacle,나침함
+binacle,나침합
+laziness,나타
+emersed,나타난
+idlesse,나태
+indolent,나태한
+nato,나토
+sodium,나트륨
+natriuresis,나트륨뇨 배설항진
+napa,나파양의 가죽
+trumpet,나팔 모양의 물건
+bellbottoma,나팔 바지
+tantara,나팔 소리
+senner,나팔 신호
+salpinx,나팔관 =
+flaring,나팔꽃 모양의
+embrasure,나팔꽃처럼 안쪽을 바깥쪽보다 넓게 낸 문이나 창구멍
+trumpeter,나팔수
+lento,나팔수선하
+daffodil,나팔수선화
+blunderbuss,나팔총
+spoliation,나포
+marque,나포 면허장
+napoleon,나폴레옹
+bonapartist,나폴레옹 1세 지지자
+napoleonic,나폴레옹세의
+napoleonism,나폴레옹주의
+neapolitan,나폴리 사람
+naples,나폴리이탈리아 남부의 항구도시
+naphtha,나프타
+naphthalene,나프탈렌
+naphthaline,나프탈렌
+naphthol,나프톨
+gymnosophy,나행
+nahum,나훔
+nakhodka,나훗카시베리아 남동쪽에 있는 항구
+bonism,낙관설
+rosy,낙관적인
+upbeat,낙관적인
+loosefitting,낙낙하다
+creamery,낙농장
+dairyman,낙농장주인
+dejection,낙담
+despondency,낙담
+dishearten,낙담시키다
+thunderstroke,낙뢰
+thunderstrike,낙뢰하다
+unhorse,낙마시키다
+unsaddle,낙마시키다
+unseat,낙마시키다
+dissapointment,낙망
+butyrate,낙산염
+naxalite,낙살라이트
+doodling,낙서
+graffiti,낙서
+scrawling,낙서
+scribbling,낙서
+waterpower,낙수
+gargoyle,낙수홈
+dripdrip,낙숫물
+chute,낙숫물 도랑
+larch,낙엽송
+eden,낙원
+imparadise,낙원으로 만들다
+stigmatization,낙인
+flunk,낙제
+devilfish,낙지
+kd,낙찰
+cameleer,낙타 몰이꾼
+camlet,낙타 천
+camelry,낙타대
+camel,낙타색
+feticide,낙태
+abortifacient,낙태약
+dropping,낙하
+parachute,낙하산
+paradog,낙하산 강하견
+jumpsuit,낙하산 강하복
+parachutist,낙하산 강하자
+pararescue,낙하산 구조
+jumpmaster,낙하산 부대장
+paramedic,낙하산 위생병
+paratrooping,낙하산 투하
+paratroop,낙하산병의
+pyrography,낙화술
+poker,낙화용구
+ensnarl,낚다
+chum,낚시 밑밥
+angleworm,낚시밥용지렁이
+angling,낚시질
+jig,낚싯봉 달린 낚시
+jigger,낚싯봉 달린 낚시
+subtopia,난 개발지역
+balustrade,난간
+banister,난간
+breastrail,난간
+guardrail,난간
+handrail,난간
+parapet,난간
+baluster,난간 동자
+balustraded,난간이 달린
+unbearable,난감
+unsufferable,난감
+unwinnable,난공 불락의
+oviduct,난관
+impasse,난국
+turbulence,난기류
+chalaza,난대
+mangle,난도질
+mayhem,난동
+potbelly,난로
+stove,난로
+fireside,난로가
+firelight,난로불
+disarrangement,난맥
+oocyte,난모 세포
+offing,난바다
+shockheaded,난발의
+dissipation,난봉
+libertinism,난봉
+debauchery,난봉
+dissolute,난봉 피우는
+debauchee,난봉꾼
+playboy,난봉꾼
+disapproval,난색
+ovipara,난생 동물
+oviparous,난생의
+ovary,난소
+ovotestis,난소 고환
+ovariotomy,난소 절제술
+spay,난소를 떼내다
+oophoritis,난소염
+ovaritis,난소염
+ovarian,난소의
+astigmatism,난시
+astigmatic,난시교정의
+marginalia,난외에 써넣기
+catchword,난외표제어
+utricle,난원낭
+oogonium,난원세포
+remarque,난의표지
+inrush,난입
+ovule,난자
+ovum,난자
+clutter,난잡
+disarray,난잡
+pellmell,난잡
+racy,난잡스런
+disarrange,난잡하게 하다
+promiscuous,난잡하다
+disorderly,난잡하다
+immethodical,난잡하다
+lilliput,난장이 나라
+leprechaun,난장이 노인 모습의 요귀
+dwarf,난쟁이
+midget,난쟁이
+lilliputian,난쟁이 나라의
+dwarfish,난쟁이같은
+scarificator,난절도
+nodus,난점
+brainteaser,난제
+riddle,난제
+facer,난처하게 하는 일
+nonplus,난처하게만들다
+perplexed,난처하다
+constrainedly,난처하여
+orchid,난초
+orchidist,난초 재배가
+orchidaceous,난초과의
+nimbostratus,난층운
+obstinacy,난치
+buffering,난타
+hitfest,난타전
+slugfest,난타전
+ovoviviparous,난태생의
+fisticuff,난투
+melee,난투
+wreck,난파
+wreckage,난파
+shipwrecked,난파하다
+castaway,난파하다
+splitlevel,난평면의
+hellion,난폭자
+troublemaker,난폭자
+cleavage,난할
+blastomere,난할구
+razzmatazz,난함
+abstruse,난해
+arcane,난해하다
+inaccessible,난해하다
+recondite,난해하다
+selftorture,난행
+oogenesis,난형성
+promiscuity,난혼
+vitellus,난황
+vitellin,난황소
+vitelline,난황의
+volant,날 수 있는
+volitant,날 수 있는
+blunt,날 없는
+peltry,날가죽
+wingspread,날개 길
+wingless,날개 없는
+dipterous,날개가 둘 달린
+apteral,날개가 없는
+pennate,날개가 있는
+brevipennate,날개가 짧은
+pinion,날개깃
+penniform,날개꼴의
+clap,날개를 파닥이다
+flap,날개를 퍼덕이다
+ornithopter,날개를 퍼드덕거리며 나는 비행기
+displayed,날개를 펴고 다리를 벌린
+spreadeagle,날개를 편
+nervure,날개막
+impeller,날개바퀴
+apterous,날개없는
+alary,날개의
+broadsword,날넓은칼
+petaurist,날다람쥐 속의 동물
+cockspur,날도래의 유충
+draco,날도마뱀
+obstreperous,날뛰는
+wildish,날뛰는
+jibber,날뛰는 버릇이 있는 말
+rampageous,날뛰며 돌아다니는
+rampage,날뛰며 돌아다니다
+catlike,날랜
+nimble,날랜
+agile,날랜
+spank,날랜 말
+eater,날로 먹을 수 있는 과일
+naloxone,날록손
+jerrybuilding,날림 건축
+quickie,날림 영화
+slopwork,날림 일
+jerrybuilt,날림으로 지은
+jerrybuild,날림으로 짓다
+onceoverlightly,날림일
+bidonville,날림집지구
+swordguard,날밑
+yataghan,날밑 없는 칼
+lovebug,날벌레의 일종에는 떼지어 다니며 자동차 교통의 장애가 됨
+exhalation,날숨
+expiration,날숨
+expiratory,날숨의
+warper,날실을 감는 기계
+expeditious,날쌘
+headsup,날쌘
+fairweather,날씨가 좋은 때만의
+thaw,날씨가 풀리다
+skinny,날씬한
+svelte,날씬한
+outfly,날아 나오다
+skirr,날아가버리다
+flit,날아지나감
+printworks,날염 공장
+printed,날염한
+reset,날을 갈아 달다
+bezel,날의사면
+edgy,날이 날카로운
+keenedged,날이 날카로운
+glaive,날이 넓은 칼
+sealer,날인자
+bulidup,날조
+buildup,날조 조작
+forger,날조자
+concoct,날조하다
+trumpedup,날조한
+jerboa,날쥐
+dater,날짜 스탬프
+dateless,날짜 없는
+dated,날짜 있는
+misdate,날짜가 틀리다
+dating,날짜기입
+postdate,날짜를 실제보다 늦추어 달다
+datal,날짜의
+undated,날짜표시가 없는
+sharpen,날카롭게 하다
+journeyman,날품팔이
+daysman,날품팔이꾼
+antiquate,낡게하다
+battlescarred,낡고 헌
+unreconstructed,낡은 사상의
+scripophily,낡은 주권수집 취미
+timeproof,낡지 않는
+sebastian,남가 이름
+reserved,남겨둔
+remanent,남겨진
+priapus,남경
+nanking,남경중국 장쑤성의
+notogaea,남계
+agnation,남계친
+retiring,남과 어울리는 것을 피하듯
+difficile,남과 어울리지 않는
+southland,남국
+grayback,남군 군인
+reb,남군 병사
+masculinist,남권주의자
+antarctica,남극대륙
+subantarctic,남극에 가까운
+antarctic,남극의
+schlang,남근
+dildo,남근 모양으로 만든 성구
+phallism,남근 숭배
+phallic,남근 숭배의
+lingam,남근상
+phallus,남근상==CLTORLS
+priapic,남근을 연상시키는
+dreg,남김 없이 다 마시다
+exhaustive,남김없는
+exhaustively,남김없이
+exhaust,남김없이 논하다
+raze,남김없이 파괴하다
+separated,남남
+southsoutheast,남남동
+barleybrake,남녀 3인씩 술래잡기
+coresidence,남녀 공동 기숙사
+androgyny,남녀 공용 의상
+coeducate,남녀 공학 교육을 실시하다
+coed,남녀 공학의
+ambisextrous,남녀 구별이 어려운
+feminism,남녀 동권주의
+androgyne,남녀 양성 구유자
+epicene,남녀 양성을 함께 가진
+doublegaited,남녀 양용의
+nonsexist,남녀 차별을 하지 않는
+coeducation,남녀공학
+nonsexual,남녀구별이 없는
+coinstitutional,남녀별 학급제 고교의
+unisexed,남녀의 구별이 안 되는
+sexism,남녀차별
+androgynous,남녀추니의
+southmost,남단의
+southeast,남동
+azurite,남동광
+southeastward,남동에
+southeasterly,남동으로부터
+southeaster,남동풍
+ragged,남루하다
+clandestine,남몰래
+uruguay,남미 남동부의 공화국
+logwood,남미 열대지방산의 나무
+hispano,남미계의
+sbe,남미동
+jaborandi,남미산 운향과 식물
+sbw,남미서
+guyana,남미의 독립국
+bolivia,남미의공화국
+cysticercus,남미충
+bogota,남미콜롬비아의 수도
+overissue,남발
+secession,남부 11주의 분리
+southernism,남부 기질
+saxony,남부 독일의 지방
+confederate,남부 동맹의
+southron,남부 사람
+dixie,남부 여러 주의 별명
+rebeldom,남부 연방
+meridional,남부 유럽의
+sybaris,남부 이탈리아의 고대 그리스 도시
+dixican,남부 출신의 공화당원
+respectability,남부끄럽지 않음
+downhome,남부적인
+northsouth,남북의
+antebellum,남북전쟁전의
+trueblue,남빛
+atlantes,남상기둥
+telamon,남상주
+sodomy,남색
+pederasty,남색
+buggery,남색
+pederast,남색자
+sodomite,남색자
+southwest,남서
+samoa,남서 태평양의 군도
+southwesterly,남서로
+southwestwardly,남서로
+clyde,남서부의 만
+southwestward,남서에
+southwestern,남서의
+southwester,남서풍
+antifeminist,남성 상위의
+phalocrat,남성 우월주의자
+machodrama,남성 우위극
+androcentric,남성 중심의
+andrology,남성과학
+clothier,남성복 소매상
+mantailored,남성복식으로 만들어진
+fruity,남성애의
+butch,남성역의 여성
+bulldagger,남성역의 여성 동성 연애자
+buds,남성용 내의
+menswear,남성용 의류
+metapausr,남성의 갱년기
+beefcake,남성의 근육미 사진
+anima,남성의여성적요소
+twofisted,남성적인
+virile,남성적인
+androsterone,남성호르몬의일종
+virilism,남성화
+androgenize,남성화 하다
+defeminize,남성화하다
+crux,남십자성
+overabundant,남아 돌아가는
+superabundant,남아 돌아가는
+superfluity,남아 돌아가는 돈
+overabound,남아 돌아가다
+hairweaving,남아 있는 머리에 가발이나 다리 등을 덧넣기
+abundant,남아돌 정도의
+superabound,남아돌다
+pampas,남아메리카
+surinam,남아메리카 북동 해안의 독립국
+guiana,남아메리카 북동부의 가이아나 공화국
+venezuela,남아메리카 북부의 공화국
+paraguay,남아메리카 중부의 공화국
+quebracho,남아메리카산 옻나무과의 교목
+peru,남아메리카의 공화국
+gaucho,남아메리카의 목동
+zululand,남아프리카 공화국 주 북동부의 준주
+impi,남아프리카 또는 Kafir족 전투원의대부대
+rand,남아프리카 시 부근의 세계 제 1의 금산지
+bushveld,남아프리카 저지대
+afrikander,남아프리카 태생의 백인
+afrikaner,남아프리카 태생의 백인
+aardvark,남아프리카산 땅돼지
+africander,남아프리카산의 육우
+afrikaans,남아프리카의 공용네덜란드 말
+presentable,남앞에 내 놓을 수 있는
+araucaria,남양삼나무속의 나무
+rapper,남에게 누명을 씌우는 죄
+sleighride,남에게 이용당함
+scapegoatism,남에게 죄를 덮어 씌움
+hatemonger,남에게 증오
+nuisance,남에게 폐를 끼치는 행위
+unprompted,남에게서 지시받은 것이 아닌
+southwardly,남에서 부는
+aquamarine,남옥
+grasping,남욕스러운
+misapplication,남용
+misappropriation,남용
+dago,남유럽인
+tormentress,남을 괴롭히는 여자
+squelcher,남을 끽소리 못하게 하는 주장
+sequacious,남을 따르는
+trustless,남을 믿지 않는
+masterful,남을 부리려 하는
+actuate,남을 자극하여 시키다
+libellous,남을 즐겨 중상하는
+dampen,남을 풀죽게 하다
+gatemouth,남의 개인적 사항을 여기저기 퍼뜨리는 사람
+vampire,남의 고혈을 짜는 사람
+pawn,남의 끄나불 짓하는 사람
+rathole,남의 눈에 띄지 않게 저장하다
+coy,남의 눈에 띄지 않는
+eyeappealing,남의 눈을 끄는
+imposing,남의 눈을 끄는
+unattractive,남의 눈을 끌지 않는
+stealthiness,남의 눈을 피함
+tagalong,남의 뒤를 따라다니는
+stooge,남의 뜻대로 하는 사람
+precarious,남의 뜻에 좌우되는
+unforthcoming,남의 말을 안 듣는
+imitate,남의 말이나 몸짓을 놀리거나 업신여겨 흉내내다
+schadenfreude,남의 불행을 좋아함
+taletelling,남의 비밀을 퍼뜨리는
+beggarmyneighbor,남의 손실로 이익을 얻는
+lapsed,남의 손으로 넘어간
+selfconfident,남의 앞을 꺼리는
+interfering,남의 일에 참견하는
+interloper,남의 일에 참견하는 사람
+inconsiderate,남의 일을 생각할줄 모르는
+scapegoat,남의 죄를 대신 짊어지는 사람
+unnoticeable,남의 주목을끌지  못하는
+introject,남의 특질
+excusemedance,남의 파트너와 춤추어도 되는 댄스
+wellwishing,남의 행복을 비는
+needler,남의 흠을 잡는사람
+nitpicking,남의 흠을 잡아내는
+spoilsport,남의 흥을 깨뜨리는 사람
+offenseless,남의감정을 해치지 않는
+doggo,남의눈을 피하여
+illwisher,남이 못되기를 비는 사람
+earwitness,남이 하는 이야기를 듣는사람
+roundheel,남자 꼬임에 잘 걸려드는 여자
+gail,남자 또는 여자 이름
+warlock,남자 마술사
+amazonian,남자 못지 않은
+danseur,남자 발레 댄서
+merman,남자 수영 선수
+manchild,남자 아이
+shirtmaker,남자 와이셔츠 비슷하게 만든 여자용 블라우스
+selamlik,남자 전용실
+kinsman,남자 친척
+masculine,남자같은
+manful,남자다운
+heman,남자다운 남자
+machismo,남자다움
+manwise,남자답게
+menfolks,남자들
+stag,남자들만의
+manhater,남자를 싫어 하는 사람
+teaser,남자를 애타게 하는 여자
+seductress,남자를 유혹하는 여인
+vampirism,남자를 호리기
+bonnet,남자모자
+seducible,남자에게 속기 쉬운
+boondagger,남자역의 여성 동성애자
+haberdashery,남자용 장신구류
+haberdasher,남자용 장신구상인
+gents,남자용화장실
+baron,남작
+baronage,남작 명부
+baronial,남작다운
+barony,남작령
+baroness,남작부인
+evgeni,남장 이름
+cyanite,남정석
+culminant,남중하고 있는
+culminate,남중하다
+decani,남쪽 성가대가 노래해야 할
+southerner,남쪽사람
+southerly,남쪽으로
+austral,남쪽의
+bice,남청색의 물감
+tonga,남태평양의 소왕국
+discovert,남편 없는 신분의여성 또는 과부의
+suttee,남편에게 순사하는 아내
+marital,남편의
+patrilocal,남편쪽 거주의
+souther,남풍
+frater,남학생 클럽 회원
+schoolboyish,남학생같은
+southing,남항 행정
+southbound,남행의
+wax,납
+waxing,납 바르기
+leaded,납 중독에 걸린
+caltrop,납가새
+glyphographic,납각 전기 제판의
+batik,납결 염색법
+cerate,납고
+cerated,납고를 입힌
+urn,납골단지
+inurn,납골단지에 넣다
+cinerarium,납골당
+ossuary,납골당
+repository,납골당
+ceraceous,납모양의
+lividity,납빛
+waxworks,납세공
+ratal,납세상의
+dutypaid,납세필의
+ceroplastic,납소술
+waxy,납양 변성에 걸린
+leadwork,납용제
+leaden,납으로 만든
+came,납으로 만든 틀
+babbitt,납의 합금
+prone,납죽엎드린
+saturnism,납중독
+kidnapping,납치
+cerecloth,납포
+cerement,납포
+ordering,납품
+encaustic,납화
+bursa,낭
+lycanthropy,낭광
+recital,낭독
+ambo,낭독대
+declamation,낭독법
+elocution,낭독법
+bookteller,낭독자
+reader,낭독자
+scar,낭떠러지
+cliffy,낭떠러지의
+sonorous,낭랑한
+romanticism,낭만적임
+gastrula,낭배
+epiblast,낭배의 외피
+scattergood,낭비가
+spender,낭비가
+spendthrift,낭비가
+unthrift,낭비가
+inefficient,낭비가 많은
+illspent,낭비된
+prodigal,낭비자
+waster,낭비자
+wastrel,낭비자
+lavish,낭비적인
+thriftless,낭비하는
+wasteful,낭비하는
+prodigalize,낭비하다
+misspent,낭비한
+saccular,낭상
+ascidium,낭상엽
+saccate,낭상의
+sacciform,낭상의
+rehearsal,낭송
+archicarp,낭자균류의 자성기관
+cyst,낭종
+lupus,낭창
+lupous,낭창성의
+cysticercoid,낭충의
+nantes,낭트프랑스 북서부의 항구도시
+discomposure,낭패
+blastocyst,낭포
+cystiform,낭포상의
+croon,낮게 부르는 노래
+minify,낮게 평가하다
+underrate,낮게 평가하다
+deepchested,낮고 힘센
+taboret,낮은 대
+stillage,낮은 받침대
+battler,낮은 생활 수준의 근로자
+crooner,낮은 소리로 노래하는 사람
+eldercare,낮은 요금의 노인 의료 계획
+underplay,낮은 패를 내다
+lowness,낮음
+diurnal,낮의
+nooning,낮의 휴식
+matinee,낮흥행
+slaver,낯 간지러운 아첨
+unacquainted,낯선
+grockle,낯선사람
+unco,낯이 선
+inflect,낱낱이 활용하다
+collocation,낱말의 배치
+procreative,낳는
+generateator,낳는 것
+begetter,낳는 사람
+generable,낳을 수 있는
+endoskeleton,내 골격
+gynaecocracy,내 주장
+peccavi,내가 죄를 범했도다
+xeric,내건성의
+incurve,내곡구
+retrocession,내공
+fightworthy,내공성의
+airworthy,내공성이 있는
+retrocede,내공하당
+internist,내과전문의사
+endocarp,내과피
+introspective,내관적인
+lightfast,내광성의
+sunproof,내광성의
+persistence,내구
+durability,내구
+endurance,내구성
+wearability,내구성
+bylaws,내규
+deskman,내근 기자
+stakeholderp,내기 돈을 맡은 사람
+stint,내기 아까워함
+bettor,내기하는 사람
+cryoprotective,내냉동제
+psychrotolerant,내냉성의
+liberate,내놓다
+smolder,내는 불
+bowwindowed,내달이창이 달린
+throwout,내던져진 사람
+pelter,내던지는 사람9것
+fling,내던지다
+hurl,내던지다
+holland,내덜란드
+mithridatism,내독성
+endotoxin,내독소
+endotoxoid,내독소에서 얻을 수 있는 변성 독소
+downwash,내려 씻음
+descending,내려가는
+descender,내려가는 사람
+nutation,내려다봄
+inlander,내륙사람
+depress,내리 누르다
+weightily,내리누르며
+portcullis,내리닫이 쇠살문
+catsuit,내리닫이 팬츠수트
+doublehung,내리닫이의
+overarm,내리던지는
+overhand,내리던지는
+declivity,내리막
+downhill,내리받이
+deign,내리시다
+downhaul,내림밧줄
+마음,내면
+internality,내면성
+internalization,내면화
+barracks,내무반
+quarters,내무반
+corbeling,내물림 구조
+extrusive,내미는
+introversion,내반
+bowlegged,내반슬의
+clubfoot,내반족
+visitation,내방
+visiting,내방
+endoblast,내배엽
+endoderm,내배엽
+hypoblast,내배엽
+endomorphy,내배엽형
+endothelium,내복 조직
+infilling,내부 건재충전재
+endoparasite,내부 기생체
+incrowd,내부 사정이나
+fitment,내부 시설
+endosarc,내부 원형질
+endorheic,내부 유역의
+innerdirected,내부 지향적인
+infighting,내부 항쟁
+interoceptor,내부감각수용기
+innards,내부내부 구조
+internaly,내부로
+endogenous,내부로부터 발생하는
+inwardly,내부에
+inbreed,내부에 생기게 하다
+intra,내부에의 뜻 결합사
+nkvd,내부인민위원부
+interphone,내부전화
+incretion,내분비
+endocrine,내분비물
+endocrinology,내분비학
+hormonology,내분비학
+scarper,내빼다
+sluicy,내뿜는
+belch,내뿜다
+spout,내뿜다
+effluence,내뿜음
+endoscope,내사경
+interpolation,내삽법
+autogenous,내생의
+introspection,내성
+hypogene,내성의
+introverted,내성적인
+heartsearching,내성하는
+introspect,내성하다
+eschatology,내세관
+otherworldly,내세의
+nassau,내소
+wickedness,내송
+treachery,내송
+immersible,내수성의
+waterfast,내수성인
+nestorism,내스토리우스의 교의
+inroad,내습
+endoscopy,내시경 검사
+ingression,내식
+inward,내심
+inly,내심에
+endocentric,내심적인
+specifics,내역
+concubinage,내연관계
+nimonic,내열
+ovenware,내열 접시
+highheat,내열성의
+stabile,내열성의
+heatproof,내열의
+flameproof,내염성의
+flameretardant,내염성의
+uptime,내용 시간
+docket,내용 적요
+keelson,내용골
+barren,내용이 보잘것 없는
+insubstantial,내용이 없는
+toom,내용이 없는
+underclothes,내의
+undergarments,내의
+undies,내의
+inspired,내의를 받은
+ototoxic,내이 신경독성의
+implantion,내이식
+endogeny,내인성 발육
+endolymph,내임파
+entrails,내장
+viscera,내장
+splanchnology,내장학
+embedded,내장형
+immanency,내재
+inbeing,내재
+immanence,내재론
+nency,내재론
+immanent,내재의
+indwelling,내재하다
+inwardness,내적임
+adductor,내전근
+adduct,내전시키다
+adducent,내전의
+adductive,내전의
+nonintervention,내정불간섭
+inwardlooking,내정중시
+helpmate,내조자
+inlier,내좌층
+incomer,내주자
+antigsuit,내중력복
+midland,내지
+aseismatic,내진의
+earthquakeproof,내진의
+incabloc,내진장치
+endoplasm,내질
+ingroup,내집단
+exorcise,내쫓다
+relegable,내쫓아야할
+gynaecocratic,내창주의
+extravasate,내출혈하다
+naturalbridge,내츄럴 브리지
+disinclined,내키지 않는
+intriguant,내통자
+implosion,내파
+implode,내파시키다
+implosive,내파음
+connotation,내포
+connotative,내포적인
+connote,내포하다
+fusee,내풍성냥
+stormproof,내풍의
+endodermis,내피
+austerity,내핍 생활
+seaworthy,내항성이 있는
+introversive,내향인
+firestone,내화 석재
+firebrick,내화벽돌
+fireproof,내화성으로 하다
+fireproofing,내화성화
+apathy,낸담
+nand,낸드
+potholder,냄비 드는 기구
+panful,냄비가득
+vinaigrette,냄새 맡는 약병
+scentless,냄새 자위를 남기지 않는
+quickscented,냄새 잘 맡는
+deodorization,냄새 제거
+reek,냄새가 나다
+redolent,냄새가 짙은
+smelly,냄새나는
+smellie,냄새나는 영화
+stink,냄새를 맡아내다
+perfumer,냄새를 풍기는 사람
+olfactory,냄새의
+odoriferous,냄새좋은
+nappe,냅
+sire,냅
+tearing,냅다
+napkin,냅킨
+neptune,냅튠바다
+fluvial,냇물의 작용으로
+cooling,냉각
+cooler,냉각기
+refrigeratory,냉각실
+chiller,냉각장치
+refrigerator,냉각장치
+coolant,냉각제
+refrigerant,냉각제
+chill,냉각하다
+chilled,냉경한
+luminescence,냉광
+luminesce,냉광을 발하다
+chilliness,냉기
+callosity,냉담
+insensibility,냉담
+nonchalance,냉담
+coldness,냉담
+coolness,냉담
+frigidity,냉담
+coldly,냉담하게
+coolly,냉담하게
+frostily,냉담하게
+chilling,냉담한
+icecold,냉담한
+icy,냉담한
+coldblooded,냉담한
+coldhearted,냉담한
+standoffish,냉담한
+illtreatment,냉대
+inhospitality,냉대
+freezedrying,냉동 건조
+freezedry,냉동 건조하다
+cryopreservation,냉동 보존
+custard,냉동 커스터드
+reefer,냉동고
+icebox,냉동실
+cryotherapy,냉동요법
+sardonic,냉소적인
+frigidarium,냉욕장
+shepherdspurse,냉이
+refrigerate,냉장되다
+refrigerative,냉장의
+calmness,냉정
+sangfroid,냉정
+iceman,냉정을 잃지 않는 도박사
+philosophically,냉정하게
+recollect,냉정하게 하다
+levelheaded,냉정한
+snubby,냉정히 대하는
+businesslike,냉철
+metallic,냉철하다
+hematocryal,냉혈의
+hellkite,냉혈한
+inexorability,냉혹
+obduracy,냉혹
+sternness,냉혹
+yumyum,냠냠
+thyself,너 자신
+indulgence,너그럽게 봐줌
+lenient,너그럽다
+thou,너는
+disgustful,너더리나는
+squalor,너더분함
+tatter,너덜너덜 해뜨리다
+beechen,너도 밤나무의
+beech,너도밤나무
+fagaceous,너도밤나무과의
+beechnut,너도밤나무의 열매
+spacious,너르다
+overwind,너무 감다
+icky,너무 감상적인
+overlabour,너무 공들이다
+overlong,너무 긴
+overmast,너무 긴돛대를 달다
+prettypretty,너무 꾸며댄
+overhoused,너무 넓은 집에서 사는
+semisweet,너무 달지 않은
+oversophisticate,너무 닳고 닳은 사람
+overjump,너무 뛰다
+overfull,너무 많은
+overbuy,너무 많이 사다
+overmatter,너무 많이 짠 활자
+oversold,너무 많이 판
+runny,너무 무른
+overconfident,너무 믿는
+overindulgent,너무 방임하는
+overbought,너무 비싸진
+overcritical,너무 비판적인
+underdressed,너무 살갗을 드러낸
+goodiness,너무 선인인체하기
+overhit,너무 세게 치다
+overcredulous,너무 쉽사리 믿는
+spoonfeed,너무 어하다
+overripe,너무 익은
+overread,너무 읽다
+outsleep,너무 자다
+overgrown,너무 자란
+overstretch,너무 잡아즐이다
+superfine,너무 점잔빼는
+overfond,너무 좋아하는
+oversize,너무 큰
+oversing,너무 큰 소리로 노래하다
+unputdownable,너무나 재미있는
+kidglove,너무나 점잖은
+gondola,너벅선
+punt,너벅선
+landswell,너울
+flare,너울너울타오르다
+bllowy,너울의
+thine,너의 것
+thy,너의 소유격
+slipslop,너절하다
+sloppy,너절하다
+knuckleball,너클볼
+guffaw,너털웃음
+ye,너희들
+youall,너희들
+snowplow,넉가래
+surriciency,넉넉함
+audacity,넉살
+distrait,넋 나간
+grumble,넋 두리
+sated,넌더리나 있다
+disgustedly,넌더리나서
+sicken,넌더리내다
+insinuator,넌지시 말하는 사람
+allude,넌지시 비추다
+insinuate,넌지시 비추다
+allusive,넌지시 빗대고 말하는
+glancing,넌지시 빗대는
+widespreading,널따랗게 펼쳐진
+allseeing,널리 만물을 내다보는
+resoundingly,널리 알려져
+resounding,널리 알려진
+reigning,널리 유행하는
+permeate,널리 퍼지다
+promulgate,널리 펴다
+prevalencey,널리 행해짐
+duckboards,널빤지 길
+shingly,널빤지로 이은
+boardwalk,널을깐보도
+capacious,널찍하다
+commodious,널찍하다
+roomy,널찍하다
+amply,널히
+extensile,넓어지는
+prolate,넓어진
+expanse,넓음
+huckle,넓적다리
+thigh,넓적다리
+cuisse,넓적다리 가리개
+tuille,넓적다리받이
+gaper,넓적부리새
+groveling,넓죽 엎드리는
+groveler,넓죽 엎드리는 사람
+inextensible,넓힐수없는
+outshoot,넘게 쏘다
+previsional,넘겨다본
+devolve,넘겨지다
+fnumber,넘버
+fstop,넘버 표시 조리개
+outofsight,넘어서있는
+humptydumpty,넘어지면 못 일어나는 사람
+extravasation,넘쳐 흐름
+spillover,넘쳐나는 인구
+overspill,넘쳐나온 것
+ebullient,넘쳐흐르는
+inundant,넘쳐흐르는
+profluent,넘쳐흐르는
+inundate,넘치게 하다
+overbrim,넘치게하다
+profusely,넘치도록
+topful,넘칠 정도의
+plaice,넙치의 무리
+rags,넝마
+tatters,넝마
+ragman,넝마 장수
+scarecrow,넝마를 걸친 사람
+tatty,넝마의
+rag,넝마조각
+interpose,넣다제기하다
+negrillo,네그릴로
+negligee,네글리제
+fourlegged,네다리의
+netherlands,네덜란드
+nereus,네레우스
+nero,네로
+nematic,네마틱의
+nemesis,네메시스
+nemea,네메아
+squarish,네모진
+squareness,네모짐
+nemophila,네모필라
+nevada,네바다
+fourfooted,네발달린
+tetrapod,네발짐승
+nebraska,네브래스카주
+nessus,네소스
+nestorius,네스토리우스
+ness,네스호
+nessie,네시
+neodymium,네오디뮴
+neomycin,네오마이신
+neosalvarsan,네오살바르산
+neoprene,네오프렌
+neon,네온
+neume,네우마
+neum,네우마
+naderite,네이더식
+navel,네이블
+fourthly,네째로
+bandanna,네커치프
+neckerchief,네커치프
+neckline,네클라인
+necking,네킹
+netball,네트볼
+netskimmer,네트스키머
+networking,네트워킹
+netizen,네티즌
+nepalese,네팔의
+nepali,네팔의
+neper,네퍼
+nepenthes,네펜시스
+nef,네프
+nexus,넥서스
+nextel,넥스텔
+nectar,넥타
+scarfpin,넥타이 핀
+tiepin,넥타이 핀
+stickpin,넥타이핀
+nelson,넬슨
+nembutal,넴뷰탈
+neptunium,넵투늄방사능 원소의 하나 , 기호 , 번호 9
+frogmarch,넷이 팔다리를 붙들고 나르다
+agnomen,넷째 이름
+quartus,넷째의
+hearth,노
+fireplace,노
+kiln,노
+oary,노 모양의
+oarage,노 장비
+oarsmanship,노 젓는 법
+bowman,노 젓는 사람
+rower,노 젓는 사람
+quinquereme,노가 5단으로 된 노예선
+fouroar,노가 넷인 보트
+juniper,노간주나무
+rowlock,노걸이
+senescence,노경
+senescent,노경의
+swink,노고
+lethargic,노곤하다
+plump,노골적
+outspoken,노골적
+arbalest,노궁
+dreadnought,노급함
+noggin,노긴소량머리
+nonactin,노낵틴
+psychogeriatrics,노년 정신 의학
+superannuation,노년 퇴직
+grayhaired,노년의
+presby,노년의 뜻
+oldage,노년자의
+jobsharing,노느매기일
+hetaera,노는 계집
+playtime,노는 시간
+nonyl,노닐기
+bonanza,노다지
+balcony,노대
+stretchout,노동 강화
+laborsaving,노동 절약의
+antiunion,노동 조합 반대의
+unionization,노동 조합 형성
+checkoff,노동 조합비 공제
+unionism,노동 조합원
+laborism,노동당의 주의
+dungaree,노동복
+ergolatry,노동숭배
+nonmarket,노동시장에 포함되지 않은
+workpeople,노동자들
+nonunionism,노동조합 불가입
+nonunion,노동조합불가입자가 만든
+unionize,노동조합에 가입시키다
+unorganized,노동조합에가입하지않은
+laboring,노동하는
+yellowlegs,노랑발도요
+spoonbill,노랑부리 저어새
+jonquil,노랑수선화
+swordflag,노랑창포
+outsing,노래 부르기 시작하다
+singingmaster,노래 선생
+songful,노래가 많은
+songless,노래가 없는
+millepede,노래기
+unsung,노래되지 않은
+throstle,노래지
+chant,노래하기
+songfest,노래회
+plunder,노략질하다
+loot,노략질하다
+glare,노려 흘겨 보다
+gorgonize,노려보아돌로 변하게 하다
+glower,노려봄
+struggler,노력가
+inexertion,노력부족
+exertive,노력하는
+effortless,노력하지 않는
+veteranize,노련하게 하다
+senity,노령
+gernotophobia,노령공포
+superaddition,노령으로 퇴직하다
+gerontic,노령의
+backwash,노로 저은 물
+hepatica,노루귀
+baneberry,노루삼속의 식물
+spiraea,노루오줌과의 식물
+norman,노르만 사람과 프랑스 사람의 혼합민족
+anglonorman,노르만 사람의
+normanfrench,노르만 프랑스 말의
+normanism,노르만식노르만 사람 편들기
+normanize,노르만식으로 하다
+normanescque,노르만식의
+normanization,노르만화
+normandy,노르망디
+noradrenergic,노르아드레날린에 의해 활성화된
+norethindrone,노르에티노드렐
+norethynodrel,노르에티노드렐
+norepinephrine,노르에피네프린
+norse,노르웨이 말
+maelstrom,노르웨이 서부 해안의 큰 소용돌이
+norway,노르웨이스칸디나비아 반도 서부의 왕국 , 수도
+oslo,노르웨이의 수도
+norwegian,노르웨이이
+norfloxacin,노르플록사신
+norn,노른
+oared,노를 갖춘
+gamblesome,노름을 즐기는
+norwitch,노리치
+stinkbug,노린재의 무리
+calicoback,노린재의 일종
+dotage,노망
+dote,노망들다
+anile,노망한
+doited,노망한
+doting,노망한
+roadholding,노면 유지 성능
+roadability,노면 주행 성능
+roadable,노면 주행에 알맞은
+scarifier,노면 파쇄기
+trammie,노면의 운전사
+nomogram,노모 그램
+calamite,노목
+roadbed,노반
+oarlock,노받이
+nobel,노밸상 창시자
+walesa,노벨 평화상 수상198
+nobelium,노벨륨인공 방사성원소 기호번호 10
+nobelist,노벨상 수상자
+novocain,노보카인
+braless,노브라의
+nobra,노브라의
+nobrand,노브랜드의
+knobkerrie,노브케리
+sedentarily,노상 앉아서
+onstreet,노상의
+northamptionshire,노샘프턴
+decrepitude,노쇠
+impotent,노쇠자
+decrepit,노쇠한
+effete,노쇠한
+superannuated,노쇠한
+siwash,노숙하다
+nostradamus,노스트라다무스
+presbyopic,노시의
+meltdown,노심 융해
+noah,노아
+noachain,노아시대의
+antemeridiem,노아의 홍수 이전의
+antediluvian,노아의홍수이전의
+presbyopia,노안
+blackberd,노에선에 붙잡힌 캐너켜 원주민
+fag,노역
+slavehunter,노예 사냥꾼
+slavetrader,노예 상인
+enthrallment,노예 상태
+freedman,노예 신분에서 해방된 자유민
+helotry,노예 제도
+proslavery,노예 제도 지지
+manumission,노예 해방
+emancipationist,노예 해방론자
+slaveborn,노예로 태어난
+enslave,노예로만들다
+enthral,노예로만들다
+slavegrown,노예를 시켜서 만든
+servileity,노예상태
+blackbird,노예선에 유괴된 카나카사람
+barracoon,노예수용소
+maxon,노예시대의 남북 경계선
+dixonline,노예시대의 남북 경계선
+vassalage,노예의 신분
+bondage,노예의신분
+slavish,노예적인
+antislavery,노예제도반대의
+neurosis,노이로제
+psychoneurosis,노이로제
+mixedup,노이로제 기미의
+neurotic,노이로제에 걸린
+geriatrician,노인병 학자
+geriatrics,노인병학
+gerontology,노인병학
+gerontophilia,노인애
+gerontological,노인학의
+laotse,노자
+laotzu,노자
+oar,노젓다
+ogive,노즈콘
+nosetackle,노즈태클
+nozzleman,노즐을 잡는 사람
+bleach,노천 관람석
+stripmine,노천 채굴하다
+openpit,노천굴
+denudation,노출
+overexposure,노출 과다
+overexpose,노출 과도
+underexpose,노출 부족으로 하다
+exposed,노출된
+uncovered,노출된
+underexposure,노출부족
+adamism,노출증
+doorknocker,노커
+gnotobiotics,노토바이오틱스
+nautilus,노틸러스호
+nottingham,노팅엄 의 주도
+nottinghamshire,노팅엄셔
+nopal,노팔선인장
+norfolk,노퍽
+hotblooded,노하기 쉬운
+irate,노한
+ranting,노호
+fulminatory,노호하는
+antiageing,노화 방지의
+antioxidant,노화 방지제
+gerovital,노화방지 약
+aloe,노회
+synodic,노회와 전국 총회의 중간 조직
+crocky,노후한
+rust,녹
+tarnish,녹
+antirust,녹 방지제
+hartshorn,녹각정
+fusible,녹기쉬운
+glaucoma,녹내장
+glaucomatous,녹내장의
+chlorite,녹니석
+greenwoods,녹림
+copperas,녹반
+rusty,녹병에 걸린
+stipend,녹봉
+greensand,녹사
+greengill,녹색 아가미의 굴
+greenblind,녹색맹의
+nongreen,녹색이 아닌
+madrepore,녹석
+prase,녹석영
+smaragdite,녹섬석
+knocks,녹스
+knox,녹스
+rusticity,녹슬어서
+rustily,녹슬어서
+greenheart,녹심목
+diffluent,녹아 흐르는
+melty,녹아가는
+knockout,녹아웃
+greenstone,녹암
+chrysoprase,녹옥수
+fusil,녹은
+dropshot,녹은 금속의 방울을 물에 떨어뜨려서 알맹이로 만든 것
+prebendal,녹을 받는 성직자의 직
+recorder,녹음기
+recordist,녹음담당자
+tapedelay,녹음시차
+rustless,녹이 없는
+thawy,녹이는
+beryl,녹주석
+berylline,녹주석의
+greenfield,녹지대
+greenbelt,녹지대
+entanglement,녹채
+aerugo,녹청
+verdigris,녹청
+overworked,녹초가 되다
+controversialist,논객
+loggerheads,논란
+logicality,논리성
+logicism,논리주의
+miscellany,논문집
+elenchus,논박
+refutation,논박
+unanswered,논박되지 않은
+disprove,논박하다
+rebut,논박하다
+irrefragable,논박할 수 없는
+unanswerable,논박할 수 없는
+refutable,논박할 수 있는
+clacker,논밭에서 새를 쫓는 장치
+dialectician,논법가
+aditorial,논설 광고
+editiorialist,논설위원
+ricebird,논에 많은 새들의 총칭
+argumentation,논의
+polemical,논쟁법
+eristic,논쟁술
+tenson,논쟁시
+disputative,논쟁인
+arguer,논쟁자
+disputant,논쟁자
+disputatious,논쟁적인
+ignorationelenchi,논점 상위의 허위
+questionbegging,논점 회피
+demonstrator,논증자
+outargue,논파하다
+confutable,논파할 수 있는
+inexpugnable,논파할수 없는등
+commenter,논평가
+nonfiction,논픽션
+nonfictional,논픽션의
+arguable,논할 수 있는
+loaf,놀고지내다
+playful,놀기 좋아하는
+astonished,놀란
+startled,놀란
+alarming,놀랄 정도의
+startlingly,놀랄만큼
+wondrously,놀랄만큼
+phew,놀람 따위를 나타내는 소리
+astonishingly,놀랍게
+hogfish,놀래기
+seawife,놀래기과의 바닷물고기
+affright,놀래다
+amaze,놀래다
+gibingly,놀려대며
+chaffer,놀리는사람
+badinage,놀리며
+tongueincheek,놀림조의
+gamesome,놀이를 좋아하는
+breechblock,놀이쇠
+jackinthegreen,놀이에서 푸른 잎으로 덮인 광주리 속에 들어 있는 사내아이
+playhouse,놀잇간
+billow,놀치다
+lounger,놈팡이
+spinebasher,놈팡이
+brazier,놋갓장이
+brassware,놋그릇
+braziery,놋쇠 세공
+braze,놋쇠로만들다
+agriculturists,농가
+farmers,농가
+farmhouse,농가
+impetigo,농가진
+wilily,농간부려
+geoponics,농경수ㄹ
+agronomics,농경학
+agronomy,농경학법
+bondman,농노
+helot,농노
+serfdom,농노
+villenage,농노제
+diabase,농농
+bantering,농담조
+aggie,농대
+cajolement,농락
+dobbin,농사말
+agrichemical,농약
+agrochemical,농약
+shamba,농원
+crops,농작물
+farmland,농지
+cerulean,농청색
+concentrator,농축기
+pyaemia,농혈증
+ingredients,농후
+lob,높게 상대방의 뒷쪽으로 가게치다
+barstool,높고 둥근 의자
+uplifted,높여진
+panjadrum,높으신 분
+higherup,높으신 양반들
+tallness,높음
+enhanced,높인
+raised,높인
+exaltation,높임
+loosebox,놓아 기르는 외양간
+encephalography,뇌 엑스레이 촬영법
+din,뇌고 되뇌이다
+pons,뇌교와 연수사이의 중추신경조직
+pontine,뇌교의
+fornix,뇌궁
+brontosaurus,뇌룡
+cerebrate,뇌를 쓰다
+meninges,뇌막
+meninx,뇌막
+meningitis,뇌막염
+meningeal,뇌막의
+gpi,뇌매독
+fretted,뇌문 무늬의
+fretwork,뇌문 무늬의 것
+bribe,뇌물
+payola,뇌물
+slush,뇌물
+reached,뇌물을 먹은
+bribegiver,뇌물을 주는 사람
+corruptible,뇌물이 통하는
+neufchatel,뇌사텔
+fulminate,뇌산염
+thunderstone,뇌석
+caducity,뇌쇠
+impotence,뇌쇠
+encephalic,뇌수의
+hydrocephalus,뇌수종
+hydrocephalous,뇌수종의
+thor,뇌신
+fastigium,뇌실정
+tonite,뇌약
+softening,뇌연화
+cerebritis,뇌염
+encephalitis,뇌염
+phrenitis,뇌염
+encephalitogen,뇌염 유발 물질
+encephalitic,뇌염의
+lobotomy,뇌엽 절재
+leukotomy,뇌엽 절제
+leucotome,뇌엽절제용 메스
+thundershower,뇌우
+thundercloud,뇌운
+apoplexy,뇌일혈
+thunderbolt,뇌전
+fulminous,뇌전성의
+grouse,뇌조
+ptarmigan,뇌조
+encephalogram,뇌조영도
+encephalomyocarditis,뇌척수 심근염
+encephalomyelitis,뇌척수염
+cerebrospinal,뇌척수의
+electroencephalograph,뇌파 전위 기록 장치
+electroencephalography,뇌파 전위 기록술
+electrocorticography,뇌파 측정법
+electroencephalogram,뇌파기록장치
+eeg,뇌파도
+convolution,뇌회
+gyrus,뇌회
+gnocchi,뇨키
+canaliculus,누관
+fistulous,누관의
+mor,누구나 좋아하는 음악
+freeforall,누구나 참가할 수 있는
+quivive,누구야!
+somebody,누군가
+abate,누그러뜨리다
+allay,누그러뜨리다
+mitigate,누그러뜨리다
+soothingly,누그러지게 하여
+inappeasable,누그러지게 할수 없는
+assuasive,누그러지게하는
+unmitigated,누그러지지 않는
+unrelieved,누그러지지 않은
+chastened,누그러진
+remission,누그러짐
+soggy,누기 있는
+adventurer,누기가
+gatehouse,누대
+threadbare,누더기를 걸친
+ragamuffin,누더기를 걸친 더러운 사람
+tatterdemalion,누더기를 걸친 사람
+dud,누더기옷
+raggedy,누더기의
+botchy,누덕누덕 기운
+patchy,누덕누덕 기운
+titsandass,누드 사진의
+nudie,누드를 다룬
+nudist,누디스트
+peasouper,누런 짙은 안개
+etiolate,누렇게 뜨게 하다
+barm,누룩
+leaven,누룩
+barmy,누룩든
+selfsealing,누르기만 하면 봉해지는
+selfstick,누르기만 하면 붙는
+falvescent,누르스름해지는
+woodcock,누른도요
+netizens,누리꾼
+imputation,누명
+numidia,누미디아
+numidian,누미디아 사람
+bulwark,누벽
+ramparts,누벽
+quilt,누비 이불
+quilted,누비 이불의
+quilting,누비 이불의 재료
+nubia,누비다
+nubian,누비아 말
+accumulator,누산기
+leakage,누설
+baseman,누수
+caulking,누수 방지
+hydrostat,누수검출기
+involution,누승법
+nouakchott,누악쇼트
+silkworm,누에
+bombycid,누에 나방의 일종
+sericultural,누에치는 사람
+bedridden,누워만 있는
+asprawl,누워서
+couch,누이다
+raunch,누추
+squalid,누추
+eccrine,누출 분비의
+coypu,누트리아
+nootka,누트카 말
+moist,눅눅하다
+eyelevel,눈 높이
+sightless,눈 먼
+eyed,눈 모양의 얼룩이 있는
+superciliary,눈 위의
+snowshovel,눈 치는 가래
+unblinking,눈 하나 깜짝 않는
+winkedat,눈감아준
+niveous,눈같은
+snowwhite,눈같이 흰
+oculonasal,눈과 코의
+graduated,눈금을 새긴
+calibrate,눈금을 정하다
+scalar,눈금의 수치로 나타낼 수 있는
+eyecatching,눈길을 끄는
+blinkard,눈깜작이
+eyewink,눈깜짝임
+sloeeyed,눈꼬리가 올라간
+crowfooted,눈꼬리에 주름살이 잡힌
+snowdrop,눈꽃
+snowbreak,눈녹음
+snowband,눈더미
+snowbank,눈더미
+drifty,눈더미의
+snowpack,눈덩이로 뒤덮인 들판
+fascinate,눈독들이다
+weever,눈동미류의 식용어
+pupilary,눈동자의
+pupillary,눈동자의
+elope,눈맞아달아나다
+doveeyed,눈매가 부드러운
+tendereyed,눈매가 부드러운
+cecity,눈멂
+misty,눈물 어린
+tearful,눈물 어린
+tearless,눈물 없는
+weepy,눈물 잘 흘리는
+maudlin,눈물 잘 흘림
+bedew,눈물 흘리다
+blubber,눈물로 얼룩지게하다
+tearstained,눈물로얼룩진
+teardrop,눈물방울
+unwet,눈물에 젖지 않은
+drippy,눈물을 강요하는
+sob,눈물을 자아내는
+lachrymose,눈물을 잘 흘리는
+tearjerker,눈물을 짜게 하는 영화
+novelettish,눈물을 짜내는 식의
+lachrymation,눈물을 흘리고 옴
+snowball,눈뭉치
+snowflakes,눈발
+snowfield,눈밭
+flurry,눈보라
+snowstorm,눈보라
+adazzle,눈부시게
+fulgent,눈부시게 빛나는
+resplendent,눈부시게빛나는
+eyeservice,눈비음
+eyebeam,눈빛의 번득임
+lynxeyed,눈빛이 날카로운
+snowman,눈사람
+avalanche,눈사태
+snowslide,눈사태
+snowshed,눈사태 방지 설비
+frown,눈살을 찌푸려서 하게 하다
+gatherd,눈살을 찌푸린
+filldike,눈석임
+nival,눈속에서 자라는
+snowflake,눈송이
+beetlbrowed,눈썹이 굵은
+eyeball,눈알
+blackeyed,눈언저리가 퍼런
+snowbound,눈에 갇힌
+sandfly,눈에 놀이
+snowclad,눈에 덮인
+markedly,눈에 띄게
+noticeably,눈에 띄게
+observably,눈에 띄게
+outstandingly,눈에 띄게
+glaring,눈에 띄는
+inconspicuous,눈에 띄지 않는
+unimposing,눈에 띄지 않는
+insensibly,눈에 띄지 않을 정도로
+sensibly,눈에 띌 정도로
+visibly,눈에 보이게
+visualize,눈에 보이게 하다
+insensible,눈에 보이지 않을 정도의
+invisibility,눈에 보이지 않음
+invisibly,눈에 안보이게몰래
+conspicuous,눈에 잘 띄는
+nocolor,눈에 잘 안띄는 중간색의
+dulleyed,눈에 총기가 없는
+youngeyed,눈에 총기가 있는
+eyesore,눈에거슬리는것
+notedly,눈에띄게
+snowcapped,눈으로 덮힌
+ocular,눈으로 본
+gazehound,눈으로 짐승을 쫓는 사냥개
+nictate,눈을 깜박거리다
+unwinking,눈을 깜박거리지 않는
+drooping,눈을 내리깐
+downcast,눈을 내리뜬
+blinding,눈을 멀게 하는
+goggle,눈을 부릅뜨고 보다
+saucereyed,눈을 부릅뜬
+illusive,눈을 속이는
+whiteout,눈의 난반사로 백일색이 되어 방향감각이 없어지는 극지 대기 현상
+canthus,눈의 양끝
+eyestrain,눈의피로
+sliteyed,눈이 가는
+blindfoled,눈이 가려진
+hawkeyed,눈이 날카로운
+snowiness,눈이 많음
+eloper,눈이 맞아 달아나는 사람
+viewless,눈이 보이지 않는
+dazedly,눈이 부셔
+daze,눈이 부시게 하다
+dazzle,눈이 부시다
+wildeyed,눈이 분노로 이글이글 타는
+fireeyed,눈이 빛나는
+quicksighted,눈이 빠른
+snowy,눈이 오는
+flaming,눈이 이글이글 빛난는
+bleareyed,눈이 잘 보이지 않는
+walleye,눈이 큰 물고기
+lobstereyed,눈이 튀어나온
+popeyed,눈이 휘둥그래진
+bleary,눈이 흐린
+meltwater,눈이나 얼음이 녹은 물
+birdeyed,눈이날카로운
+eyestalk,눈자루
+graft,눈접
+quickeyed,눈치빠르다
+crushable,눌러 부술수 있는
+smother,눌러 참다
+gland,눌림쇠
+disfluency,눌변
+nonfluency,눌변
+ineloquent,눌변의
+nynorsk,뉘노르스크
+nuremberg,뉘른베르크
+nuance,뉘앙스
+shrive,뉘우치다
+unrepentant,뉘우치지 않는
+contrition,뉘우침
+neuristor,뉴리스터
+newmarket,뉴마켓
+newmoneay,뉴머니
+newburgh,뉴버그풍의
+postscript,뉴스 방송후의 해설
+topical,뉴스 영화
+newsroom,뉴스 편집실
+newsless,뉴스가 없는
+newsy,뉴스가많은
+newsmaker,뉴스가치가 있는 사건
+newscast,뉴스를 방송하다
+newscasting,뉴스방송
+photojournalism,뉴스사진
+newsreel,뉴스영화
+newark,뉴어크
+knickerbocker,뉴욕 사람
+manhattan,뉴욕 시내의 섬
+gothamite,뉴욕 시민
+bronx,뉴욕시 북부의 독립구의 하나
+brooklyn,뉴욕시독립구의하나
+broadway,뉴욕시의남북으로뻗은번화가
+hudson,뉴욕주를 흐르는 강
+newcastli,뉴캐슬
+nuclease,뉴클레아제
+nucleosome,뉴클레오솜
+nucleotide,뉴클레오티드
+newton,뉴턴
+newfoundland,뉴펀들랜드
+newhigte,뉴헤어본
+mollify,느그러지게하다
+relaxant,느긋하게하는
+insusceptible,느끼지 않는
+unfelt,느끼지 않은
+appreciable,느낄 수 있을 정도의
+offputting,느낌이 나쁜
+unfeeling,느낌이 없는
+augmentative,느는
+abrupt,느닷없는
+masterly,느란하게
+dully,느럭느럭
+elmy,느릅 나무가 많은
+dilatorily,느리게
+ambler,느리게 걷는 사람
+slowmoving,느리게 움직이는
+drawling,느리게 질질 끄는
+retardative,느리게 하는
+tub,느리고 모양 없는 매
+boeotian,느리광이
+footdraggng,느림
+dawdler,느림보
+laggard,느림보
+tortoise,느림보
+nebuchadnezzar,느부갓네살신 바빌로니아 왕(605-56
+unbrace,느슨하게 하다
+lax,느슨한
+floppy,느슨한
+loosebodied,느슨한
+slacks,느슨함
+laxation,느슨해짐
+wattled,느어진 살이 있는
+noisette,느와제트
+loosened,느즈러지다
+nehemiah,느헤미야느헤미야서
+intercostal,늑간의
+ululate,늑대처럼 짖다
+pleura,늑막
+pleurisy,늑막염
+ribbing,늑상조직
+tantivy,는 소리
+backyard,늘 가는 곳
+kvetch,늘 불평만 하다
+grumbling,늘 쑤시고 아픈
+alyo,늘 정해진 일
+increaser,늘리는 사람
+protractile,늘어나는
+stretchy,늘어나는
+sticking,늘어붙는
+pendulous,늘어진
+lopear,늘어진 귀
+flapeared,늘어진 귀의
+lopeared,늘어진 귀의
+habitue,늘오는손님
+extender,늘이는 사람
+prolong,늘이다
+pendant,늘임 장식
+fermata,늘임표
+accustom,늘하는식의
+geezer,늙다리
+doty,늙어빠진
+agedness,늙음
+gallant,늠름하다
+manly,늠름하다
+decibel,늠향 측정 단위
+mausoleum,능
+outachieve,능가하다
+outrival,능가하다
+florentine,능견의 일종
+smirk,능글맞은 움음
+broche,능라
+brocaded,능라의
+stagemanage,능란하게지시하다
+accomplished,능란한
+rhombohedron,능면체
+gab,능변
+fluent,능변의
+honeytongued,능변의
+bastion,능보
+bastioned,능보를 갖춘
+bignonia,능소화
+jacaranda,능소화과의 수목
+proficient,능수
+don,능수꾼
+deft,능숙한
+workmanlike,능숙한
+calamine,능아연광
+bustard,능에
+damask,능직
+twill,능직
+twilled,능직으로 짠
+siderite,능철광
+dissemblance,능청
+facilely,능히
+serotinal,늦되는
+behindhand,늦어
+backwardly,늦어져
+afterthought,늦은생각
+brunch,늦은조반
+liein,늦잠
+unfasten,늦추다
+defer,늦추다
+unfixed,늦추어진
+unrelaxed,늦춰지지 않은
+incisors,니
+negus,니거스술
+fennelflower,니겔
+negro,니그로
+negroni,니그로니
+nineveh,니네베
+ninevite,니네베 사람
+nibelungenlied,니벨룽겐의 노래
+elemi,니스 등에 쓰임
+niamey,니아메
+nyasaland,니아실랜드
+nialamide,니알라미드
+niobium,니오브
+niger,니제르
+nietzscheism,니체 철학
+nietzschean,니체 철학자
+nicaragua,니카라과
+nicaraguan,니카라과 사람
+nicaea,니케아
+nicene,니케아의
+nicosia,니코시아
+nicotine,니코틴
+nicotinism,니코틴 중독
+niacin,니코틴산
+nicotinicacid,니코틴산
+nicotinamide,니코틴아미드
+nicotinize,니코틴으로 중독시키다
+denicotinize,니코틴을 없애다
+nichrome,니크롬
+niton,니톤
+nit,니트
+knitwear,니트 웨어
+nitro,니트로
+nitrobenzene,니트로 벤젠
+nitrotoluene,니트로 톨루엔
+nitrogenase,니트로게나아제
+nitroglycerin,니트로글리세린
+nitrosamine,니트로사민
+nitrocellulose,니트로셀룰로오스
+nitrochalk,니트로초크
+nbr,니트릴부다디엔 러버
+nitinol,니티놀
+nipa,니파술
+nippy,니피
+nihilist,니힐리스트
+nixonomics,닉슨식 경제정책
+nilgai,닐가이
+nielsenrating,닐슨 시청률
+nymphlike,님프같은
+nymphean,님프의
+outwear,다 써버리다
+spent,다 써버린
+wornout,다 써버린
+unexpendable,다 써버릴 수 없는
+wasteless,다 쓸 수 없는
+polygyny,다 암꽃술
+moribund,다 죽어 가는
+inconsumable,다 테어버릴수 없는
+manyvalued,다가
+polyvalent,다가
+sidle,다가들다
+snuggle,다가붙다
+multilateral,다각적
+polygon,다각형
+diversification,다각화
+cocoa,다갈색
+impressibility,다감
+impressible,다감한
+polycarpic,다결실의
+polycrystaline,다결정의
+polyphyly,다계통
+polyphyletic,다계통 발생의
+porosity,다공성
+porous,다공질
+vesicular,다공질
+multinational,다국적
+spurred,다그쳐진
+multipolar,다극의
+danang,다낭
+perennial,다년생의
+danubian,다뉴브강의
+versatility,다능
+daniel,다니엘서
+dadaist,다다이스트
+dadaism,다다이즘
+peppergrass,다닥 냉이류 식물
+staging,다단식
+multistage,다단식의
+menstrual,다달의
+polysaccharide,다당류
+pat,다독거리다
+polycentric,다동원체의
+manyheaded,다두의
+polybasic,다두정치
+furbish,다듬어 연마하다
+pompadour,다듬어 올린 머리
+unimproved,다듬지 않은
+knobbing,다듬질
+skimpy,다라운
+lowliness,다라움
+squirrel,다람쥐
+chipmunk,다람쥐
+ayeaye,다람쥐원숭이
+tuna,다랑어
+sty,다래끼
+stye,다래끼
+dalian,다렌
+yare,다루기 쉬운
+docility,다루기 쉬움
+manageability,다루기 쉬움
+coltish,다루기 어려운
+stubborn,다루기 어려운
+hardmouthed,다루기 힘드는
+fractious,다루기 힘든
+rebellious,다루기 힘든
+touchy,다루기 힘든
+unmanageable,다루기 힘든
+unwieldy,다루기 힘든
+handfull,다루기 힘든 사람
+cantankerous,다루기힘드는
+bulky,다루기힘든
+rambunctious,다룰 수 없는
+manipulable,다룰 수 있는
+dardanelles,다르다넬스 해협
+darvon,다르본
+underquote,다른 가게보다 싸게 팔다
+transvalue,다른 가치 기준으로 평가하다
+nonidentical,다른 같지 않은2란성의
+distinguishing,다른 것과 구별되는
+clad,다른 금속을 입히다
+bacheloratarms,다른 기사를 섬기는 젊은 기사
+borrowed,다른 데서 따온
+anotherguess,다른 모양의
+heteronomous,다른 발달 법칙에 따르는
+transship,다른 배로 옮기다
+selfexecuting,다른 법령을 기다리지 않고 즉시 시행되는
+intercalation,다른 암질층 사이에 낀층
+obduct,다른 암판위로 밀어올리다
+intercommunion,다른 종파 교도간의 성찬식
+outofstate,다른 주의
+grangerism,다른 책 그림을 오려 책에 따붙이기
+intercalary,다른 층사이의
+facultative,다른 환경에서도 살수 있는
+uncreated,다른것에 의해 창조된 것이 아닌
+reroute,다른길로 수송하다
+reposition,다른장소로 옮기다
+repot,다른화분에 옮기다
+unlikeness,다름
+dari,다리 말
+cispontine,다리 이쪽의
+underpinning,다리,
+leggy,다리가 가늘고 긴
+spindlelegged,다리가 가늘고 긴
+longlegged,다리가 긴
+daddylonglers,다리가 긴 사람
+highboy,다리가 높은 옷장
+tallboy,다리가 높은 장롱
+twolegged,다리가 둘인
+redleg,다리가 빨간 새
+ducklegged,다리가 짧은
+cob,다리를 높이 쳐드는 말
+bridgebuilder,다리를 놓는 사람
+hobble,다리를 묶다
+straddle,다리를 벌리고 걷다
+legroom,다리를 뻗는공간
+dotty,다리를저는
+caster,다리바퀴
+fullfashioned,다리에 꼭 맞게 짠
+bridgetunnel,다리와 터널이 이어지는 도로
+darius,다리우스 왕
+roughdry,다리지 않고 말리다
+becket,다림줄
+ironing,다림질
+noniron,다림질이 필요없는
+sleeveboard,다림질판
+launder,다림질하다
+damascus,다마스쿠프
+damascene,다마스크 세공
+busyness,다망
+polyhedron,다면체
+polyhedral,다면체의
+polynomial,다명
+trichosis,다모 증
+polychaete,다모류 동물의
+sappanwood,다목
+multiracialism,다민족 공존
+multiracial,다민족의
+commonplace,다반사
+fardel,다발
+sheaf,다발
+penicillate,다발털 모양의
+sided,다방면
+loquacity,다변
+gabbing,다변
+verbosity,다변
+manysided,다변의
+staunchly,다부지게
+determinedly,다부지게
+wormwood,다북쑥속의 식물
+eventfulness,다사다난
+eventful,다사다난
+fecundity,다산
+fertility,다산
+productiveness,다산
+reprocuctivity,다산성
+fruitfully,다산으로
+fecund,다산의
+luxuriant,다산의
+prolific,다산의
+teeming,다산의
+fruitful,다산인
+polyphase,다상의
+chromolithographer,다색 석판 인쇄자
+chromolithography,다색 석판술
+chromolithograph,다색 석판의
+stenochromy,다색 인쇄법
+polychromy,다색 장식
+polychrome,다색도 인쇄
+pleochroic,다색성
+multicolored,다색의
+polychromatic,다색의
+quincunx,다섯 눈 모양
+quincuncial,다섯 눈 모양의
+quintus,다섯 번째의
+fivefinger,다섯 손가락의
+cinque,다섯끗
+cinq,다섯끗
+pent,다섯의 뜻의 결합사
+polyphony,다성곡
+obedient,다소 곳하다
+majoritarian,다수결주의
+bolsheviki,다수파
+multiscreen,다수화면
+governable,다스릴 수 있는
+reprocess,다시 가공하다
+recross,다시 가로지르다
+reheat,다시 가열하다
+reenter,다시 가입하다
+reawaken,다시 각성시키다
+rewind,다시 감다
+refortify,다시 강화하다
+recrystallize,다시 결정시키다
+regrade,다시 경사지게 하다
+recalculate,다시 계산하다
+refurnish,다시 공급하다
+republish,다시 공포하다
+backslide,다시 과오에 빠지다
+reimpose,다시 과하다
+reframe,다시 구성하다
+redraw,다시 긋다
+reaffirm,다시 긍정하다
+rekindle,다시 기운이 나다
+twicelaid,다시 꼰
+reforest,다시 나무를 심다
+relapse,다시 나쁜길에 빠지다
+reemerge,다시 나타나다
+resurge,다시 나타나다
+resettle,다시 낙착시키다
+restamp,다시 날인하다
+readmit,다시 넣다
+rerecord,다시 녹음하다
+rehandle,다시 다루다
+refurbish,다시 닦다
+warmedover,다시 데운
+regild,다시 도금하다
+recrudesce,다시 도지다
+rehear,다시 듣다
+reentrant,다시 들어가는
+recalesce,다시 뜨거워 지다
+retelling,다시 만든 이야기
+recomposition,다시 만듦
+rehash,다시 만듦
+readdress,다시 말을 걸다
+retaste,다시 맛보다
+rechristen,다시 명명하다
+regroup,다시 모이다
+reinter,다시 묻다
+recolor,다시 물들이다
+reflow,다시 밀어 닥치다
+reclosable,다시 밀폐시킬 수 있는
+reecho,다시 반향하다
+reignite,다시 발화하다
+relume,다시 밝게하다
+reproof,다시 방수가공하다
+rearrange,다시 배열하다
+relearn,다시 배우다
+recommit,다시 범하다
+reenact,다시 법률로 정하다
+reincorporate,다시 법인으로 만들다
+remonetize,다시 법정 화폐로 통용시키다
+resend,다시 보내다
+resieze,다시 붙잡다
+relet,다시 빌려주는 주거
+sublet,다시 빌려주다
+reapply,다시 사용하다
+reuse,다시 사용하다
+reconsider,다시 생각하다
+rescale,다시 설계하다
+restate,다시 성명하다
+renumber,다시 세다
+rebaptize,다시 세례하다
+reintroduce,다시 소개하다
+revoice,다시 소리로 내다
+reconvene,다시 소집하다
+redigest,다시 소화하다
+resummon,다시 소환하다
+rejigger,다시 손보는 사람
+repossess,다시 손에 넣다
+resurface,다시 수면에 떠오르다
+rehydrate,다시 수화하다
+readjust,다시 순응하다
+resumptive,다시 시작하는
+recommence,다시 시작하다
+renewable,다시 시작할 수 있는
+resumable,다시 시작할 수있는
+recolonize,다시 식민하다
+replantation,다시 심기
+regerminate,다시 싹트다
+resaddle,다시 안장을 얹다
+reseat,다시 앉히다
+reassign,다시 양도하다
+readopt,다시 양자로 삼다
+repiece,다시 엮어 맞추다
+recombine,다시 연결하다
+reopen,다시 열다
+remake,다시 영화화하다
+revaccinate,다시 예방 접종하다
+reascend,다시 오르다
+reclothe,다시 옷을 입히다
+reintegrate,다시 완전하게 하다
+resoluble,다시 용해 할 수 있는
+reincarnate,다시 육체를 부여 받은
+remigrate,다시 이동하다
+replant,다시 이식하다
+reutilize,다시 이용하다
+reassume,다시 인수하다
+recite,다시 인용하다
+recurrence,다시 일어남
+rebound,다시 일어서다
+reperuse,다시 읽다
+reread,다시 읽다
+reappoint,다시 임명하다
+reinvest,다시 임명하다
+reenlist,다시 입대시키다
+retake,다시 잡다
+reconvert,다시 전환하다
+rejuvenesce,다시 젊어지게 하다
+rejuvenescent,다시 젊어지는
+rejuvenate,다시 젊어지다
+rejuvenation,다시 젊어짐
+rejuvenescence,다시 젊어짐
+reorder,다시 정리하다
+reconquer,다시 정복하다
+reoffer,다시 제출하다
+repass,다시 제출하여 통과시키다
+refforest,다시 조림하다
+remint,다시 주조하다
+recriminalize,다시 중요 범죄로 취급하다
+renominate,다시 지명하다
+reload,다시 짐을 싣다
+refill,다시 차다
+restart,다시 착수하다
+respell,다시 철자하다
+reshuffle,다시 치다
+repaint,다시 칠하기
+reembark,다시 탑재하다
+transmigrate,다시 태어나다
+reunify,다시 통일시키다
+resalable,다시 팔리는
+resale,다시 팖
+reflate,다시 팽창시키다
+newmodel,다시 편성하다
+reappraise,다시 평가하다
+repave,다시 포장하다
+relabel,다시 표를 붙이다
+reflorescent,다시 피는
+reflorescence,다시 핌
+replay,다시 하다
+restudy,다시 학습하다
+reassess,다시 할당하다
+rejoin,다시 함께 되다
+retry,다시 해 보다
+reinterpret,다시 해석하다
+recommittal,다시 행함
+reembody,다시 형성하다
+requicken,다시 활기를 띠게하다
+regorge,다시 흘러나오다
+resorbent,다시 흡수하는
+resorb,다시 흡수하다
+reissue,다시나오다
+rebind,다시묶다
+reman,다시병력을 배치하다
+repurchase,다시사다
+revivify,다시살아나게 하다
+rejig,다시손봄
+redemand,다시요구하다
+recur,다시일어나다
+recapture,다시체포하다
+dashiki,다시키
+transmigratory,다시태어나는
+resell,다시팔다
+redo,다시하다
+regrant,다시허가하다
+polyphagia,다식증
+polyphagous,다식증의
+pantheism,다신교
+polytheism,다신교
+polytheist,다신론자
+reprocuctive,다신의
+refectory,다실
+polygynous,다암술의
+wad,다액의 돈
+dayak,다야크 말
+multiplex,다양의
+diversely,다양하게
+diversify,다양하게하다
+heterophile,다염성의
+versatile,다예한
+dahomey,다오메이
+generalpurpose,다용도의
+downlink,다운링크송신
+downswing,다운스윙
+downfield,다운필드
+polygenesis,다원 발생
+polygenetic,다원 발생의
+polygene,다원 유전자
+pluralism,다원론
+pluralistic,다원론의
+pluralist,다원론자
+multivalent,다원자가의
+darwin,다윈
+darwinism,다윈설
+darwinian,다윈설의
+david,다윗
+succlence,다육
+drupaceous,다육과의
+succulent,다육의
+fleshy,다육질의
+overleaf,다음 페이지에
+polyphonous,다음 합성의
+undermentioned,다음에 말하는
+posteriority,다음임
+polyphone,다음자
+polysyllable,다음절어
+polysyllablic,다음절의
+ambiguiy,다의
+equivocality,다의성
+polysemy,다의성
+polysemous,다의의
+dynamically,다이내믹하게
+dynamitard,다이너마이트 사용자
+dynamiter,다이너마이트 사용자
+dynamite,다이너마이트로 폭발하다
+dynamitic,다이너마이트적인
+dynamo,다이너모
+daedalus,다이달로스
+daedalian,다이달로스의 솜씨같은
+diving,다이빙
+diamonds,다이아몬드
+diamondfield,다이아몬드 채굴지
+diamondiferous,다이아몬드가 있는
+borazon,다이아몬드보다 귿은 질화붕소의 결정체
+diazepam,다이아제팜
+diazotype,다이아조타이프
+diazine,다이아진
+diametics,다이어네틱스
+dial,다이얼
+tuneful,다이얼을 딴데로 돌리다
+dioxin,다이옥신
+diein,다이인
+digester,다이제스트 기자
+daiquiri,다이커리
+dihydrostreptomycin,다이하이드로 스트렙토마이신
+dyne,다인
+dilantin,다일랜틴
+dilatancy,다일레이턴시
+dilatant,다일레이턴시의
+fictioneer,다작하는 작가
+tenderness,다정
+genial,다정한
+pun,다져서 굳히다
+polytonality,다조성
+myriapod,다족류의
+polysynthesism,다종합
+hypostyle,다주식의
+polystyle,다주식의
+polycentrism,다중심주의
+multiprocessing,다중처리
+succose,다즙의
+dodge,다지
+polydactyl,다지동물
+darjeeling,다질링
+colorful,다채로운
+colory,다채로운
+variegated,다채로운
+darts,다츠
+unhurt,다치지 않은
+unscathed,다치지않은
+dacca,다카
+dakar,다카르
+ducat,다컷 금화
+dacoity,다코이트의 약탈
+dakota,다코타
+mirv,다탄두 각개 록표 재돌입 미사일
+multiheaded,다탄두의
+vying,다투는
+incontrovertible,다툴 나위 없는
+undeniable,다툴 여지가 없는
+undeniably,다툴 여지가 없의 정도로
+contestable,다툴수 있는
+eris,다툼과불화의여신
+dartmouth,다트머스
+dartmoor,다트쿠어 형무소
+dartboard,다트판
+daphnis,다프니스
+hidrosis,다한증
+exhaustible,다할 수 있는
+exhauxtibility,다할 수 있는 가능성
+multinomial,다항식
+coenocyte,다핵세포
+euphoriant,다행중의
+repletion,다혈증
+cheerfulness,다혈질
+sanguineous,다혈질의
+polymorph,다형
+polymorphism,다형
+syncarp,다화과
+dachshund,닥스훈트
+overhang,닥쳐서 불안케 하다
+pothunter,닥치는 대로 쏘는 사냥꾼
+wildcatter,닥치는 대로 채굴하는 투기사
+trasher,닥치는 대로 파괴 행위를 하는 사람
+burnisher,닦는사람
+brightwork,닦아서 반짝반짝하는 쇠붙이
+brushup,닦음
+holystone,닦음돌
+unpolished,닦지 않은
+stairs,단
+sweetie,단 과자
+columniation,단 구획
+univalve,단각 연체 동물
+amphipod,단각목의
+sprint,단거리 경주
+shoran,단거리 무선 항법 장치
+sprinter,단거리 선수
+rtol,단거리 이착륙기
+stol,단거리 이착륙기
+cutlass,단검
+daggar,단검
+obelisk,단검표
+obelize,단검표를 붙이다
+cohesion,단결
+solidify,단결시키다
+uniaxial,단경의
+gradational,단계적
+monotrematous,단공류의
+monotreme,단공류의 동물
+spectroheliogram,단광 태양 사진
+spectrohelioscope,단광 태양경
+spectroheligraph,단광 태양사진기
+micrococcus,단구균
+tangun,단군
+autotransformer,단권 변압기
+monorail,단궤철도
+unipolar,단극의
+ephemeralization,단기 소모 상품 제조
+gyppo,단기 작업
+gypo,단기 작업
+transient,단기 체류의
+sortie,단기 출격
+exeat,단기 휴가
+shortrange,단기간의
+dannunzio,단눈치오
+anapest,단단장격
+hardboil,단단하게 삶다
+hardboiled,단단하게 삶은
+tightknit,단단하게 조립된
+hardspun,단단하게 지은
+stiffness,단단함
+colonel,단당
+bordering,단대기
+nary,단도 없는
+straightfromtheshoulder,단도 직입적인
+chiv,단도로 찌르다
+shadowboxing,단독연습
+singleacting,단동식의
+singleaction,단동식의
+brachycephalic,단두
+brachycephaly,단두
+monomer,단량체
+inurement,단련
+untempered,단련되지 않은
+chasten,단련시키다
+inure,단련하다
+logoff,단말의 사용을 종료하는 기계 조작의 절차
+tarragona,단맛이 도는 포도주
+brut,단맛이 없는
+ephemerality,단명
+shortlived,단명의
+ephemeral,단명한
+monophthong,단모음
+honeydew,단물
+suedehead,단발족
+singleloader,단발총
+albuminuria,단백뇨
+proteinuria,단백뇨
+opal,단백석
+opaline,단백석의
+albuminous,단백성의
+albumenize,단백으로 처리하다
+albumen,단백질
+floorer,단번에 기둥을 모두 넘어뜨리도록 던지기
+vaulting,단번에 띄는
+monometallism,단본위제
+dromedary,단봉낙타
+monocline,단사
+monoclinic,단사정계의
+glomerule,단산화서
+singlephase,단상인
+monochrome,단색
+autotypography,단색 사진판법
+unicolor,단색인
+breaking,단선
+monophonic,단선율의
+singletrack,단선의
+onetrack,단선인
+unilinear,단선적인
+monohull,단선체선
+fiber,단섬유
+parthenogenesis,단성 생색
+agamospermy,단성 생식
+monogenesis,단성 생식
+unisexual,단성의
+clampdown,단속
+crackdown,단속
+intermittence,단속
+ruptor,단속기
+catchy,단속적인
+fitful,단속적인
+intermittent,단속적인
+snatchy,단속적인
+singular,단수
+leveling,단순화
+holusbolus,단숨에
+sitting,단숨에
+quaff,단숨에 들이켜다
+chugalug,단숨에 들이키다
+touchdown,단시간의 착륙
+henotheism,단신교
+singlebarrel,단신총
+monocle,단안경
+monolith,단암
+monolithic,단암의
+vocabulary,단어집
+dictum,단언
+predication,단언
+affirmatively,단언적으로
+categorically,단언적으로
+categorical,단언적인
+declarative,단언적인
+roundly,단연
+diachylon,단연경고
+adiabatic,단열
+weatherize,단열효과를 높이다
+monoplane,단엽 비행기
+hydromonoplane,단엽 수상기
+unifoliate,단엽의
+unicameral,단원제의
+unitage,단위량
+tiered,단을 이룬
+monotony,단음
+homophony,단음적 가곡
+staccato,단음적으로
+monosyllable,단음절어
+simplification,단일
+singleness,단일
+oneness,단일성
+uniterm,단일어
+monad,단자
+monadism,단자론
+monoculture,단작
+severance,단절
+singletongue,단절법으로 연주하다
+soliped,단제의
+monotone,단조
+platitude,단조
+hammerman,단조공
+clocklike,단조로운
+humdrum,단조로운
+monotonous,단조로운
+drone,단조로운 소리로 말하다
+univocal,단조로운 음성으로 말하는
+hame,단조로운 일
+monopitch,단조로움
+flatly,단조롭게
+singsong,단조롭게 노래하다
+cuckoo,단조롭게 되풀이 하다
+flatten,단조롭게 하다
+drudgery,단조롭고 고된 일
+forging,단조품
+unmalleable,단조할 수 없는
+sterilization,단종
+oddlotter,단주 구입자
+compadre,단짝
+spontoon,단창
+unicuspid,단첨두의
+collegiate,단체조직의
+buttonhole,단추 구멍
+buttony,단추가 많이 달린
+buttonhook,단추걸이
+boutonniere,단추구멍에꽂는꽃
+buttonwood,단추나무
+buttonon,단추로채우는단추식의
+unbutton,단추를 끄르다
+unbuttoned,단추를 끄른
+buttonthrough,단추를채우는
+abridgement,단축
+shortening,단축
+curtail,단축하다
+dislocation,단충
+slickenside,단충 거울면
+danzig,단치히
+dante,단테
+dantean,단테 연구가
+dantist,단테 연구가
+dantesque,단테식의
+radiothermy,단파 디아테르미
+shortwave,단파의
+snippet,단편
+paragraphic,단편 기사의
+paragraphical,단편 기사의
+briefie,단편 영화
+filmlet,단편 영화
+featurette,단편 특작영화
+historiette,단편소설
+fragmentary,단편으로 이루어진
+fragmentarily,단편으로서
+fractional,단편의
+fractionally,단편적으로
+fractionary,단편적인
+scrappy,단편적인
+sycamore,단풍나무의 일종
+waxbill,단풍새의 일종
+monomial,단항식
+monocyte,단핵
+monocycle,단핵 백혈구
+axedarach,단향목
+setback,단형 물림
+resolute,단호하다
+decidedly,단호히
+resolvedly,단호히
+closer,닫는 것
+fastening,닫음
+canopy,닫집
+canopied,닫집이 있는
+lunarian,달 물리학자
+extralunar,달 밖에 있는
+moonwalk,달 산책
+moonless,달 없는
+moonflight,달 여행
+lunarnaut,달 여행 우주비행사
+moonship,달 여행용 우주선
+selenocentric,달 중심의
+lunilogical,달 지질 연구의
+moonfall,달 착륙
+rattly,달가닥거리는
+clatter,달가닥달가닥
+contented,달갑게 하는
+satisfactory,달갑다
+unwelcome,달갑지 않은
+galere,달갑지않은
+penthouse,달개 지붕
+leanto,달개지붕
+eggbeater,달걀 교반기
+oval,달걀 모양의
+ovate,달걀 모양의
+olivary,달걀꼴의
+sweeten,달게 하다
+sweetenting,달게 함
+edulcorate,달게하다
+dory,달고기류
+artemis,달과 수렵의 여신
+punner,달구
+caseharden,달구어 굳어진
+oxcart,달구지
+cartwright,달구지 목수
+inspan,달구지를 메우다
+tartar,달단사람
+dalasi,달라시
+tickytack,달라진 것 없는
+dejavu,달라진 것이 없는
+placable,달래기 쉬운
+implacable,달래기 어려운
+implacability,달래기 어려움
+atamaaco,달래꽃무릇속의 각종 다년초
+placatory,달래는
+propitiative,달래는
+propitiatory,달래는
+conciliatory,달래는
+pacifier,달래는 사람
+soother,달래는 사람
+inexpiable,달랠길 없는
+pacifiable,달랠수 있는
+conciliation,달램
+cartwheel,달러 은화
+snapping,달려들어 무는
+outrun,달려서 이기다
+moonbound,달로 가는
+moonshot,달로켓
+moonport,달로켓 발사 기지
+toey,달리고 싶어하는
+dahlia,달리아
+scurry,달림
+dalmatia,달마티아
+dalmatian,달마티아 개
+dalmatic,달마티카
+luniform,달모양의
+moonwalker,달밤에 걸어다니는 몽유병자
+moonlit,달빛 어린
+moonbow,달빛의 굴절로 생기는 무지개
+attainment,달성
+fulfillment,달성
+effectuate,달성하다
+attainable,달성할 수 있는
+rentfree,달세없이
+budge,달싹하다
+bowfront,달아 낸
+fugacity,달아나기 쉬움
+incensory,달아매는 향료,
+cot,달아맨 침대
+glow,달아오르다
+slinger,달아올리는 사람
+interlunation,달없는 기간
+extraction,달여냄
+superlunary,달위의
+circumlunar,달을 도는
+moonwards,달을 향해서
+lunar,달의
+lunabase,달의 바다
+diana,달의 여신
+luna,달의 여신
+phoebe,달의 여신
+selene,달의 여신
+interlunar,달이 보이지 않는기간의
+decoction,달이기
+saccharize,달콤하게 하다
+dhal,달콩
+moonman,달탐험가
+dalton,달톤
+snailpaced,달팽이 같이 느린
+rill,달표면의 계곡
+calligrapher,달필가
+calligraphic,달필의 -
+gainable,달할 수 있는
+hencoop,닭 둥우리
+henrun,닭 운동장
+henwife,닭 치는 여자
+langouste,닭새우
+cockfight,닭싸움
+cockfighting,닭싸움
+henhouse,닭장
+saltation,닮
+resemblance,닮음
+corrade,닳게 하다
+abrade,닳리다
+fray,닳아 빠지게 하다
+wearpoof,닳아 없어지지 않는
+fraying,닳아 해어진 것
+frazzled,닳아빠지다
+jaded,닳아빠지다
+worn,닳아빠지다
+napless,닳아서 올이 드러난
+wearing,닳은
+unworn,닳지 않은
+backfence,담 너머로의
+maceration,담가서 부드럽게함
+drab,담갈색
+hazel,담갈색
+cholangiography,담관 조영법
+soakage,담그기
+cholecystostomy,담낭조루술
+viridescent,담녹색의
+serenity,담담
+viridescence,담록색
+rotifer,담륜충
+tobacconist,담배 장수
+humidor,담배 저장 상자
+stemmer,담배 제경기
+pipeful,담배 파이프 하나 가득
+whiff,담배 피우다
+stub,담배꽁초
+oversmoke,담배를 너무 피우다
+firecure,담배를 모닥불 연기에 쐬어 건조 처리하다
+nonsmoker,담배를 피우지 않는 사람
+nicotian,담배에서 뽑아낸
+inhale,담배연기를 폐까지 들이마시다
+bland,담백하다
+tobaccopipe,담뱃대
+dottle,담뱃진담뱃진
+hypothecation,담보 계약
+bonded,담보가 붙은
+hypothec,담보권
+warrantor,담보자
+bilestone,담석
+gallstone,담석
+confabulate,담소하다
+freshwater,담수의
+desalt,담수화하다
+ballade,담시곡
+blanketing,담요감
+phlegmy,담의
+unfenced,담이 없는
+basidiomycete,담자균
+basidiospore,담자포자
+ivy,담쟁이 덩굴
+ampelopsis,담쟁이덩굴류의 식물
+creepered,담쟁이로 덮인
+ivied,담쟁이로 덮인
+bile,담즙
+choler,담즙
+bilious,담즙질의
+carrier,담체
+cuspidor,담통
+negotiations,담판
+sporophore,담포자체
+rosily,담홍색으로
+talking,담화
+locutory,담화실
+parlor,담화실
+conversable,담화에 알맞은
+astoldto,담화에 의거하여 전문 저작자가 쓴
+giveandtake,담화의 응수
+buffy,담황갈색의
+buff,담황색의가죽
+matronize,답게 만들다
+ponderous,답답한
+stifling,답답한
+oppression,답답함
+reciprocate,답례하다
+answerer,답변인
+perambulation,답사
+reconnaissance,답사
+reconnoiter,답사하다
+answerable,답할 수 있는
+reentry,닷 들어감
+retrial,닷 행함
+quintan,닷새마다 일어나는
+drawknife,당겨깎는칼
+billiards,당구
+billiard,당구용의
+poolroom,당구장
+carroty,당근색의
+oriflamme,당기
+foredated,당긴 날짜를 적은
+rook,당까마귀
+rooky,당까마귀가 사는
+glycosuria,당뇨
+diabetes,당뇨병
+disbetologist,당뇨병 전문의사
+prediabetes,당뇨병 전증
+prediabetic,당뇨병 전증의
+diabetic,당뇨병 환자
+nondiabetic,당뇨병에 걸려 있지 않은
+glycoprotein,당단백
+coming,당도
+spunky,당돌하다
+saccharide,당류
+crutch,당목 모양의 지팡이
+treacle,당밀
+molasses,당밀
+treacly,당밀같은
+parkin,당밀로 만든 과자빵
+syrupy,당밀성의
+cornball,당밀을 묻힌 팝콘
+striker,당번병
+bagasse,당분을 짜고 남은 깍지
+glycolysis,당분해
+princesfeather,당비름의 일종
+saccharate,당산염
+selected,당선되다
+coupon,당수의 공인장
+yourself,당신 자신
+malvaceous,당아욱과의
+saccharic,당에서 얻은
+indisputability,당연성
+understandably,당연하게도
+deserved,당연한
+matterofcourse,당연한
+righteous,당연한
+cardcarrying,당원증을 가진
+runoff,당위를 흐르는 빗물
+sacchariferous,당을 내는
+dragee,당의정
+straightway,당장에
+factious,당쟁을 일삼는
+confection,당제
+conserva,당제
+overdraft,당좌 대월액 초과 발행
+sucrose,당질
+antinomy,당착
+fiddledeedee,당찮은!
+scrollwork,당초 무늬
+arabesque,당초무늬
+vignette,당초문
+improper,당치않다
+clan,당파
+factionalism,당파심
+sectarianism,당파심
+nonparty,당파심이 없는
+factionalist,당파에 속하는 사람
+sectary,당파에 속하는 사람
+nonparticisan,당파에 속하지 않은
+factional,당파적
+clannish,당파적인
+inapproachable,당해낼수 없는
+mystification,당혹시킴
+disconcerted,당혹한
+saccharification,당화
+diastatic,당화성의
+saccharify,당화하다
+bewilderment,당황
+abash,당황케 하다
+disconcerting,당황케하는
+bewilder,당황케하다
+confound,당황케하다
+demoralize,당황케하다
+discomfit,당황케하다
+bewilderingly,당황하게
+baffling,당황하게 하는
+discombobulate,당황하게 하다
+perturb,당황하게 하다
+disconcert,당황하게하다
+unperplexed,당황하지 않는
+unfazed,당황하지 않은
+flurried,당황한
+muddleheaded,당황한
+panicstricken,당황한
+cathead,닻걸이
+bamboo,대
+greater,대
+ostpolitik,대 동유럽정책
+bioactivity,대 생물 작용
+stemless,대 없는
+cis,대 첩보부
+antihelicopter,대 헬리콥터용의
+grandopera,대가극
+diagonally,대각선
+diagonalize,대각선화하다
+arcturus,대각성
+eclat,대갈채
+ovation,대갈채
+roughcast,대강 만듦
+jotting,대강 적어 두기
+counterinsurgency,대게릴라의
+accusatival,대격의
+accusative,대격의
+waterloo,대결전
+grandplan,대계획
+grandaunt,대고모
+archduchess,대공비
+archducal,대공의
+grandducal,대공의
+pluperfect,대과거
+coronation,대관
+uncrowned,대관식을 올리지 않은
+vicegeral,대관의
+roc,대괴조
+eparchy,대교구
+duomo,대교회당
+pollack,대구 무리
+codbank,대구들이 많이 모이는 천퇴
+parallelism,대구법
+codling,대구새끼
+gadid,대구속의
+whiting,대구의 일종
+battalion,대군
+prerogative,대권
+supremacy,대권
+necropolis,대규모 공동묘지
+manchineel,대극과의 나무
+megajump,대급증
+radiometeorograph,대기 상층의 기상 관측 장치
+aerotherapeutics,대기 요법
+preatmospheric,대기 형성 이전의
+aeroscope,대기검사기
+aeropause,대기계면
+aerosphere,대기권
+extraatmospheric,대기권 밖의
+aerospace,대기권과 우주
+extraterrestrial,대기권외의
+antechamber,대기실
+industrialist,대기업가
+atmospheric,대기의
+advection,대기의 수평이동
+aerography,대기지
+goddaughter,대녀
+cerebration,대뇌작용
+cortex,대뇌피질
+encephalization,대뇌화
+denouement,대단원
+endall,대단원
+ziggetty,대단하군!
+almighty,대단한
+jolly,대단한
+fearlessness,대담
+collocutor,대담자
+interlocutor,대담자
+unadventurous,대담하지 않은
+audacious,대담한
+intrepid,대담한
+venturesome,대담한
+boldness,대담함
+assuredly,대담히
+responsive,대답을 나타내는
+responsively,대답하여
+hereditarily,대대로
+aorta,대동맥
+proverb,대동사
+soybean,대두
+macrocephaly,대두증
+crossbeam,대들보
+dingle,대롱대롱
+dangle,대롱대롱
+contravallation,대루
+counterwork,대루
+convection,대류
+troposphere,대류권
+convect,대류로 순환시키다
+convectional,대류의
+convective,대류적인
+transcontinental,대륙 저쪽의
+icbm,대륙간 탄도탄
+intercontinental,대륙간의
+craton,대륙괴
+continental,대륙사람
+continentalize,대륙식으로 하다
+oceanus,대륙을 둘러싸고 있는 대해양
+microcontinent,대륙형 소암반
+proxy,대리
+vicar,대리 감목
+allograph,대리 서명
+deputation,대리 임명
+alternate,대리교체원
+attorneyship,대리권
+perprocurationem,대리로서
+depute,대리를 명하다
+deputize,대리를 보다
+sub,대리를 보다
+locum,대리목사
+marbled,대리석 무늬의
+marbly,대리석의
+factorage,대리업
+factoring,대리업
+vicarial,대리의
+vicarious,대리의
+delegable,대리인에게 위임할 수 있는
+procuratorial,대리인의
+vicegerency,대리인의 관할 지역
+constituent,대리지정인
+procuracy,대리직
+contraposition,대립
+allelomorph,대립유전자
+hempen,대마로 만든
+archimage,대마술사
+cannabis,대마초
+doobie,대마초 담배
+roach,대마초 담배 꽁초
+hashhead,대마초중독자
+formosa,대만
+taiwanese,대만 말
+formosan,대만 사람
+sellout,대만원
+caul,대망막
+longedfor,대망의
+unambitious,대망이 없는
+barky,대맥
+baldpate,대머리인 사람
+argala,대머리황새
+counterview,대면
+untouchable,대면 안되는
+pronoun,대명사
+pronominally,대명사로서
+pronominal,대명사적인
+carpenter,대목
+ranch,대목장
+contredance,대무
+caps,대문자
+uppercase,대문자로 짠
+nosepiece,대물경을 끼우는 부분
+jiggermast,대박이 돛배의 맨 뒤 돛대
+archtraitor,대반역자
+irruption,대번식
+prodigality,대범함
+chancellor,대법관
+chancery,대법관청
+creditor,대변
+shiteater,대변 먹는 사람
+laxative,대변이 나오게 하는
+mouthpiece,대변자
+scatology,대변학
+scriptwriter,대본 작가
+unscripted,대본없는
+loaner,대부자
+rentroll,대부장부
+megamillionaire,대부호
+britain,대브리톤
+contradistinctive,대비적
+contrastive,대비적
+metabolism,대사
+alterative,대사 기능을 개선하는
+metabolite,대사 산물
+catabolize,대사 작용으로 분해하다
+staggerer,대사건
+chancellery,대사관의 사무국
+letterperfect,대사를 외고 있는
+ambassadress,대사부인
+cordillera,대산맥
+decompensation,대상 부전
+zonation,대상 분포
+banded,대상 장식이 있는
+stripcrop,대상 재배를 하다
+objectfinder,대상 파인더
+argosy,대상선
+cingulotomy,대상속 절개 수술
+shingles,대상포진
+대학생,대생
+st,대서양 남부의 영국령의 섬
+helena,대서양 남부의 영국령의 섬
+atlantica,대서양 세계
+atl,대서양 수송 기선
+cisatlantic,대서양 이쪽 편의
+cinclant,대서양 함대 사령관
+atlantic,대서양의
+bermuda,대서양의 영령군도
+ballyhoo,대선전
+mahatma,대성
+jackpot,대성공
+cathedral,대성당
+residentiary,대성당 참사회원
+dashaveyor,대셔베이어
+finlandize,대소 유화정책을 취하게 하다
+ferment,대소동을 벌이다
+algebra,대수
+logarithm,대수
+abbatial,대수녀원장의
+abbe,대수도원장
+archimandrite,대수도원장
+abbacy,대수도원장의 관할구역
+nimrod,대수렵기수렵애호가
+negligiable,대수롭지 않은
+algebraic,대수의
+aquifer,대수층
+algebraist,대수학자
+mahayana,대승불교
+dashpot,대시포트
+edacity,대식
+gluttony,대식
+voracity,대식
+pontifex,대신관
+counteroffer,대안
+counterplan,대안
+basin,대야
+basinful,대야 가득
+dragnet,대얀검거
+transoceanic,대양 횡단의
+interoceanic,대양사이의
+oceanic,대양산의
+pelagic,대양의
+oceania,대양주
+lunker,대어
+patchery,대어 깁기
+macrolinguistics,대언어학
+lendlease,대여
+understudy,대역을 연습하다
+regicidal,대역의
+bandwidth,대역폭
+tubthumping,대연설
+imperialist,대영 제국주의자
+imperial,대영제국 제정의
+bucephalus,대왕의 애마
+compendium,대요
+epitome,대요
+rocambole,대용 마늘
+succedaneum,대용물
+succedaneous,대용물의
+ersatz,대용의
+substitutional,대용의
+voucher,대용의 인환권
+substitutive,대용이 되는
+proform,대용형
+token,대용화폐
+generalissimo,대원수
+subrogate,대위
+subrogation,대위
+subaltern,대위 이하의
+counterpoint,대위법
+contrapuntal,대위법의
+polyphonic,대위법의
+synecdoche,대유
+interpandemic,대유행기 사이의
+countermine,대음 수
+anticathode,대음극
+countertrade,대응무역
+rx,대응책
+countertype,대응형
+antihelix,대이륜
+scenestealer,대인기 얻은
+antipersonnel,대인살상용의
+japanbashing,대일 제재
+counterglow,대일조
+gegenschein,대일조
+godchild,대자
+godson,대자
+dazibao,대자보
+wallposter,대자보
+siva,대자재천
+masterwork,대작
+antisubmarine,대잠수함의
+smithy,대장간
+imperator,대장군
+coliform,대장균
+followtheleader,대장놀이
+colitis,대장염
+blacksmith,대장장이
+ironsmith,대장장이
+smith,대장장이
+steelyard,대저울
+archenemy,대적
+counterintelligence,대적 첩보 활동
+macrocyte,대적혈구
+tankbuster,대전차포
+charged,대전한
+abacus,대접받침
+entertainer,대접하는사람
+dearly,대정 깊이
+noncooperation,대정부 비협력대영 비협력 운동
+contradistinguish,대조구별하다
+antithetical,대조를 이룬
+antithesis,대조법
+collator,대조자
+checklist,대조표
+stylobate,대좌
+unstep,대좌에서 떼어내다
+alcoholism,대주
+lender,대주
+metropolitan,대주교교구의
+lambert,대주교의 런던 궁전
+masscult,대중 문화
+allopath,대중 요법의사
+kitschy,대중에게 영합하는
+heteropathy,대중요법
+downmarket,대중용의
+popularist,대중의 인기를 노리는
+irrelative,대중이 틀리는
+populism,대중화주의
+allopathy,대증 요법
+homesite,대지
+groundplot,대지
+mesa,대지
+siting,대지 계획
+groundprox,대지 접근 경보 장치
+passepartout,대지용 접착 테이프
+zygodactyl,대지족류의 새
+squire,대지주
+도회지都會地,대처
+antipodal,대척적인
+antipodes,대척지
+broadbrush,대체적인
+cardholder,대출등록자
+roughhewn,대충 깎은
+scabble,대충 다듬다
+rougher,대충 만드는 사람
+roughhew,대충 자르다
+lookover,대충 훑어 봄
+slur,대충 훑어보다
+sketchily,대충단편적으로
+smashup,대충돌
+contralateral,대측성의
+contrapose,대치하다
+irreplaceable,대치할 사람이 없는
+replaceable,대치할 수 있는
+symmetry,대칭
+antiballistic,대탄도의
+latifundism,대토지 소유
+femur,대퇴골
+thighbone,대퇴골
+crossbones,대퇴골2개를 교차시킨 도형
+femoral,대퇴부의
+cointelpro,대파괴자 첩보 활동
+writtenoff,대파한
+foolscap,대판양지
+artillery,대포
+cannon,대포
+cyclone,대폭풍
+ripsnorter,대폭풍
+doggery,대폿집
+exponent,대표물
+ceo,대표이사
+delegacy,대표자 파견
+masterpiece,대표작
+untypical,대표적이 아닌
+typicality,대표적임
+chaulmoogra,대풍수
+clearway,대피로
+ghostwrite,대필하다
+attending,대학  부속병원에 의사로서 근무하는
+outcollege,대학 구내 밖에 사는
+townee,대학 도시의 사람
+extramural,대학 밖의
+vicechancellor,대학 부총장
+heidelberg,대학 소재지
+bejaune,대학 신입생
+inresidence,대학 연구소등에 상주하는
+ceeb,대학 입학 시험 위원회
+matriculant,대학 입학자
+matriculate,대학 입학하다
+noncollegiate,대학 정도가 아닌
+yalie,대학 출신자
+regency,대학 평의원의 직
+frosh,대학1년생
+intercollegiate,대학간
+interuniversity,대학간
+oxbridge,대학과 Cambridge 대학
+varsity,대학따위의 대표팀
+academical,대학생의 정장
+balliol,대학의 cllege의 하나
+bedell,대학의 의전선도계
+bursary,대학의 장학금
+senatus,대학의 평의원회
+dean,대학의 학장
+helluva,대한한
+pairing,대합
+countermove,대항 수단으로서 하다
+counterapproach,대항 참호
+counterprogramming,대항 프로 편성
+countervail,대항력이 있다
+counterforce,대항세력
+countercheck,대항수단
+counterdrug,대항약
+counterespionage,대항적 스파이 활동
+counterescalation,대항적 확대
+counterviolence,대항적폭력
+counterterrorism,대항테러
+antagonize,대항하다
+consignment,대행
+instrumentality,대행기관
+armiger,대향사
+opposability,대향성
+blowout,대향연
+tallyho,대형 4두마차
+mainframe,대형 고속 컴퓨터
+bolo,대형 나이프
+walkin,대형 냉장고
+tankard,대형 맥주컵
+longboat,대형 보트
+hypermarket,대형 슈퍼마켓
+superstore,대형 슈퍼마켓
+armoire,대형 옷장
+arine,대형 위성 발사용 로켓
+charabanc,대형 유람 버스
+supersybmarine,대형 잠수함
+bombardon,대형 저음 금관악기의 일종
+hearse,대형 촉대
+dromond,대형 쾌속범선
+oilberg,대형 탱커
+crump,대형 포탄으로 폭격하다
+longship,대형선
+chateaubriand,대형의 비프 스테이크
+pandemonium,대혼란
+deluge,대홍수
+fasciation,대화 현상
+colloquist,대화자
+dialogist,대화자
+interlocutory,대화중에 삽입하는
+hypallage,대환법
+pieplant,대황
+rhubarb,대황
+conventioneer,대회 출석자
+holocaust,대희생
+dactylic,댁틀의 시구
+dancercise,댄서사이즈
+dallas,댈러스
+dallasite,댈러스의 주민
+damsite,댐 건설 부지
+bong,댕
+lapwing,댕기 물떼새
+pewit,댕기물떼새
+outjump,더 높이 뛰다
+outdraw,더 많이 끌다
+overpay,더 많이 지불하다
+moreish,더 먹고 싶어지는
+outsail,더 멀리까지 항해하다
+superadd,더 보태다
+forrader,더 앞으로
+anymore,더 이상
+scum,더껑이
+bedaub,더덕더덕 칠하다
+halting,더듬거리는
+prattler,더듬거리는 사람
+stammer,더듬거리다
+brokenly,더듬거리며
+bumble,더듬거리며 말하다
+stutter,더듬다
+stumblingly,더듬더듬
+stammering,더듬으려 말하는
+falter,더듬음
+fumble,더듬질
+griminess,더러움
+untarnished,더러움이 없는
+smudgeily,더러워져서
+smuttily,더러워져서
+taintless,더러워지지 않은
+smear,더럼
+mangily,더럽게
+nastily,더럽게
+inviolate,더럽혀지지 않은
+undefiled,더럽혀지지 않은
+unsoiled,더럽혀지지 않은
+unsullied,더럽혀지지 않은
+violative,더럽히는
+bedraggle,더럽히다
+befoul,더럽히다
+besmirch,더럽히다
+contaminate,더럽히다
+defile,더럽히다
+pollute,더럽히다
+violable,더럽힐 수 있는
+vitiable,더럽힐 수 있는
+defilement,더럽힘

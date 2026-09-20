@@ -1,0 +1,2000 @@
+ability,능력
+able,기능을 나타내는 형용사를 만듦
+abroad,대외
+accept,감수하다
+achieve,달성하다
+act,극의 막
+active,민활하다
+actually,막상
+advantage,강점
+adventure,모험
+advertise,공고하다
+advertisement,광고
+advertising,광고업
+affect,영향하다
+against,겨루다
+airline,직행로
+alive,살아서
+although,설렵
+among,에 둘러싸여
+amount,결같다-합계
+ancient,고래의
+ankle,발목
+anybody,누구도
+anyway,어떻게 해서든
+anywhere,어디에나
+appear,나타나다
+appearance,곡두
+apply,바르다
+architect,건축가
+architecture,건조물
+argue,논쟁하다
+argument,논의
+arrange,마련하다
+arrangement,배열
+asleep,마비되어
+assistant,보좌의
+attack,공격
+attention,보살핌
+attractive,관심을 끄는
+audience,과객
+author,작가
+available,가용
+average,보통의
+avoid,꺼리다
+award,수여하다
+awful,두려운
+background,바탕색
+badly,나쁘게
+bar,가로장
+based,근거가 있는
+beat,면하다-연거푸 치다
+behave,올바르게 행동하다
+belong,에속하다
+benefit,은전
+billion,10억의
+bin,큰상자
+biology,생물학
+birth,가문
+biscuit,비스킷
+bit,비트
+blank,공백으로하다
+blow,강타
+boil,격분하다
+brilliant,번쩍번쩍하는
+broken,고장
+burn,개울
+businessman,기업인
+camping,노숙
+care,간호하다
+carefully,신중히
+carpet,깔개
+cartoon,만화 영화
+case,문제
+cash,맞돈
+cause,빚다
+celebrate,거행하다
+celebrity,명사
+certain,몇개
+chance,가망
+character,괴짜
+charity,구호
+chat,담소
+chef,주방장
+chemistry,성격등이 잘 맞음
+chip,깨다
+choice,발탁
+classical,고전 문학의
+closed,금렵중인
+clothing,의료
+coach,2등
+code,법전
+colleague,동료
+collect,가다듬다
+column,꽃술대
+comedy,인생극
+comfortable,기분이 좋은
+comment,세평
+communicate,성찬을 받다
+community,공동사회
+compete,경쟁하다
+competition,각축
+complain,고소하다
+completely,극단적
+condition,상태
+conference,상의
+connect,결합하다
+connected,관련하여
+consider,간주하다
+contain,견제하다
+context,문맥
+continent,극기의
+continue,게속자
+control,감리
+cooker,요리 도구
+copy,광고문
+correctly,바로
+count,간주하다
+couple,2개의
+crazy,반한
+creative,독창적인
+credit,대월 계정
+crime,군기위반으로 처벌하다
+criminal,범죄적
+crowd,꽉 들어차다
+crowded,분주하다
+cupboard,벽장
+curly,곱슬곱슬하게 하다
+cycle,1군
+daily,날마다
+data,데이터
+dead,쓸모없이된
+deal,거래량
+dear,귀여운 사람
+decision,원심
+definitely,단연
+degree,계급
+dentist,치과의사
+department,국
+depend,나름이다
+desert,불모 시대
+designer,도안자
+destroy,멸하다
+detective,탐정의
+develop,개척하다
+device,계략
+diary,일기장
+differently,같지 않게
+digital,계수형인
+direct,똑바른
+direction,방면
+director,중역
+disagree,맞지 않다
+disappear,소실하다
+disaster,난민
+discover,찾다
+discovery,발견
+discussion,논의
+distance,거리
+divorced,남남
+document,기록문헌
+double,2배가되다
+downstairs,아래층
+drama,극적사건
+drawing,달여내기
+driving,운전
+drug,마취시키다
+earn,감사 따위를 받을 만하다
+education,교육
+effect,결과를 가져오다
+either,어느것인가
+electricity,전기
+employ,고용
+employee,고용인
+employer,고용주
+ending,결말
+engine,기관차
+engineer,공학가
+enormous,거창하다
+environment,둘레
+equipment,설비
+error,과실
+essay,소론
+everyday,만날
+everywhere,곳곳
+evidence,증
+exact,꼼꼼한
+exactly,그렇소
+excellent,우량
+except,외
+exist,실재하다
+expect,라고 생각하다
+experience,경로
+expert,감정인
+explanation,변명
+express,급행열차
+expression,표출
+extreme,과격한
+extremely,가뜩
+factor,대리상
+fail,게을리하다
+fair,가망이 있는
+fan,부채꼴로 펼치다
+farming,농사
+fashion,유행
+fear,경외
+feature,인기 거리로 내세우다
+feed,공급재료
+female,여성
+fiction,가설
+field,벌판
+figure,도면
+film,피막
+final,결정적인
+fishing,고기잡이
+fit,에 적합하다
+flat,공기가빠진
+flying,공중에 뜨는
+focus,병소
+following,문하
+foreign,이질의
+formal,정식 무도회
+fortunately,다행히
+forward,급진적인
+fun,응
+furniture,가구
+further,그이상의
+future,미래
+gallery,노대
+gap,산이 끊어진 데
+general,개괄적인
+goal,결승점
+god,신
+golf,골프
+government,경륜
+guest,빈객
+guide,가이드
+gun,소총
+guy,버팀밧줄
+hall,교사
+headache,두통
+heat,가열
+height,고도
+himself,그자신
+his,그의
+hockey,하키
+human,인간에게 있기 쉬운
+hurt,다치다
+ideal,관념적인
+illness,투병
+image,이미지
+immediately,냉큼
+increase,강해지다
+incredible,굉장한
+independent,남에게 의존하지 않는
+individual,개별의 일개의
+industry,경영자측
+informal,탁 터넣은
+injury,명예훼손
+instead,의 대신에
+instruction,소송위임장
+instructor,가르치는 사람
+instrument,계기
+intelligent,슬기롭다
+international,국제
+introduction,끼워넣음
+invent,날조하다
+invention,꾸며낸 일
+invitation,권유
+involve,말려들게하다
+item,1항
+itself,그것 자체
+jam,곤경
+jazz,법석 떨다
+journalist,신문업자
+kid,새끼염소
+knock,두드리다
+knowledge,조예
+lab,노동 자문위원회
+lady,부인
+laptop,무릎에 얹어 놓을 크기의 퍼스널 컴퓨터
+last,견뎌내다
+later,나중에
+laughter,웃음
+law,발효
+lawyer,법률가
+lazy,게으르다
+leader,굴지
+learning,박식
+least,가장  않다
+less,덜
+level,낮추다
+lifestyle,고도화
+lift,걷힘
+link,고리
+listener,경청자
+lorry,화물 자동차
+lost,길잃은
+lovely,멋진
+major,큰쪽의
+male,나쁜의 뜻
+manage,다루다
+manager,교섭 위원
+manner,매너
+marry,결혼하다 결혼하다
+material,물적 증거
+mathematics,수학
+matter,물질
+may,5월
+media,미디어
+medical,개업의
+memory,기억력
+mention,언급하다
+metal,금속
+method,방법
+might,권불십년
+mind,거두다
+mine,내
+missing,없어진
+mobile,자유로 움직이는
+mostly,다분히
+motorcycle,애마
+movement,나도는 상황
+musical,음악이 따르는
+myself,나 자신
+national,국립의
+neither,그것은 관계없는 일이다
+network,네트워크
+normal,규격대로의
+normally,보통은
+notice,고지
+novel,새롭다
+nowhere,별볼일 없는
+nut,견과
+offer,드리다
+officer,간사
+onto,의 위에
+option,선택권
+ordinary,보통으로
+organization,결단
+organize,결성
+original,독창적
+ourselves,우리자신
+oven,화덕
+own,모조리자백하다
+owner,임자
+pack,꾸러미
+painter,칠장이
+palace,궁전
+parking,주차
+particular,특수한
+passenger,탑승객
+past,수상쩍은
+pattern,규범
+penny,티끌 모아 태산
+per,매우의 뜻
+perform,실행하다
+permission,용납
+personality,사람됨
+petrol,가솔린
+photograph,찰영하다
+physical,물리
+physics,물리학
+planet,운성
+platform,강령
+pleased,느긋하다
+pollution,불결
+pop,부풀게 하다
+population,모집단
+position,신임
+possession,소유
+possibility,가능
+poster,사기꾼
+predict,예보
+president,사회자
+prevent,예방하다
+print,자국
+printer,인서기
+prison,감옥
+prize,고맙게 여기다
+process,조사 분석하다
+produce,발부
+professional,지적 직업에 종사하는
+professor,지휘자
+profile,인물단평
+program,차례표
+progress,경위
+promise,가망
+pronounce,발음하다
+protect,보호하다
+provide,공급하다
+pub,목로술집
+public,공공적
+publish,공포하다
+purpose,목적
+quality,고하
+quantity,미지수
+race,북이 왔다갔다 하는 길
+railway,경편궤도
+raise,가격 인상
+rate,등급등
+rather,그렇고 말고
+reach,빛깔 등의
+react,반동하다
+realize,돈으로 바꾸다
+recent,근대의
+recently,근래에
+reception,감득
+recipe,비방
+recognize,목불식정
+recommend,마음에 들게 하다
+record,공판기록
+recording,녹음
+recycle,재생하여 이용하다
+reduce,감소시키다
+refer,귀착시키다
+region,관구
+regular,계통적
+relationship,돈독하다
+remove,다음 접시
+repair,구하러 가다
+replace,갈다
+reply,답변하다
+report,공보
+reporter,보고자
+request,간청
+research,과학적 탐구
+researcher,연구가
+respond,대응주
+response,리스폰스
+rest,걸려있다
+review,검열하다
+rise,개막
+role,배역
+round,둥글다
+route,경로
+rubbish,시시하다!
+rude,날림의
+runner,내탐자
+sadly,슬프게
+sail,돛배
+sailing,범주
+salary,녹봉
+sale,매각
+sauce,맛을 내다
+scary,무서운
+scene,경치
+schedule,명세표
+screen,심사하다
+search,찾다
+secondly,둘째로
+secret,그윽히
+secretary,간사
+seem,로 보이다
+sense,읽다
+separate,가려내다
+series,수열
+serious,묵작하다
+serve,봉사하다
+service,감는 밧줄
+several,각기의
+shake,댄스하다
+sheet,시트
+since,이래
+singing,고창
+single,단일
+sir,각위
+site,용지
+ski,스키
+skiing,스키술
+smoking,그을림
+social,사회적인
+society,공동체
+sock,속스
+soldier,군대에 복무하다
+solution,용액
+solve,수습
+somewhere,어느땐가
+sort,신통찮은
+source,소스
+speaker,변사
+specific,독특하다
+speech,담화
+stage,단
+stair,한 단
+state,국사범
+steal,후무리다
+stomach,욕망
+straight,솔직하게
+strategy,병법
+stress,강세
+structure,조직
+succeed,에 계속하다
+successful,대성공의
+such,그것만으로
+suggest,넌지시 비추다
+suggestion,생각남
+support,먹이다
+suppose,만일
+surprise,기습
+surprising,경악스럽다
+survey,개관
+symbol,부호
+system,계
+tablet,메모장
+target,목표액
+task,일
+teaching,가르치기
+technology,과학기술
+teenage,10대의 소년
+temperature,기온
+term,개정기
+text,본문
+themselves,그들자신
+thinking,내성
+thought,도출
+tidy,정돈하다
+tip,끝에 붙이는 것
+tool,공작기계
+tourism,유람
+towards,로
+track,신발에 묻혀 들이다
+tradition,관례
+traditional,재래식
+trainer,트레이너
+training,조교
+transport,나르다
+twin,쌍둥이의
+typical,대표적인
+underground,비밀의
+understanding,양지
+unfortunately,불행하게도
+uniform,일정하다
+unit,한사람
+united,결합한
+unusual,드물다
+upstairs,상공에
+usual,심상하다
+valley,유역
+van,유개 화차
+variety,다양
+vehicle,매개물
+view,가망
+virus,바이러스
+washing,빨래
+wave,기복하다
+web,거미줄 모양의 것
+wedding,결혼 기념식
+while,빈둥 빈둥보내다
+wild,미개지
+winner,수상자
+wooden,나무로 만든
+working,조작
+worried,걱정스런
+worry,고생하며 헤쳐 나아가다
+worse,더욱 나쁘게
+worst,가장 나쁘게
+zero,영
+most,가장
+family,가구
+thanks,감사
+marriage,결혼
+continuously,계속
+hometown,고향
+textbook,교과서
+september,9월
+mood,고양
+me,나
+proceed,나가다
+weather,뚫고 나아가다
+date,기일
+husband,남편
+daytime,낮
+descend,급승하다
+freezer,냉동기
+broad,넓다
+pour,넣다
+set,넣다
+insert,끼워넣다
+thrust,넣다
+your,네
+necktie,넥타이
+fourth,넷째
+song,이야기
+eyes,눈
+everything,계
+fifth,5분의1
+next,그다음
+polish,광나게  하다
+tobacco,담배
+embassy,대사관
+university,대학
+conversation,대화
+more,그이외의
+heated,격한
+arrival,내도
+germany,독일
+words,공통어
+speaking,논지
+cease,말다
+pure,맑다
+flavor,농후
+spicy,맵다
+everybody,각사람
+physique,덩지
+whatever,어떤 이라도
+meter,미터
+exchange,교환무역
+group,군
+company,같이 있음
+pronunciation,명료도
+pear,배
+abdomen,배
+sickness,구역질
+parents,부모
+minutes,분
+video,비디오
+crimson,빨간색
+purchase,구입품
+dictionary,사서
+stroll,만보하다
+march,분열 행진하다
+arise,생기다
+occur,라는 생각이 머리에 떠올랐다
+happen,생기다
+livelihood,살림
+shower,빗발 치듯함
+mutually,서로
+centimeter,센티미터
+customer,고객
+shopping,물건사기
+handkerchief,수건
+classes,수업
+alcohol,술
+sports,스포츠
+sorrowful,가슴아픈
+timekeeper,계시기
+timepiece,시계
+refreshing,개운하다
+october,10월
+bazaar,바자
+marketplace,경제의 장
+footwear,신는 것
+rudeness,방자
+impolite,무례한
+december,12월
+november,11월
+garbage,고기찌끼
+cleanse,세척하다
+infant,소아
+wife,내연
+ninety,90개 사람
+etc,극심
+peacefully,안녕히
+embrace,껴안다
+pharmacy,약국
+everytime,언제나
+mamma,유방
+absent,결석
+eighty,80년대
+various,가지 가지
+summertime,여름
+depot,역
+practice,개업하다
+exercise,걸다
+enthusiastically,열심히
+england,영국
+antiquity,고대
+ascend,시대가 거슬러 올라가다
+cooking,요리
+nowadays,오늘날
+our,당소
+motion,동작
+stadium,스타디움
+weep,실컷울다
+krw,원
+june,6월
+sixty,60의
+moment,계기
+february,2월
+japanese,일본말의
+january,1월
+labor,몹시 흔들리다
+seventy,일흔
+spot,1달러
+frequently,번번이
+seize,붙들다
+amusement,재미
+enjoyment,완상
+uh,저
+lunchtime,점심때
+graduation,졸업
+regret,낙담
+preparation,대비
+china,도자기의
+chinese,고립어
+weighty,남을 수긍케 하는 힘이 있는
+agreeable,기분 좋은
+map,지도
+atlas,아라스
+brief,간결한
+truly,성실히
+seek,색출
+cleaning,깨끗이 함
+football,축구
+assault,강간
+toothpaste,치약
+canada,유사
+kindle,타오르게 하다
+cola,생계비 조정
+christmas,성탄절
+stature,신장
+tv,유료
+team,팀
+percent,100분
+grapes,포도
+indication,계기의 시도
+exhausted,고단하다
+pian,피아노
+pizza,고기 따위가 얹힌 큰 파이
+requirement,수요
+necessity,궁경
+nevertheless,그럼에도불구하고
+hamburger,얼굴이 상처투성이의 프로 복서
+full,천의 올을 배게 하다
+famly,가정
+eggplant,가지
+fake,가짜
+snack,가벼운 식사
+persimmon,감
+feelings,감
+possess,갖다
+materials,거리
+result,결과
+economy,검약
+economical,검약한
+calculation,계산
+calculator,계산기
+contract,계약
+amend,개심하다
+scientifically,과학적
+spectator,관객
+concretely,구체적
+noodles,국수
+mr,군
+gram,그램
+laborer,근로자
+writing,글쓰기
+expectation,가망성
+technician,기사
+coughing,기침
+guitar,기타
+tension,긴장
+seaweed,김
+laver,김
+deepness,깊이
+depth,깊이
+reason,까닭
+gum,고무장화
+untiringly,꾸준히
+ceaselessly,꾸준히
+nod,끄덕이다
+herbs,나물
+display,과시하다
+remain,남다
+superior,높은 양반
+overlook,내려다 보다
+contents,내용
+beyond,너머
+widen,넓히다
+collapse,넘어지다
+overflow,범람하다
+crossroads,네거리
+fellow,녀석
+effort,공들다
+strive,겨루다
+dissertations,논문
+agriculture,농무
+elevate,기분을 들뜨게하다
+miss,놓치다
+muffle,간접 가열실
+quash,누르다
+restrain,걷잡다
+tame,길들다
+tardy,느리다
+gain,빌 붙다
+multiply,곱하다
+capability,가능 출력
+approach,거의와 같다
+diverse,다양하다
+diet,규정식
+simply,간략히
+merely,다만
+vary,다양하게 하다
+rush,거의 만점인 좋은 성적
+hang,결정하지 않다
+moonlight,달빛
+flee,내빼다
+resemble,닮다
+charge,값을 매기다
+duty,구실
+counterpart,1통
+considerable,대단하다
+grand,거룩하다
+representative,대리의
+confront,대하다
+foul,충돌하다
+indebtedness,덕분
+incompletely,덜
+veil,구실
+instance,경우의뢰
+escape,남지않다
+porcelain,도자기
+tokyo,도쿄
+reading,낭독
+german,독일 사람
+garlic,마늘
+flooring,마루
+massage,마사지
+meeting,결투
+complete,끝마치다
+carelessly,경솔하게
+obstruct,막다
+create,나게 하다
+cartoons,만화
+beaten,두들겨 편
+correct,교정하다
+adjust,맞추다
+adapt,맞추다
+fascination,눈독들임
+charm,마력
+bewitchery,매력
+bare,결핍된
+naked,맨
+headhair,머리카락
+swallowed,먹히다
+smartness,멋
+stylish,멋있다
+tasteful,멋있다
+memo,메모
+command,내려다 보는 위치
+monitor,경고자
+model,개작하다
+signs,모양
+indications,모양
+form,격
+gather,거두어들이기
+assemble,모이다
+necklace,네크리스
+object,목적 없는
+secretly,몰래
+radish,무
+fearful,걱정하여
+dreadful,무서운
+disregard,경시
+ignore,무시하다
+trade,대가로 제공하다
+dancing,무도
+unconditional,무조건
+composition,구도
+literature,문물
+culture,경작하다
+bite,깨물다
+beforehand,마저
+dislike,미워하다
+nation,민족
+belief,믿음
+flour,밀가루
+millimeter,밀리미터
+pin,노받이
+spread,바르다
+ignorant,무식한
+violin,바이올린
+applause,박수
+prop,받침
+development,개발
+intellect,발달
+originate,발명하다
+announcement,발표
+chestnut,구렁말
+midnight,밤중
+appetite,밥맛
+broadcast,방송
+delivery,교부
+badminton,배드민턴
+mushroom,버섯
+translation,바꾸어 놓음
+enlarge,벌어지다
+unclothe,덥개를 벗기다
+undress,벗기다
+transformation,변모
+particularly,각별히
+information,견문
+worth,상당하는 분량
+guarantee,보장
+insurance,보험
+protection,방어
+shelter,방공호
+reproduction,번각물
+reproduce,복사하다
+reviewing,복습
+fry,감자튀김
+roast,구워지다
+originally,독창적으로
+primarily,본래
+errand,볼일
+engagement,고용
+envelope,봉투
+neighborhood,그지역의
+vicinity,근방
+shame,무안
+disgrace,무안
+disgraceful,부끄럽다
+tender,만만하다
+envy,부러움
+portion,몫
+lack,결핍되다
+insufficiency,미흡
+favor,부탁
+obviousness,분명
+obviously,분명히
+atmosphere,분위기
+surroundings,분위기
+buddhism,불교
+blaze,격발
+spark,미남인체 하다
+dissatisfaction,불만
+uneasiness,불안
+anxiety,걱정거리
+anxious,걱정스러운
+scalet,붉다
+liquid,돈으로 바꿀 수 있는
+stick,걸리게 하다
+affix,도장을 누르다
+blouse,블라우스
+comparatively,대비적
+vinyl,비닐 수지
+expense,비용
+vitamin,비타민
+pray,간원하다
+rainwater,빗물
+laundry,빨래
+extract,끌어내다
+sprinkle,끼얹다
+scatter,뿌리다
+objects,사물
+things,댓
+employment,고용직
+consumer,사용자
+socially,사교상
+oxygen,산소
+flesh,살
+muscle,살
+spare,검약하다
+rescue,구원
+lightly,가볍게
+stealthily,살며시
+companion,길동무
+rival,경쟁자
+imagination,가상
+imagine,미루어 생각하다
+wound,해치다
+lettuce,상추
+product,곱
+damage,데미지
+injure,다치게 하다
+newly,새로
+anew,새로
+dawn,날이새다
+daybreak,동틀녘
+lobster,대하
+shrimp,새우
+germinate,발아하다
+documents,서류
+papers,서류
+unskilled,서투르다
+clumsy,꼴사나운
+petroleum,석유
+blend,섞다
+mix,사귀게하다
+blended,블렌드된
+dishwashing,설거지
+celsius,섭씨
+surname,성
+success,성공
+achievement,성공
+tax,과세하다
+mighty,강대한
+length,1마신
+erect,곧추
+laundromat,세탁소
+presented,소개되다
+yell,소리치다
+novelist,소설가
+sausage,소시지
+package,소포
+underwear,내의
+granddaughter,손녀
+grandson,손자
+knob,손잡이
+fingernail,손톱
+frankness,솔직
+candidness,솔직하다
+frankly,솔직히
+candidly,선선히
+cluster,군생하다
+surgery,수술
+beard,수염
+income,수입
+sytem,순서
+sequence,순서
+skate,잠깐 언급하다
+style,고상함
+sorrow,고난
+countryside,시골
+boisterous,소란스러운
+period,경과
+attempt,시도하다
+establishment,설립
+institution,공공시설명물
+suberbs,근교
+occasion,시절
+preferably,식구
+provisions,마련
+vinegar,식초
+groceries,식품
+joy,기쁨거리
+delight,신
+declaration,선언
+bride,새색시
+confidence,대담함
+trust,털어놓다
+proposal,부결하다
+signaling,신호
+blinker,깜박이
+newlyweds,신혼부부
+talent,배양
+failure,감퇴
+seriousness,심각하다
+gravity,만유인력
+intense,감정적인
+bundle,꾸러미
+rot,3주문의연속쓰러짐
+mince,썰다
+dice,썰다
+wrestling,레슬링
+valiantl,씩씩하다
+mis,아가씨
+announcer,아나운서
+nay,거부
+casually,아무 생각 없이
+africa,아프리카
+handshake,악수
+suitable,알맞다
+cancer,거해궁
+outlook,견지
+precede,보다중요하다
+accessory,부속의
+vegetables,야채
+approximately,내외
+volume,양
+cabbage,양배추
+recede,감퇴하다
+superficial,면적의
+sonny,아가
+darkness,암흑
+dim,둔한
+gloomy,두렵다
+difficulty,곤란
+hardship,고난
+juvenile,소년의
+speechless,말을 못하는
+suiting,양복지
+lay,꼬인자리
+obtain,얻다
+freeze,동결
+rapidly,급성장
+buisness,업무
+extravagant,낭비하는
+elevator,곡물창고
+reserve,감춤
+surplus,여유
+inform,보도하다
+historian,역사가
+historical,사적
+likewise,똑같이
+attach,메우다
+investigate,수사하다
+fume,그을리게 하다
+performance,공적
+acting,대리의
+mild,가벼운
+forever,무상
+example,보기
+anticipation,미리 씀 앞지름
+forecast,예보
+preconception,예상
+prenotion,예상
+reservation,공공보류지
+propriety,예도
+decorum,고상함
+cucumber,오이
+solely,오로지
+cuttlefish,뼈오징어
+squid,오징어
+corn,곡물
+entire,온
+wholly,모조리
+entirely,낱낱이
+olympic,국제올림픽대회
+wine,기운을 돋우는것
+perfectly,더할 나위 없이
+diplomacy,수교
+lonesome,쓸쓸하다
+claim,반환을 요구하다
+lately,요새
+demand,독촉하다
+greed,욕심
+selfishness,욕심
+accidentally,우연히
+depressed,내리 줄인
+fortune,운
+fate,숙명
+crying,골짝골짝
+weeping,눈물울 흘리는
+stir,뒤섞다
+waiter,요리 나르는 쟁반
+violation,어김
+infringment,위반
+confucianism,유교
+uncommon,드문
+exceptional,유난히
+europe,유럽
+fame,명리
+kindergarten,유치원
+vogue,유행
+ugh,억!
+signify,의미하다
+migration,원자 이동
+drift,떠돌다
+accomplish,가르치다
+achieved,이루어지다
+premature,너무 서두른
+forehead,부분
+bedding,기반
+indisposition,마음이 내키지않음
+abnormal,변태의
+queer,결딴내다
+reasoning,논법
+profit,이윤
+times,배
+divorce,별거
+ripe,곪은
+popularity,대중성
+ginseng,인삼
+impression,1회의 부수쇄
+imprint,간기
+interview,대담
+journal,국회 의사록
+universal,널리행해지는
+common,공중의
+commence,개시하다
+settled,일정
+wages,급료
+temporary,덧없는
+pregnant,가득 찬
+entrance,가입
+hospitalization,병원 수용
+qualification,검정
+credential,성적증명서
+qualifications,자격
+oneself,자기
+numerouno,자기
+self,귀사
+constantly,노상
+repeatedly,여러 차례
+automatic,기계적인
+chop,깎아치기
+freedom,자유
+banquet,베풀다
+feast,대접을 받다
+mistake,잘못
+pajamas,잠옷
+arrested,잡히다
+grabbed,잡히다
+scholarship,장학금
+stuff,게걸스럽게먹다
+property,물성
+assets,자산
+possessions,재산
+sneezing,재채기
+savings,저축
+saving,구제
+actively,적극적
+proper,단정
+specialty,날인증서
+generally,개략적으로
+convention,가조약
+convey,나르다
+utterly,순전히
+absoluteness,절대
+absolutely,단연
+youthful,젊다
+marks,점수
+gradually,점진적
+platter,접시
+gesticulate,젓다
+arrangment,정리
+regulation,정리
+adjustment,수정
+intelligence,사고력
+summit,수뇌회담
+formality,정식
+spirit,군기
+mental,마음으로 하는
+politics,분쟁
+political,당략의
+determine,결심시키다
+soaked,스며든
+proffer,제공물
+theme,논제
+kindly,기꺼이
+fairly,공정히
+considerably,무던히
+limits,제한
+bounds,제한
+sculpture,조각
+stipulation,명문화
+investigation,연구연구
+inquiry,심리
+ancestors,조상
+cautious,세심한
+nephew,생질의 사생아
+doze,졸기
+species,종
+religion,광신
+waitress,여급
+synthesis,접골
+principally,주로
+mainly,주로
+fist,주먹
+heroine,여걸
+maintain,자활하다
+topic,논제
+row,가
+chord,건
+stem,굽
+stalk,경상부
+diminish,줄다
+decrease,비례
+importance,거드름
+consequence,잘난체함
+namely,즉
+pleasure,기호마음대로 ,   take  a
+merriment,웃고 즐기기
+symptoms,증
+elapse,경과하다
+holler,지르다
+scream,깔깔대다
+district,고을
+fatigued,지치다
+calling,기항
+directly,직접
+azalea,진달래
+advance,값을 올리다
+luggage,수화물
+concentration,농축
+dense,무성하다
+annoyance,두통거리
+chilly,냉담한
+difference,다름
+disparity,다름
+endure,버티다
+storehouse,창고
+channel,가늘고 긴 홈
+greens,채소
+fulfill,달성하다
+bookbag,책가방
+responsibility,부담
+champion,더없이
+teenagers,청소년
+initial,가조인하다
+neophyte,새성직자
+photographing,촬영
+films,촬영
+atleast,최소한
+congratulation,경하
+celebration,찬양
+ample,충분하다
+sufficiently,충분히
+cancellation,소거
+anulment,취소
+calloff,취소하다
+assume,가정하다
+heal,아물다
+kindness,베풀다
+goodness,미덕
+relatives,친척
+familiar,길들여진
+friendly,극진하다
+praise,극찬
+admiration,감탄
+curry,카레
+counter,계산계
+campus,교정
+concert,음악회
+complex,복문의
+dimensions,도량
+main,본관
+rear,길들이다
+kilo,천의뜻
+kilogram,킬로그램
+kilometer,킬로미터
+attitude,배행자세
+comportment,처신
+typhoon,태풍
+tunnel,터널
+burst,충만하다
+explode,격발하다
+terminal,단말장치
+fur,거웃
+feathers,털
+tape,끈
+communications,통신
+correspondance,통신
+flow,많이있다
+extraordinary,보통이 아닌
+solid,견실하다
+compact,간결한
+firm,강경
+onions,파
+waves,미해군 여자 예비부대
+billows,파도
+file,서류철
+selling,팔리는
+unfold,펴다
+compilation,편
+editing,감수
+handy,편리하다
+comfortably,부족함이 없이
+stretch,길이가
+plain,무늬없는
+ordinarily,그만하게
+packing,짐꾸리기
+wrapping,포장
+width,넓이
+range,범위를 정하다
+representation,개념작용
+manifestation,명시
+untie,끄르다
+loosen,놓아주다
+landscape,조망
+scenery,무대 배경
+fatigue,노역
+exhaustion,소모
+weary,노곤
+pc,고속 순찰함
+dormitory,교외택지
+anyways,여하간
+yawning,하품
+indiscriminately,함부로
+combine,결합시키다
+unite,겸비하다
+settlement,결말
+interpretation,음악등의 자기 해석에 따른
+sunbeams,햇볕
+sunlight,일광
+sunshine,양지
+behavior,행동
+happiness,복
+fragrance,방향
+aroma,김
+perfume,방향
+approve,마음에들다
+grant,교부금
+shabby,쩨쩨하다
+homepage,홈페이지
+splendor,장려
+makup,화장품
+cosmetics,화장품
+magnify,과장하다
+confirmation,견진성사
+corroborate,확실하게 하다
+sprightly,기운찬
+utilize,활용하다
+chariman,회장
+conversations,회화
+crossing,건널목
+effectiveness,유효
+holidays,휴가
+stream,냇가
+sway,기우뚱거리다
+commonly,공통적
+effuse,유출하다
+spill,내동댕이 치다
+interest,관계시키다
+zeal,열심
+settle,식민하다
+subside,내려앉다
+supposition,가정
+catholic,가톨릭
+liver,간
+exec,간부
+executive,간부
+management,간부
+indirectness,간접
+thirst,갈망
+sensational,감동적
+emotional,감정적
+strengthen,강해지다
+objective,객관적
+bubble,거품
+construction,건설
+walking,걷기
+mustard,갓
+warning,경고
+competitiveness,경쟁력
+economics,경제학
+account,계산서
+auditorium,공연장
+commonness,공통
+principal,교장
+internationalization,국제관리화
+마지막으로,궁극적
+ultimately,궁극적
+graphic,그래픽
+foundational,근본적
+fundamental,근본적
+muscles,근육
+commemoration,기념
+commemorate,기념식을 거행하다
+christianity,기독교
+technique,기교
+origin,가문
+bc,기원전
+married,기혼
+planning,계획화
+emergency,긴급
+gangster,깡패
+hoodlum,갱
+realization,구현
+scolding,가책
+bind,구속하다-묶는 것
+braid,꼬다
+braiding,끈
+boundlessly,끝없이
+interrupt,끼어들다
+divide,갈라지다
+revolt,난리
+others,남
+waste,낭비
+lower,내리다
+exhale,내뿜다
+internal,내면적
+brook,냇물
+refrigeration,냉각
+widely,널따랗게
+melt,녹아 섞이다
+dissolve,녹이다
+logic,논리
+logical,논리적
+controversy,논의
+discuss,논하다
+debate,논하다
+banter,놀리다
+handle,놀리다
+plantation,농장
+brains,뇌
+voluntary,수의근
+treat,간주하다
+pledge,금주의 맹세
+vow,할 것을 맹세하다
+swear,다짐하다
+quarrel,다투다
+phase,단계
+connection,단골
+independence,단독
+simplicity,간단
+fragment,단편
+undertaking,담당
+encounter,당하다
+buses,대
+vehicles,대
+era,대
+consideration,대가
+value,뽐내다
+provision,공급량
+dialogue,대사
+relieve,경감하다
+treatment,대우
+countermeasure,대응책
+disposal,대처하다
+summary,간결한
+lending,대여
+represent,대리하다
+dam,댐
+besides,게다가-더하여
+moreover,더욱이
+virtue,고결
+morality,덕
+lighten,덜다
+append,덧붙이다
+immorality,난행
+challenge,냄새를 맡고 짖다
+defiance,도전
+influenza,독감
+unique,각별하다
+characteristic,독특하다
+distinctive,독보적
+peculiar,괴상함
+approppriate,마땅하다
+marathon,마라톤
+preparations,마련
+completion,낙성
+mayonnaise,마요네즈
+disposition,마음씨
+mike,마이크
+microphone,마이크
+rubbing,마찰
+chafing,마찰
+satisfaction,만족
+satisfied,만족스럽다
+convolve,말다
+telescope,박다
+ruin,거꾸로 떨어지다
+whip,거품일게 하다
+rod,간균
+cane,가볍고 가는 지팡이
+medias,매체
+cotton,면
+anchovy,멸치
+directive,명령어
+honor,인수하고 지불하다
+title,명목
+precise,꼼꼼한
+flock,털 부스러기를 채우다
+collection,기부금 모집
+catalogue,대학요람
+nothing,도 아무것도 아니다
+nil,무
+indifference,냉담
+unconcern,냉담
+weapon,무기
+tomb,무덤
+sultry,무더운
+sweltering,무더운
+unreasonable,무리
+peaceful,그윽하다
+passage,문구
+paragraph,구
+grammar,문법
+letters,문자
+literary,문어체
+cultural,개척상의
+moisture,물기
+corporeal,물질적
+beauty,미
+grace,고상함
+slippery,매끄러운
+mini,미니
+postpone,물리다
+missile,날아 가는 무기
+hatred,미움
+unmarried,미혼
+civil,공민적인
+private,개인적인
+democracy,민주
+democratization,민주화
+base,근거지
+basket,광주리
+advisable,바람직하다
+straighten,똑바르게 하다
+cockroach,바퀴
+rejoice,반기다
+repulsion,거절
+reflection,남을 모방하는 사람
+reflect,되접다
+reaction,반동
+kneading,반죽
+dough,반죽
+shine,금화
+glitter,반짝반짝 빛나다
+gait,걸음걸이
+steps,경위
+ballet,무용극
+footprint,발자국
+prospering,발전되다
+exhibit,발휘하다
+maroon,밤색
+prevention,방지
+checking,방지
+hindrance,방해
+interfere,간섭하다
+caucasian,백색 인종의
+sailor,뱃사람
+spit,성나서 그르렁거리다
+tolerate,관대히 다루다
+punishment,강타
+abruptly,뚝
+statute,법령
+legal,벌률상
+alteration,변경
+flucutation,변동
+vindication,변명
+disguise,가장복
+nickname,닉네임
+alias,별명
+chick,병아리
+custody,감금
+deposit,공탁금
+bonus,보너스
+barley,보리
+compensation,구상
+mending,수선할 것
+maintainance,보수
+conservation,보수
+conservative,보수적
+security,보장
+ingegrity,보전
+preservation,방부
+assistance,보조
+aid,돕다
+conserve,보존하다
+fillup,보충하다
+guard,감시하다
+memeograph,복사기
+peach,멋진 것
+exemplary,모법적인
+essence,본질
+bowling,볼링
+attendance,돌봄
+deputy,대리
+wealth,부
+riches,명리
+squad,부대
+category,범주
+departmental,과의
+absence,결핍
+injustice,부정
+wrongfulness,부정
+negative,거부
+irregular,2등품
+diligently,부지런히
+liabilities,부채
+parts,나부랭이
+accessories,부품
+bulk,더미
+rage,거세지다
+anger,노기
+separation,별거
+segration,분리
+obvious,분명하다
+analysis,분석
+distribution,배급
+inevitable,면하기 어려운
+unavoidable,불가피하다
+deformity,불구 不具
+malformation,기형
+soak,많이 마시다
+steep,가파른
+illegal,불법
+disadvantage,불이익
+drawback,결점
+inconvenience,귀찮음
+inequality,고저
+unhappiness,불운
+grasp,거머쥐다
+brand,브랜드
+criticism,비난
+reproach,망신
+vacant,결원의
+pigeon,비둘기
+fatness,기름기가 많음
+corpulence,비대
+vacate,떠나가다
+ridicule,비웃다
+ratio,비율
+percentage,백분위수
+proportion,비례시키다
+critical,결정적인
+aviation,비행
+raindrops,빗방울
+debt,빚
+shade,그늘지게하다
+hue,비난의 소리
+entice,꾀다
+entrap,낚다
+sip,빨다
+suck,빨기흡인력
+snach,빼앗다
+evident,명백한
+incident,부대적인
+contemplation,관상
+morale,도의
+hunting,사냥
+insignificant,대수롭지 않은
+preliminary,사전
+circumstances,사연
+adolescence,사춘기
+puberty,묘령
+socialism,사회당
+living,생지옥
+revive,기운이나다
+survive,살아남다
+murder,고살망치다
+swallow,빨아들이다
+upper,갑피
+concern,것
+relation,법의 효력의 소급
+consultation,상담
+fitting,상당
+plenty,많음
+relativity,관계있음
+relatively,상대적
+correlatively,상대적
+upstream,상류
+commerce,교역
+merchant,무역상인
+trader,상인
+symbolic,기호를 사용하는
+emblematic,상징의
+symbolize,상징하다
+exhilirating,상쾌하다
+trademark,상표
+engrave,새기다
+leak,누전
+afresh,새로이
+animation,만화영화제작
+organism,생물
+signing,서명
+autographing,서명
+books,도서
+publications,서적
+awkward,거북스럽다
+master,사회자  의전관
+distinct,뚜렷하다
+declare,공언하다
+proclaim,금지령을 선포하다
+announce,고지하다
+propaganda,선전
+seniority,선임
+persuasion,설득
+found,녹이다
+establish,개업시키다
+diarrhea,배탈
+disappointed,섭섭하다
+fortress,성
+successfully,성공적
+formed,성립되다
+statement,성명
+growth,발육
+sexual,성적
+epoch,세
+generation,대대로 계속해서
+refined,고상하다
+seminar,세미나
+detergent,세정제
+design,디자인
+passivity,무저항
+passiveness,소극적
+earnings,벌이
+desire,성취동기
+naive,경험이 없는
+ingenuous,소박하다
+consumption,소비
+pediatrics,소아과
+usefulness,소용
+possessor,소유자
+cacaphony,소음
+valuable,가치적
+seriously,소중히
+temperament,격정
+software,소프트웨어
+indifferently,소홀히
+neglectfully,소홀히
+digestion,소화
+saying,격언
+feeling,감각이 있는
+whisper,몰래 말하다
+deceive,미혹시키다
+cheat,바람피우다
+personally,손수
+loss,상실
+handling,손에 대기
+soar,부풀다
+toil,뼈빠지게 일하다
+pains,수고
+tap,가죽을 대다
+passively,수동적
+slumber,수면
+hundreds,수백
+thousands,수천
+accomplishment,수행하다
+instanteous,순간적
+momentary,순간적
+purity,결백
+genuineness,순수
+ranking,급수별
+docile,가르치기쉬운
+switch,다리꼭지
+studio,작업장
+furtively,살그머니
+humidity,습기
+passengers,승객
+match,걸맞다
+promotion,진흥
+advancement,선진화
+poetry,시
+angle,각도
+spinach,시금치
+scenario,극본
+fade,쇠퇴하다
+cement,백악질
+days,낮에
+mayor,시장
+astounding,몹시 놀라게 하는
+faith,신념
+priest,목사에 임명하다
+mystery,불가사의
+rapid,가파른
+speedy,민속하다
+application,도포
+indeed,과연그래
+recorded,기술적
+disappointment,실망
+execution,사형 집행
+enforcement,시행
+substantial,견고하다
+essential,구비
+substance,실속
+reality,박진성
+materialization,체현
+psychological,심리적
+judgment,가늠
+examination,심리
+referencing,심판
+umpireship,심판
+sprout,싹
+twins,쌍둥이
+greatly,관대하게
+employed,고용자들
+seeds,씨앗
+regrettable,가엾은
+pitiful,가엽다
+grudge,아까워 하다
+subordinate,아랫사람
+asphalt,아스팔트
+furthermore,더욱 더
+idea,개념
+nightmare,가위눌림
+ophthalmology,안과
+guidance,안내
+conducting,안내
+welfare,복리
+assuredness,대담 무쌍
+relief,경감
+stability,불변
+aluminum,알루미늄
+examine,심문하다
+acknowledge,승인하다
+appreciate,그득하다
+pressure,곤경
+troubles,고욕
+worries,근심걱정
+affection,애정
+album,사진첩
+mewing,야옹
+meowing,야옹
+garish,번쩍거리는
+medicines,약품
+mean,불수진
+ram,격돌하다
+concession,거류지
+compromise,더럽히다
+raising,양식
+amodality,양식
+conscience,도의심
+liquors,양주
+disorganized,어지럽다
+anyhow,어떻게든
+awfully,어찌나
+disappointing,억울하다
+language,언사
+somewhat,어느 정도
+solemnity,엄숙
+sham,모의전
+leisure,안일
+belle,여인
+persistently,부쩍
+linking,연결
+relationships,대인 관계
+postponement,연기
+deferment,거치
+postponed,연기되다
+communication,교신
+continuity,면면
+succession,계승
+passion,감정의 폭발
+extension,신장
+prolongation,연장
+production,연출
+presentation,배알
+combination,공동 동작
+federacy,동맹
+union,결합 연합
+totally,영
+movies,동영상
+nutrition,영양
+sales,매상고
+influence,감응력
+consequences,영향
+warn,경고하여 시키다
+anticipate,예상되다
+election,선임
+artistic,멋있는
+rehearse,매거하다
+courtesy,공손
+politeness,예의
+entertainment,마음에 품음
+exclusively,독점적으로
+contamination,오염
+contaminated,오염되다
+online,온라인
+straightforward,단적
+perfection,극치
+completeness,완전
+loneliness,고독
+claimed,요구되다
+condense,고체화하다
+abridge,간추리다
+courageous,용감하다
+bravery,용감
+pardon,눈감아 주다
+forgiveness,관대
+amusing,우스운
+conveyance,교부
+administer,관장
+revolution,격변
+rank,가로줄
+consolation,위로
+solace,위로
+illegality,불법행의
+riskiness,위험성
+jeapordy,위험성
+menace,위협
+threat,위협
+talented,유능하다
+favorable,유리하다
+humor,기질
+remains,유적
+relics,유골
+ruins,유적
+preserved,유지되다
+customarily,관례상
+habitually,상투적
+faint,가냘픈
+indistinct,몽롱하다
+purposefully,의도적
+dresses,의류
+garments,의복
+resolve,결단
+consciuosness,의식
+awareness,알아채고있음
+unexpectedly,공교롭게도
+surprisingly,다짜다짜
+volition,결의
+will,결의
+within,안에
+ideology,공리 공론
+migrate,이동하다
+travel,이동하다
+hereafter,금후
+theoretical,이론적
+parting,고별
+dew,이슬
+dewdrops,이슬
+vulgarity,상스러움
+slang,속어
+subsequently,그후에
+continuing,갱신할 필요가 없는
+shortly,무뚝뚝하게
+duplication,복제
+personal,개인이 속하는
+pavement,인도
+sidewalk,인도
+pulling,인상
+impressive,감명을 주는
+printing,날염
+typography,인쇄
+recognition,면식
+cognizance,인식
+authorize,인가하다
+reduction,감수분열
+lowering,인하
+temporarily,일단
+intentionally,일부러
+individually,낱낱으로
+established,기성
+changeless,변함없다
+constant,견실한
+definite,일정하다

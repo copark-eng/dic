@@ -1,0 +1,1000 @@
+I,나, 저
+you,너, 당신, 너희들
+he,그, 그 사람
+she,그녀
+it,그것
+we,우리
+they,그들, 그것들
+this,이것, 이 사람
+that,저것, 그 사람
+these,이것들
+those,저것들
+what,무엇, 무슨
+who,누구
+where,어디에
+when,언제
+why,왜, 어째서
+how,어떻게, 얼마나
+all,모든, 전부
+some,몇몇의, 어떤
+any,어떤, 조금의
+many,많은
+much,많은, 많이
+every,모든, 매-
+other,다른
+same,같은, 동일한
+and,그리고, 와/과
+but,하지만, 그러나
+or,또는, 아니면
+so,그래서, 아주
+because,왜냐하면, ~때문에
+if,만약 ~라면
+as,~처럼, ~로서
+at,~에, ~에서
+in,~안에, ~에서
+on,~위에, ~에
+to,~로, ~에게
+for,~를 위해, ~동안
+from,~로부터, ~에서
+with,~와 함께
+by,~에 의해, ~옆에
+of,~의, ~중에서
+about,~에 대하여, 약
+into,~안으로
+over,~너머에, ~위에
+under,~아래에
+after,~후에, 뒤에
+before,~전에, 앞에
+between,~사이에
+through,~을 통하여
+without,~없이
+one,하나, 일
+two,둘, 이
+three,셋, 삼
+four,넷, 사
+five,다섯, 오
+six,여섯, 육
+seven,일곱, 칠
+eight,여덟, 팔
+nine,아홉, 구
+ten,열, 십
+eleven,열하나
+twelve,열둘
+thirteen,열셋
+fourteen,열넷
+fifteen,열다섯
+twenty,스물, 이십
+thirty,서른, 삼십
+forty,마흔, 사십
+fifty,쉰, 오십
+hundred,백
+thousand,천
+first,첫 번째의
+second,두 번째의, 초
+third,세 번째의
+time,시간, 때
+day,날, 하루, 낮
+week,주, 일주일
+month,달, 월
+year,해, 년
+today,오늘
+tomorrow,내일
+yesterday,어제
+morning,아침, 오전
+afternoon,오후
+evening,저녁
+night,밤, 야간
+hour,시간, 1시간
+minute,분, 잠깐
+clock,시계
+calendar,달력
+spring,봄, 샘
+summer,여름
+autumn,가을
+winter,겨울
+season,계절, 시기
+Sunday,일요일
+Monday,월요일
+Tuesday,화요일
+Wednesday,수요일
+Thursday,목요일
+Friday,금요일
+Saturday,토요일
+person,사람, 개인
+people,사람들, 국민
+man,남자, 사람
+woman,여자, 여성
+boy,소년, 남자아이
+girl,소녀, 여자아이
+baby,아기, 갓난아이
+child,어린이, 아이
+children,아이들
+parent,부모
+father,아버지
+mother,어머니
+dad,아빠
+mom,엄마
+son,아들
+daughter,딸
+brother,형제, 오빠, 남동생
+sister,자매, 언니, 여동생
+grandfather,할아버지
+grandmother,할머니
+uncle,삼촌, 이모부, 고모부
+aunt,이모, 고모, 숙모
+cousin,사촌
+friend,친구
+neighbor,이웃
+body,몸, 신체
+head,머리, 우두머리
+hair,머리카락, 털
+face,얼굴, 마주하다
+eye,눈
+ear,귀
+nose,코
+mouth,입
+lip,입술
+tooth,이, 치아
+teeth,이들(복수)
+neck,목
+shoulder,어깨
+arm,팔, 무기
+hand,손, 건네다
+finger,손가락
+thumb,엄지손가락
+chest,가슴, 상자
+back,등, 뒤, 돌아가다
+leg,다리
+knee,무릎
+foot,발, 피트(단위)
+feet,발들(복수)
+toe,발가락
+skin,피부, 껍질
+heart,심장, 마음
+blood,피, 혈액
+bone,뼈
+voice,목소리, 음성
+health,건강
+sick,아픈, 병든
+ill,아픈, 나쁜
+pain,고통, 통증
+medicine,약, 의학
+doctor,의사, 박사
+nurse,간호사
+hospital,병원
+food,음식, 식량
+water,물
+milk,우유
+juice,주스, 즙
+tea,차
+coffee,커피
+bread,빵
+rice,쌀, 밥
+meat,고기
+beef,소고기
+pork,돼지고기
+chicken,닭, 닭고기
+fish,물고기, 생선
+egg,달걀, 알
+cheese,치즈
+butter,버터
+sugar,설탕
+salt,소금
+pepper,후추, 고추
+soup,수프, 국
+salad,샐러드
+sandwich,샌드위치
+cake,케이크
+cookie,쿠키, 과자
+candy,사탕
+chocolate,초콜릿
+ice,얼음
+fruit,과일, 열매
+apple,사과
+banana,바나나
+orange,오렌지, 주황색
+grape,포도
+strawberry,딸기
+lemon,레몬
+watermelon,수박
+vegetable,채소, 야채
+tomato,토마토
+potato,감자
+carrot,당근
+onion,양파
+meal,식사, 끼니
+breakfast,아침 식사
+lunch,점심 식사
+dinner,저녁 식사, 만찬
+restaurant,식당, 레스토랑
+cafe,카페, 찻집
+menu,메뉴, 식단표
+cup,컵, 잔
+glass,유리잔, 유리
+plate,접시
+dish,접시, 요리
+bowl,그릇, 사발
+spoon,숟가락
+fork,포크
+knife,칼
+bottle,병
+house,집, 주택
+home,가정, 집
+apartment,아파트
+room,방, 공간
+door,문
+window,창문
+wall,벽, 담
+floor,바닥, 층
+roof,지붕
+ceiling,천장
+kitchen,주방, 부엌
+bathroom,욕실, 화장실
+bedroom,침실
+garden,정원, 뜰
+yard,마당, 야드
+gate,대문, 출입구
+fence,울타리
+key,열쇠, 핵심
+bed,침대
+table,탁자, 식탁, 표
+chair,의자
+desk,책상
+sofa,소파
+lamp,램프, 등
+mirror,거울
+shelf,선반
+curtain,커튼
+blanket,담요
+pillow,베개
+towel,수건
+soap,비누
+brush,솔, 빗, 붓
+trash,쓰레기
+telephone,전화기
+phone,전화, 휴대폰
+television,텔레비전
+radio,라디오
+computer,컴퓨터
+internet,인터넷
+camera,카메라, 사진기
+clothes,옷, 의복
+shirt,셔츠
+pants,바지
+jeans,청바지
+dress,드레스, 원피스, 옷을 입다
+skirt,치마, 스커트
+suit,정장, 어울리다
+coat,코트, 외투
+jacket,재킷
+sweater,스웨터
+hat,모자(챙 있는)
+cap,모자(야구모자 등)
+shoes,신발
+shoe,신발 한 짝
+socks,양말
+boots,부츠, 장화
+glove,장갑
+scarf,스카프, 목도리
+belt,벨트, 허리띠
+tie,넥타이, 묶다
+pocket,주머니
+button,단추, 버튼
+zipper,지퍼
+glasses,안경
+sunglasses,선글라스
+watch,손목시계, 지켜보다
+ring,반지, 울리다
+umbrella,우산
+bag,가방, 자루
+wallet,지갑
+backpack,배낭, 책가방
+school,학교
+student,학생
+teacher,선생님, 교사
+class,수업, 학급, 반
+classroom,교실
+lesson,수업, 교훈
+book,책, 도서
+notebook,공책, 노트북
+paper,종이, 신문
+pen,펜
+pencil,연필
+eraser,지우개
+ruler,자, 지배자
+crayon,크레용
+scissors,가위
+glue,풀, 접착제
+board,칠판, 게시판, 탑승하다
+chalk,분필
+library,도서관
+homework,숙제
+exam,시험
+test,시험, 검사, 테스트하다
+grade,학년, 성적, 등급
+score,점수, 득점
+question,질문, 문제
+answer,대답, 정답, 대답하다
+problem,문제, 곤란
+word,단어, 낱말, 말
+sentence,문장, 판결
+story,이야기, 층
+page,페이지, 쪽
+letter,편지, 글자
+number,숫자, 번호
+subject,과목, 주제, 대상
+math,수학
+science,과학
+history,역사
+art,미술, 예술
+music,음악
+English,영어, 영국의
+Korean,한국어, 한국의
+gym,체육관
+playground,운동장, 놀이터
+study,공부하다, 연구하다
+learn,배우다, 익히다
+teach,가르치다
+read,읽다
+write,쓰다, 작성하다
+draw,그리다, 당기다
+paint,페인트칠하다, 그리다
+sing,노래하다
+dance,춤추다
+play,놀다, 연주하다, 경기하다
+game,게임, 경기
+toy,장난감
+doll,인형
+ball,공, 무도회
+sport,스포츠, 운동
+soccer,축구
+baseball,야구
+basketball,농구
+volleyball,배구
+tennis,테니스
+swimming,수영
+running,달리기
+bike,자전거
+bicycle,자전거
+hobby,취미
+movie,영화
+cinema,영화관
+theater,극장, 공연장
+museum,박물관, 미술관
+zoo,동물원
+park,공원, 주차하다
+bench,벤치, 긴 의자
+city,도시
+town,마을, 읍
+village,시골 마을, 부락
+country,나라, 국가, 시골
+world,세계, 세상
+street,거리, 도로
+road,길, 도로
+way,길, 방법, 방식
+bridge,다리, 교량
+corner,모퉁이, 구석
+building,건물, 빌딩
+shop,상점, 가게, 쇼핑하다
+store,가게, 저장하다
+market,시장
+supermarket,슈퍼마켓
+bank,은행, 둑
+police,경찰
+station,역, 정류장
+airport,공항
+hotel,호텔
+farm,농장, 농원
+factory,공장
+office,사무실, 직무
+church,교회
+temple,사원, 절
+castle,성
+tower,탑, 타워
+place,장소, 곳, 두다
+car,자동차, 차
+bus,버스
+train,기차, 열차, 훈련하다
+subway,지하철
+taxi,택시
+truck,트럭
+airplane,비행기
+plane,비행기, 평면
+helicopter,헬리콥터
+boat,보트, 배
+ship,배, 선박, 운송하다
+traffic,교통, 교통량
+ticket,표, 티켓
+seat,좌석, 자리
+stop,정류장, 멈추다
+gas,가스, 휘발유
+wheel,바퀴, 핸들
+nature,자연, 본성
+sky,하늘
+sun,태양, 해
+moon,달
+star,별, 인기인
+cloud,구름
+rain,비, 비가 오다
+snow,눈, 눈이 내리다
+wind,바람
+fog,안개
+storm,폭풍, 폭풍우
+thunder,천둥
+lightning,번개
+rainbow,무지개
+air,공기, 대기
+earth,지구, 땅, 흙
+land,땅, 육지, 착륙하다
+ground,지면, 바닥, 운동장
+sand,모래
+dust,먼지, 털다
+mud,진흙
+rock,바위, 암석, 흔들다
+stone,돌, 보석
+mountain,산
+hill,언덕
+river,강
+lake,호수
+sea,바다
+ocean,대양, 바다
+beach,해변, 바닷가
+coast,해안, 연안
+island,섬
+forest,숲, 삼림
+wood,나무, 목재, 숲
+tree,나무
+plant,식물, 공장, 심다
+flower,꽃, 꽃이 피다
+rose,장미
+leaf,나뭇잎, 잎
+leaves,나뭇잎들(복수)
+grass,풀, 잔디
+seed,씨앗, 종자
+branch,나뭇가지, 지점
+root,뿌리, 근원
+animal,동물
+pet,애완동물
+dog,개
+puppy,강아지
+cat,고양이
+kitten,새끼 고양이
+bird,새
+duck,오리
+goose,거위
+horse,말
+cow,암소, 소
+pig,돼지
+sheep,양
+goat,염소
+rabbit,토끼
+mouse,쥐, 마우스
+rat,쥐
+monkey,원숭이
+bear,곰, 견디다
+lion,사자
+tiger,호랑이
+elephant,코끼리
+giraffe,기린
+zebra,얼룩말
+kangaroo,캥거루
+panda,판다
+fox,여우
+wolf,늑대
+deer,사슴
+snake,뱀
+frog,개구리
+turtle,거북이
+whale,고래
+dolphin,돌고래
+shark,상어
+insect,곤충, 벌레
+ant,개미
+bee,벌
+butterfly,나비
+spider,거미
+fly,파리, 날다
+mosquito,모기
+tail,꼬리
+wing,날개
+color,색, 색깔
+red,빨간색의, 빨강
+blue,파란색의, 파랑
+yellow,노란색의, 노랑
+green,초록색의, 초록
+black,검은색의, 검정
+white,흰색의, 하양
+brown,갈색의, 갈색
+gray,회색의, 회색
+pink,분홍색의, 분홍
+purple,보라색의, 보라
+gold,금, 금색
+silver,은, 은색
+bright,밝은, 영리한
+dark,어두운, 캄캄한
+light,빛, 가벼운, 밝은
+big,큰, 커다란
+large,넓은, 거대한
+small,작은, 적은
+little,어린, 작은, 조금
+tiny,아주 작은
+huge,거대한, 막대한
+long,긴, 오래
+short,짧은, 키 작은
+tall,키가 큰, 높은
+high,높은, 높게
+low,낮은, 낮게
+deep,깊은
+shallow,얕은
+wide,넓은
+narrow,좁은
+thick,두꺼운, 굵은
+thin,얇은, 마른
+fat,뚱뚱한, 살찐
+heavy,무거운
+hot,뜨거운, 더운, 매운
+warm,따뜻한
+cool,시원한, 멋진
+cold,차가운, 추운, 감기
+dry,마른, 건조한
+wet,젖은, 축축한
+clean,깨끗한, 청소하다
+dirty,더러운
+fresh,신선한, 새로운
+sweet,달콤한, 다정한
+bitter,쓴, 쓰라린
+sour,신, 시큼한
+salty,짠, 짭짤한
+delicious,맛있는
+hard,단단한, 어려운, 열심히
+soft,부드러운, 푹신한
+rough,거친, 대략의
+smooth,매끄러운, 부드러운
+sharp,날카로운, 급격한
+fast,빠른, 빨리
+quick,재빠른, 신속한
+slow,느린, 천천히
+early,이른, 일찍
+late,늦은, 늦게
+new,새로운, 새 것
+old,오래된, 늙은
+young,젊은, 어린
+good,좋은, 착한
+nice,좋은, 멋진, 친절한
+great,위대한, 훌륭한, 큰
+fine,괜찮은, 좋은, 벌금
+bad,나쁜, 서투른
+terrible,끔찍한, 형편없는
+beautiful,아름다운, 예쁜
+pretty,예쁜, 꽤, 상당히
+cute,귀여운
+handsome,잘생긴, 멋진
+ugly,못생긴, 흉한
+smart,똑똑한, 영리한
+clever,영리한, 기발한
+wise,지혜로운, 현명한
+foolish,어리석은, 바보 같은
+stupid,어리석은, 바보 같은
+kind,친절한, 종류
+gentle,온화한, 다정한
+brave,용감한
+strong,강한, 튼튼한
+weak,약한, 힘없는
+rich,부유한, 풍부한
+poor,가난한, 불쌍한
+busy,바쁜
+free,자유로운, 무료의, 한가한
+quiet,조용한, 차분한
+loud,소리가 큰, 시끄러운
+noisy,시끄러운
+safe,안전한, 금고
+dangerous,위험한
+happy,행복한, 기쁜
+glad,기쁜, 반가운
+sad,슬픈
+angry,화난, 성난
+afraid,두려워하는, 무서워하는
+scared,겁먹은, 무서워하는
+tired,피곤한, 지친
+hungry,배고픈
+thirsty,목마른
+surprised,놀란
+lonely,외로운, 쓸쓸한
+proud,자랑스러운, 오만한
+shy,부끄러워하는, 수줍은
+nervous,긴장한, 불안한
+calm,침착한, 차분한
+easy,쉬운, 편안한
+difficult,어려운, 힘든
+simple,단순한, 간단한
+true,진실한, 진짜의
+false,거짓의, 틀린
+right,옳은, 오른쪽의, 권리
+wrong,틀린, 잘못된
+real,진짜의, 실제의
+ready,준비된
+sure,확신하는, 확실한
+clear,명확한, 맑은
+famous,유명한
+popular,인기 있는, 대중적인
+special,특별한
+strange,이상한, 낯선
+different,다른, 차이가 나는
+important,중요한
+necessary,필요한, 필수의
+possible,가능한
+impossible,불가능한
+lucky,운이 좋은, 다행인
+funny,재미있는, 웃긴
+interesting,흥미로운, 재미있는
+boring,지루한, 따분한
+careful,조심스러운, 주의 깊은
+careless,부주의한, 경솔한
+honest,정직한, 솔직한
+polite,예의 바른, 공손한
+useful,유용한, 쓸모 있는
+useless,쓸모없는
+perfect,완벽한
+whole,전체의, 온전한
+half,절반, 반
+piece,조각, 하나
+part,부분, 일부, 부품
+be,이다, 있다, 존재하다
+have,가지고 있다, 먹다
+do,하다, 행하다
+say,말하다, 이야기하다
+go,가다, 진행되다
+come,오다, 도착하다
+see,보다, 알다, 만나다
+look,보다, 바라보다, ~처럼 보이다
+hear,듣다, 소리가 들리다
+listen,귀 기울여 듣다, 경청하다
+feel,느끼다, 기분이 들다
+smell,냄새가 나다, 냄새를 맡다
+taste,맛이 나다, 맛보다
+touch,만지다, 감동시키다
+make,만들다, ~하게 하다
+get,얻다, 받다, 되다
+take,가져가다, 데려가다, 타다
+give,주다, 건네다
+bring,가져오다, 데려오다
+carry,나르다, 지니다
+send,보내다, 발송하다
+receive,받다, 수령하다
+put,놓다, 두다
+keep,유지하다, 보관하다
+hold,잡고 있다, 개최하다
+catch,잡다, 따라잡다, 병에 걸리다
+drop,떨어뜨리다, 방울
+fall,떨어지다, 넘어지다, 가을
+pick,고르다, 뽑다, 꺾다
+pull,당기다, 끌다
+push,밀다, 누르다
+throw,던지다
+hit,치다, 때리다, 맞히다
+cut,자르다, 베다
+break,깨뜨리다, 부수다, 휴식
+open,열다, 개장하다, 열린
+close,닫다, 끝나다, 가까운
+shut,닫다, 잠그다
+lock,자물쇠로 잠그다, 자물쇠
+turn,돌다, 돌리다, 차례
+move,움직이다, 이사하다
+start,시작하다, 출발하다
+begin,시작하다
+finish,끝내다, 마치다
+end,끝나다, 끝
+stay,머무르다, 유지하다
+wait,기다리다
+leave,떠나다, 남기다, 휴가
+arrive,도착하다
+enter,들어가다, 입학하다
+pass,지나가다, 통과하다, 건네다
+cross,건너다, 가로지르다, 십자가
+follow,따라가다, 따르다
+lead,이끌다, 안내하다
+run,달리다, 운영하다
+walk,걷다, 산책하다
+jump,뛰다, 도약하다
+swim,수영하다
+climb,오르다, 등반하다
+ride,타다, 승차
+drive,운전하다, 몰다
+stand,서다, 참다
+sit,앉다
+lie,눕다, 거짓말하다, 거짓말
+sleep,자다, 잠
+wake,깨어나다, 깨우다
+eat,먹다
+drink,마시다, 음료
+cook,요리하다, 요리사
+bake,굽다
+wash,씻다, 세탁하다
+wear,입다, 착용하다
+speak,말하다, 연설하다
+talk,이야기하다, 대화하다
+tell,말해주다, 알리다
+ask,묻다, 요청하다
+call,부르다, 전화하다
+shout,소리치다, 외치다
+cry,울다, 외치다
+laugh,웃다, 비웃다
+smile,미소 짓다, 미소
+think,생각하다
+know,알다, 알고 있다
+understand,이해하다, 알아듣다
+remember,기억하다, 기억해내다
+forget,잊다, 잊어버리다
+believe,믿다, 생각하다
+hope,바라다, 희망하다, 희망
+wish,소원하다, 바라다, 소원
+want,원하다, 바라다
+need,필요로 하다, 필요
+like,좋아하다, ~처럼
+love,사랑하다, 사랑
+hate,싫어하다, 증오하다
+enjoy,즐기다, 누리다
+prefer,더 좋아하다, 선호하다
+help,돕다, 도움
+save,구하다, 절약하다, 저장하다
+use,사용하다, 쓰다
+find,찾다, 발견하다
+lose,잃다, 지다, 패하다
+win,이기다, 얻다
+buy,사다, 구입하다
+sell,팔다, 판매하다
+pay,지불하다, 돈을 내다
+cost,비용이 들다, 비용
+spend,쓰다, 시간을 보내다
+work,일하다, 작동하다, 일
+try,노력하다, 시도하다
+change,바꾸다, 변하다, 거스름돈
+grow,자라다, 키우다, 재배하다
+live,살다, 살아있는
+die,죽다, 사망하다
+kill,죽이다
+fight,싸우다, 다투다, 싸움
+meet,만나다, 충족시키다
+join,함께하다, 가입하다
+invite,초대하다, 부르다
+visit,방문하다, 찾아가다
+welcome,환영하다, 환영받는
+thank,감사하다, 고마워하다
+excuse,용서하다, 변명
+sorry,미안한, 유감스러운
+please,제발, 부디, 기쁘게 하다
+agree,동의하다, 찬성하다
+refuse,거절하다, 거부하다
+allow,허용하다, 허락하다
+choose,선택하다, 고르다
+decide,결정하다, 결심하다
+plan,계획하다, 계획
+prepare,준비하다, 대비하다
+show,보여주다, 나타나다, 쇼
+hide,숨기다, 숨다
+cover,덮다, 가리다, 표지
+fill,채우다, 가득 차다
+empty,비어있는, 비우다
+share,공유하다, 나누다, 몫
+lend,빌려주다
+borrow,빌리다
+return,돌아가다, 반납하다, 귀환
+fix,고치다, 수리하다, 고정하다
+build,짓다, 건설하다
+now,지금, 이제
+then,그때, 그리고 나서
+soon,곧, 머지않아
+already,이미, 벌써
+still,아직도, 여전히, 가만히 있는
+yet,아직, 벌써, 하지만
+again,다시, 또
+once,한 번, 예전에
+twice,두 번
+always,항상, 언제나
+usually,보통, 대개
+often,자주, 종종
+sometimes,때때로, 가끔
+seldom,거의 ~않는
+never,결코 ~않다
+ever,언젠가, 이제까지
+here,여기에, 이곳
+there,거기에, 저곳
+near,가까이, 가까운
+far,멀리, 먼
+away,떨어져, 멀리
+up,위로, 위에
+down,아래로, 아래에
+out,밖에, 밖으로
+inside,안쪽에, 내부
+outside,바깥에, 외부
+front,앞, 앞쪽
+side,옆, 측면, 편
+top,꼭대기, 맨 위, 최고의
+bottom,바닥, 맨 아래
+center,중심, 중앙, 센터
+middle,가운데, 중간
+left,왼쪽의, 왼쪽, 남겨진
+north,북쪽, 북부
+south,남쪽, 남부
+east,동쪽, 동부
+west,서쪽, 서부
+very,매우, 아주
+too,너무, 또한, 역시
+quite,꽤, 상당히
+almost,거의
+enough,충분히, 충분한
+together,함께, 같이
+alone,혼자서, 외로이
+only,오직, 유일한
+just,방금, 그저, 공정한
+even,심지어, ~조차도, 평평한
+name,이름, 지명하다
+age,나이, 연령, 시대
+birthday,생일
+party,파티, 정당
+gift,선물, 재능
+present,선물, 현재, 출석한, 제시하다
+holiday,휴일, 공휴일, 휴가
+vacation,휴가, 방학
+trip,여행, 발을 헛디딤
+tour,여행, 견학, 관광하다
+picnic,소풍
+camp,캠프, 야영지
+money,돈, 화폐
+dollar,달러
+cent,센트
+won,원(한국 화폐)
+price,가격, 대가
+life,삶, 생명, 인생
+death,죽음, 사망
+dream,꿈, 꿈꾸다
+luck,행운, 운
+peace,평화, 고요
+war,전쟁, 전투
+news,뉴스, 소식
+newspaper,신문
+magazine,잡지
+mail,우편, 메일
+email,이메일, 전자우편
+message,메시지, 전갈
+post,우편, 게시물, 기둥
+stamp,우표, 도장
+picture,그림, 사진
+photo,사진
+sound,소리, 건전한, ~하게 들리다
+noise,소음, 잡음
+shadow,그림자
+line,선, 줄, 늘어서다
+point,점, 요점, 가리키다
+circle,원, 동그라미
+square,정사각형, 광장
+size,크기, 치수
+shape,모양, 형태
+weight,무게, 체중
+speed,속도, 빠르기
+step,걸음, 계단, 조치
+habit,습관, 버릇
+rule,규칙, 지배하다
+order,주문, 순서, 명령하다
+custom,관습, 풍습
+skill,기술, 솜씨
+job,직업, 일
+worker,근로자, 일꾼
+boss,상사, 두목
+king,왕, 국왕
+queen,여왕, 왕비
+prince,왕자
+princess,공주
+hero,영웅, 주인공
+firefighter,소방관
+pilot,비행사, 조종사
+driver,운전기사, 운전자
+farmer,농부
+singer,가수
+dancer,댄서, 무용수
+actor,배우
+actress,여배우
+artist,화가, 예술가
+writer,작가, 글쓴이
+scientist,과학자
+magic,마술, 마법
+accident,사고, 재난
+trouble,문제, 곤란, 괴롭히다
+danger,위험
+safety,안전
+fire,불, 화재, 발사하다
+smoke,연기, 담배를 피우다
+energy,에너지, 활기
+power,힘, 전력, 권력
+force,힘, 강요하다
+oil,기름, 석유
+iron,철, 다리미
+plastic,플라스틱
+box,상자, 박스
+can,캔, 통조림, ~할 수 있다
+rope,밧줄, 로프
+string,끈, 줄
+bell,종, 벨
+flag,깃발, 국기
+sign,표지판, 신호, 서명하다
+mark,자국, 표시, 채점하다
+hole,구멍, 구덩이
+edge,가장자리, 모서리
+space,우주, 공간
+bark,나무껍질, 짖다
+yes,네, 예
+no,아니오, 없는
+not,~이 아니다
+oh,오, 아
+ah,아
+wow,와, 대단해
+hi,안녕
+hello,안녕하세요
+bye,안녕, 잘 가
+goodbye,작별 인사
+okay,괜찮은, 알았어
+well,잘, 좋게, 우물
+maybe,아마도, 어쩌면
+perhaps,아마, 혹시
+really,정말로, 참으로
+surely,확실히, 틀림없이
+certainly,틀림없이, 물론
+probably,아마도
+especially,특히, 각별히
+finally,마침내, 드디어
+suddenly,갑자기, 별안간
+slowly,천천히, 느리게
+quickly,빨리, 신속히
+easily,쉽게, 용이하게
+hardly,거의 ~않다
+nearly,거의
+clearly,분명하게, 또렷하게
+quietly,조용히
+loudly,시끄럽게, 크게
+happily,행복하게, 기쁘게
+above,보다 윗자리에
+across,가로질러
+action,동작
+activity,능동적
+add,더해지다
+address,제언
+advice,조언
+ago,지금부터 전에
+also,담판
+amazing,괄목하다
+anyone,누구도
+anything,무엇이든
+april,4월
+area,경지
+around,둘레에
+article,규약
+august,8월
+band,끈
+bath,목욕실
+become,어두워지다
+beer,맥주
+beginning,개시
+behind,나중-의 나중에
+below,미만
+best,가장좋은
+better,내기하는 사람
+bill,계산서
+blonde,금발 흰 피부의 사람
+boot,구둣발질하다
+bored,따분한
+both,다같이
+boyfriend,남자친구
+business,볼일
+cannot,못
+capital,기둥머리
+card,목록표
+career,생애
+cd,민방위
+centre,센터로의 타구
+century,100개
+chart,그래프
+cheap,값싼
+check,갑자기 정지하다
+club,곤봉 대신으로 쓰다
+college,교사
+colour,국기게양식
