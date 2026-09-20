@@ -117,12 +117,24 @@ elif menu == "🔍 단어 검색 및 검수":
                     st.write(f"**미국식 발음:** `{item.get('phonetics', {}).get('us', '-')}`")
                     st.write(f"**영국식 발음:** `{item.get('phonetics', {}).get('uk', '-')}`")
                     
+                    entry_id = item.get("id", "")
+                    local_us = SERVER_DIR / "audio" / f"level_{selected_level}" / f"{entry_id}_us.mp3"
+                    local_uk = SERVER_DIR / "audio" / f"level_{selected_level}" / f"{entry_id}_uk.mp3"
+
                     us_audio = item.get("audio", {}).get("us")
                     uk_audio = item.get("audio", {}).get("uk")
-                    if us_audio:
+
+                    if local_us.exists():
+                        st.audio(str(local_us), format="audio/mp3")
+                        st.caption(f"US (Local File): {local_us.name}")
+                    elif us_audio:
                         st.audio(us_audio, format="audio/mp3")
                         st.caption(f"US CDN: {us_audio}")
-                    if uk_audio:
+
+                    if local_uk.exists():
+                        st.audio(str(local_uk), format="audio/mp3")
+                        st.caption(f"UK (Local File): {local_uk.name}")
+                    elif uk_audio:
                         st.audio(uk_audio, format="audio/mp3")
                         st.caption(f"UK CDN: {uk_audio}")
                         

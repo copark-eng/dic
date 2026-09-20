@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-20T00:39:07.837354+00:00",
+  "updated_at": "2026-09-20T02:17:06.997201+00:00",
   "levels": {
     "1": {
       "name": "기초",
       "code": "L1",
       "total_words": 1000,
       "file": "level_1.json",
-      "file_size_bytes": 626860,
-      "sha256": "d5732c0874bb956eac947133503c1ae9b451b2ca7c8223a3d40b7889a812b07d",
-      "updated_at": "2026-09-20T00:39:05.629827+00:00"
+      "file_size_bytes": 642706,
+      "sha256": "b8eb798131d39597b36a7eaf0d7a6103e806e506c7b69f475ee393cde9eac0aa",
+      "updated_at": "2026-09-20T02:17:06.996201+00:00"
     },
     "2": {
       "name": "중등",

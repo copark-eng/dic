@@ -124,10 +124,21 @@ def build_level_data(level: int, keng_details: dict[str, dict[str, Any]], oxford
         ex_en, ex_ko = generate_natural_example(word, pos, meaning)
         entry_id = f"{prefix}-{idx:04d}"
 
-        # ADR-001 3단계 발음 보장: 고속 Google/Oxford CDN URL 매핑
-        # (타임아웃 유발하는 api.dictionaryapi.dev 직접 링크 배제)
-        audio_us = f"https://translate.google.com/translate_tts?ie=UTF-8&tl=en-US&client=tw-ob&q={wl}"
-        audio_uk = f"https://translate.google.com/translate_tts?ie=UTF-8&tl=en-GB&client=tw-ob&q={wl}"
+        # ADR-001 3단계 발음 보장:
+        # 실제 물리적 MP3 파일이 서버에 존재하는 경우 GitHub Raw CDN 경로 부여
+        # 미다운로드 레벨인 경우 Google TTS 고속 스트리밍 URL 유지
+        local_us_audio = SERVER_DIR / "audio" / f"level_{level}" / f"{entry_id}_us.mp3"
+        local_uk_audio = SERVER_DIR / "audio" / f"level_{level}" / f"{entry_id}_uk.mp3"
+
+        if local_us_audio.exists():
+            audio_us = f"https://raw.githubusercontent.com/copark-eng/dic/main/server/audio/level_{level}/{entry_id}_us.mp3"
+        else:
+            audio_us = f"https://translate.google.com/translate_tts?ie=UTF-8&tl=en-US&client=tw-ob&q={wl}"
+
+        if local_uk_audio.exists():
+            audio_uk = f"https://raw.githubusercontent.com/copark-eng/dic/main/server/audio/level_{level}/{entry_id}_uk.mp3"
+        else:
+            audio_uk = f"https://translate.google.com/translate_tts?ie=UTF-8&tl=en-GB&client=tw-ob&q={wl}"
 
         entry = {
             "id": entry_id,
