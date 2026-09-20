@@ -7,8 +7,8 @@
       "code": "L1",
       "total_words": 1000,
       "file": "level_1.json",
-      "file_size_bytes": 642706,
-      "sha256": "b8eb798131d39597b36a7eaf0d7a6103e806e506c7b69f475ee393cde9eac0aa",
+      "file_size_bytes": 641119,
+      "sha256": "d9c10b8f84029467c9f9dd026007a77c535681f6566303a90759d40fbe9f8e16",
       "updated_at": "2026-09-20T02:17:06.996201+00:00"
     },
     "2": {
@@ -16,8 +16,8 @@
       "code": "L2",
       "total_words": 2000,
       "file": "level_2.json",
-      "file_size_bytes": 1296123,
-      "sha256": "8fa5c6559d778d4f1d946e41ef235ffaa7d3de6c342159ac10f56afe46711e4c",
+      "file_size_bytes": 1294956,
+      "sha256": "117668c451549de9a9c418443031922b22c855fb8b27ae29c33716925c4cb713",
       "updated_at": "2026-09-20T02:36:09.826243+00:00"
     },
     "3": {
@@ -25,8 +25,8 @@
       "code": "L3",
       "total_words": 3000,
       "file": "level_3.json",
-      "file_size_bytes": 1969990,
-      "sha256": "57bad8e353b14e1d9e561ae909b26066901c353fff38aeb08f3087dc8ecbf826",
+      "file_size_bytes": 1969424,
+      "sha256": "2929d5cc1882aa2aa20e9ac4cde380b93a8b5c07cc6adf6f536e9e0fe6083e25",
       "updated_at": "2026-09-20T02:38:43.097577+00:00"
     },
     "4": {
@@ -34,8 +34,8 @@
       "code": "L4",
       "total_words": 4500,
       "file": "level_4.json",
-      "file_size_bytes": 2962030,
-      "sha256": "5f8969559e47f30774c0f2895c77976756edfab54629cbb1f3a57987612be677",
+      "file_size_bytes": 2960325,
+      "sha256": "9defbf108532efdd2c5c849d9af2b642ad66c763fdcce238a8a26b2316e6c3d5",
       "updated_at": "2026-09-20T02:43:17.192073+00:00"
     },
     "5": {
@@ -43,8 +43,8 @@
       "code": "L5",
       "total_words": 4000,
       "file": "level_5.json",
-      "file_size_bytes": 2643320,
-      "sha256": "c1f945804943ee472956744f804cc8d0b5b10aa528189d4ef98b9eeb835853ef",
+      "file_size_bytes": 2642434,
+      "sha256": "9a3b2e48ba176f4b4daf1dbda246fe1f89feb7fc37c405bacaf2ad6aa66093dd",
       "updated_at": "2026-09-20T02:47:53.406329+00:00"
     },
     "6": {
@@ -52,8 +52,8 @@
       "code": "L6",
       "total_words": 5500,
       "file": "level_6.json",
-      "file_size_bytes": 3640553,
-      "sha256": "d830b035bbe998b23c4af3ccfc699fe401f13d3f6a97861555ab2e4a3abd849f",
+      "file_size_bytes": 3639718,
+      "sha256": "3cedc491327f4372f7e05645697bba62d813f3f25e5fed98910b56289cd57bef",
       "updated_at": "2026-09-20T02:53:01.619081+00:00"
     },
     "7": {
@@ -61,8 +61,8 @@
       "code": "L7",
       "total_words": 6500,
       "file": "level_7.json",
-      "file_size_bytes": 4295393,
-      "sha256": "43f12cb7d556e968adee391ed1280a9498c06123025acbebec8c4cbb14d1ba3f",
+      "file_size_bytes": 4294961,
+      "sha256": "ccbcbe01bbd8f2387a3282e2954060ecd521c0d92081f3fd2630fe1df26014f0",
       "updated_at": "2026-09-20T02:59:09.997294+00:00"
     }
   }
