@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-20T02:17:06.997201+00:00",
+  "updated_at": "2026-09-20T02:36:09.827248+00:00",
   "levels": {
     "1": {
       "name": "기초",
@@ -16,9 +16,9 @@
       "code": "L2",
       "total_words": 2000,
       "file": "level_2.json",
-      "file_size_bytes": 1273821,
-      "sha256": "dc7cea50a153978dbedbec35002fbaa539a7230179b82861c038c124a8b603bd",
-      "updated_at": "2026-09-20T00:39:05.762833+00:00"
+      "file_size_bytes": 1296123,
+      "sha256": "8fa5c6559d778d4f1d946e41ef235ffaa7d3de6c342159ac10f56afe46711e4c",
+      "updated_at": "2026-09-20T02:36:09.826243+00:00"
     },
     "3": {
       "name": "수능기본",
