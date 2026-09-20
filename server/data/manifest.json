@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-20T02:36:09.827248+00:00",
+  "updated_at": "2026-09-20T02:38:43.174830+00:00",
   "levels": {
     "1": {
       "name": "기초",
@@ -25,9 +25,9 @@
       "code": "L3",
       "total_words": 3000,
       "file": "level_3.json",
-      "file_size_bytes": 1938538,
-      "sha256": "ccc9750d0824d0373c8bb55d1a29131ad70a1a87fc8fc2b5c1a34949ba6f3ef3",
-      "updated_at": "2026-09-20T00:39:06.312814+00:00"
+      "file_size_bytes": 1969990,
+      "sha256": "57bad8e353b14e1d9e561ae909b26066901c353fff38aeb08f3087dc8ecbf826",
+      "updated_at": "2026-09-20T02:38:43.097577+00:00"
     },
     "4": {
       "name": "수능심화",
