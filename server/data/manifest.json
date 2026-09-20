@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-20T02:47:53.421330+00:00",
+  "updated_at": "2026-09-20T02:53:01.629073+00:00",
   "levels": {
     "1": {
       "name": "기초",
@@ -52,9 +52,9 @@
       "code": "L6",
       "total_words": 5500,
       "file": "level_6.json",
-      "file_size_bytes": 3590587,
-      "sha256": "3cdf82b1720252b536e56b71f92350b8242970db4f7aa86a6d433331d71a5213",
-      "updated_at": "2026-09-20T00:39:07.454844+00:00"
+      "file_size_bytes": 3640553,
+      "sha256": "d830b035bbe998b23c4af3ccfc699fe401f13d3f6a97861555ab2e4a3abd849f",
+      "updated_at": "2026-09-20T02:53:01.619081+00:00"
     },
     "7": {
       "name": "TOEIC 990",
