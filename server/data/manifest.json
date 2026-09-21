@@ -1,15 +1,12 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-20T02:59:10.004296+00:00",
+  "updated_at": "2026-09-21T12:15:18.528995+00:00",
   "levels": {
     "1": {
       "name": "기초",
-      "code": "L1",
-      "total_words": 1000,
+      "count": 1000,
       "file": "level_1.json",
-      "file_size_bytes": 641119,
-      "sha256": "d9c10b8f84029467c9f9dd026007a77c535681f6566303a90759d40fbe9f8e16",
-      "updated_at": "2026-09-20T02:17:06.996201+00:00"
+      "sha256": "909517436b7297b997ad0baeaa8c010195b233eeda6392791ce281b51dff4870"
     },
     "2": {
       "name": "중등",
@@ -17,8 +14,9 @@
       "total_words": 2000,
       "file": "level_2.json",
       "file_size_bytes": 1294956,
-      "sha256": "117668c451549de9a9c418443031922b22c855fb8b27ae29c33716925c4cb713",
-      "updated_at": "2026-09-20T02:36:09.826243+00:00"
+      "sha256": "881abe5f4c49bb71cb74757a273fbe3165cf83d41fc40156b2b5db09bf7ebc9a",
+      "updated_at": "2026-09-20T02:36:09.826243+00:00",
+      "count": 2000
     },
     "3": {
       "name": "수능기본",
@@ -26,8 +24,9 @@
       "total_words": 3000,
       "file": "level_3.json",
       "file_size_bytes": 1969424,
-      "sha256": "2929d5cc1882aa2aa20e9ac4cde380b93a8b5c07cc6adf6f536e9e0fe6083e25",
-      "updated_at": "2026-09-20T02:38:43.097577+00:00"
+      "sha256": "c6a968a7789652c26c4fc927e4b8a4f19fc3f7757d50129677a8b5763d10c7c1",
+      "updated_at": "2026-09-20T02:38:43.097577+00:00",
+      "count": 3000
     },
     "4": {
       "name": "수능심화",
@@ -35,8 +34,9 @@
       "total_words": 4500,
       "file": "level_4.json",
       "file_size_bytes": 2960325,
-      "sha256": "9defbf108532efdd2c5c849d9af2b642ad66c763fdcce238a8a26b2316e6c3d5",
-      "updated_at": "2026-09-20T02:43:17.192073+00:00"
+      "sha256": "d60c79f163090749cdd08c6fe3c33cf4ab1b663e187c57159b1d00cb9dec09c6",
+      "updated_at": "2026-09-20T02:43:17.192073+00:00",
+      "count": 4500
     },
     "5": {
       "name": "TOEIC 750",
@@ -44,8 +44,9 @@
       "total_words": 4000,
       "file": "level_5.json",
       "file_size_bytes": 2642434,
-      "sha256": "9a3b2e48ba176f4b4daf1dbda246fe1f89feb7fc37c405bacaf2ad6aa66093dd",
-      "updated_at": "2026-09-20T02:47:53.406329+00:00"
+      "sha256": "0a7c3d4aee6ea2108d8e9e43c23e8d8cdbaa3d61dbe4b9a13e9d253a82691dc3",
+      "updated_at": "2026-09-20T02:47:53.406329+00:00",
+      "count": 4000
     },
     "6": {
       "name": "TOEIC 900",
@@ -53,8 +54,9 @@
       "total_words": 5500,
       "file": "level_6.json",
       "file_size_bytes": 3639718,
-      "sha256": "3cedc491327f4372f7e05645697bba62d813f3f25e5fed98910b56289cd57bef",
-      "updated_at": "2026-09-20T02:53:01.619081+00:00"
+      "sha256": "903b6169fd181a06a9441321cf5463e9cf27e10e0bf8b15520b28e586d09e727",
+      "updated_at": "2026-09-20T02:53:01.619081+00:00",
+      "count": 5500
     },
     "7": {
       "name": "TOEIC 990",
@@ -62,8 +64,9 @@
       "total_words": 6500,
       "file": "level_7.json",
       "file_size_bytes": 4294961,
-      "sha256": "ccbcbe01bbd8f2387a3282e2954060ecd521c0d92081f3fd2630fe1df26014f0",
-      "updated_at": "2026-09-20T02:59:09.997294+00:00"
+      "sha256": "626f301e5e95945c369f3f3d72e4b903d97c0b0e29e3dfd0175327fe8c142e53",
+      "updated_at": "2026-09-20T02:59:09.997294+00:00",
+      "count": 6500
     }
   }
 }
