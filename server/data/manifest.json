@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-21T12:15:18.528995+00:00",
+  "updated_at": "2026-09-21T15:55:57.278188+00:00",
   "levels": {
     "1": {
       "name": "기초",
@@ -67,6 +67,16 @@
       "sha256": "626f301e5e95945c369f3f3d72e4b903d97c0b0e29e3dfd0175327fe8c142e53",
       "updated_at": "2026-09-20T02:59:09.997294+00:00",
       "count": 6500
+    },
+    "0": {
+      "name": "디폴트 나만의 단어장",
+      "code": "MY",
+      "total_words": 1222,
+      "file": "custom_wordbook.json",
+      "file_size_bytes": 987980,
+      "sha256": "afa91985909a76964a94b9224d43043015b4ed6b489c80fc15a0dbcba05cb667",
+      "updated_at": "2026-09-21T15:55:57.278188+00:00",
+      "count": 1222
     }
   }
 }
