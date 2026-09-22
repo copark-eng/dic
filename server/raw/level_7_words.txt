@@ -5,50 +5,50 @@ doublereed,더블 리드의
 doubleclutch,더블 클러치를 밟다
 doublefault,더블 폴트하다
 doubledate,더블데이트를 하다
-cstle,더블린 성
+castle,성, 대저택
 doublebogey,더블보기로 오르다
 derby,더비 경마
 derbyshire,더비셔
 dubbing,더빙
-forrarder,더앞으로
-bliss,더없는행복
-supremely,더없이
+forward,앞으로, 발전된
+bliss,더없는 행복, 지복
+supremely,최고로, 대단히
 aggravator,더욱 악화시키는 것
 aggravating,더욱 악화하는
 brose,더운물이나밀크를부은오트밀
 swelter,더위 먹다
 reproachless,더할 나위 없는
-unquestionable,더할 나위 없는
+unquestionable,의심할 여지 없는, 확실한
 fairyland,더할 나위 없이 아름다운 곳
 addible,더할 수 있는
 exquisite,더할나위 없는
 faultless,더할나위 없는
 remittent,더했다 덜했다 하는
-sufferance,덕분에
+sufferance,묵인, 용인, 묵허
 sainted,덕이 높은
 saintship,덕이 높음
 virtuous,덕이 있는
 benevolence,덕행
 welldoer,덕행자
-dunlop,던롭
+pneumatic,기체의, 공기의
 scuzzy,던적스러운
 engulf,던져 넣다
 upcast,던져 올리다
 upthrow,던져 올림
 dart,던지는 창
-hurling,던짐
+hurling,던지기, 헐링 (스포츠)
 pitching,던짐
 deemphasize,덜 강조하다
 backlash,덜거덕 거림
 coappedout,덜거덕거리는
 rumbly,덜거덕거리는
-bump,덜거덕거리며나아가다
+bump,부딪치다, 덜컹거리며 가다
 trembly,덜덜 떠는
 burly,덜렁대다
 clatteringly,덜리며
 cembalo,덜시머
 bumpy,덜커덕거리는
-ramshackle,덜컥거리는
+ramshackle,곧 쓰러질 듯한, 흔들거리는
 rattletrap,덜컥거리는
 jolt,덜컹거리다
 jolty,덜컹거리다
@@ -178,7 +178,7 @@ deccan,데칸  반도
 declomycin,데클로마이신
 ockerism,데퉁스러운 오스트레일리아 사람
 lubberly,데퉁스럽게
-deque,덱
+deque,양방향 큐, 덱 (자료구조)
 deckman,덱맨
 dexedrine,덱서드린
 dex,덱스
@@ -514,8 +514,8 @@ urbanite,도회 사람
 urbane,도회적인
 citified,도회지풍
 urbanize,도회화 하다
-bane,독
-venom,독
+bane,골칫거리, 파멸의 원인
+venom,독, 원한, 악의
 ringhals,독 뱉는 코브라
 darnel,독 보리
 phosgenite,독가스
@@ -585,8 +585,8 @@ dyslexic,독서 장애의
 bookaholic,독서 중독 환자
 bookworm,독서광
 alexia,독서불능증
-眼到,독서삼도
-口到,독서삼도
+scrutiny,면밀한 검토, 정밀 조사
+articulation,명확한 표현, 명료도
 bookman,독서인
 egotistic,독선적인
 selfrighteous,독선적인
@@ -1378,7 +1378,7 @@ doukhobor,두호보르
 cephalization,두화
 subsolar,두회귀선 사이의
 cephalothorax,두흉부
-embankment,둑
+embankment,제방, 둑
 causeway,둑길
 embank,둑으로 두르다
 berm,둑의 물매턱
@@ -1579,8 +1579,8 @@ euphony,듣기좋은음조
 audient,듣는 사람
 hearer,듣는 사람
 disobey,듣지 않다
-plains,들
-etcaetera,들
+plains,평원, 평지
+etcaetera,등등, 기타 등등
 fieldwards,들 쪽에
 dingo,들개
 dogcatcher,들개 포획인
@@ -1633,8 +1633,8 @@ unheardof,들은 적이 없는
 audition,들음
 auscultation,들음
 inlet,들이는물
-물건을,들이다
-노력을,들이다
+merchandise,상품, 물품
+endeavor,노력, 시도
 impendence,들이닥침
 impendency,들이닥침
 inspiratory,들이마시는
@@ -1773,8 +1773,8 @@ negligence,등한
 isocheim,등한선
 inattentive,등한하다
 negligent,등한하다
-등잔불,등화
-촛불,등화
+illumination,조명, 밝힘, 계몽
+candlepower,촉광, 광도
 di,디
 digamma,디감마
 digitalis,디기탈리스
@@ -1841,7 +1841,7 @@ deflationary,디플레이션의
 dictaphone,딕터폰
 dictograph,딕토그래프
 dilettante,딜레탕트풍의
-deme,딤
+deme,고대 그리스의 자치구, 지방민
 dit,딧
 barnacle,따개비
 unstitch,따내다
@@ -1896,10 +1896,10 @@ tintinnabulation,딸랑딸랑
 rattlebox,딸랑딸랑상자활나물
 rattlebag,딸랑주머니
 cum,딸린의 뜻
-perspiration,땀
+perspiration,땀, 땀 흘리기, 노력
 sudor,땀
-sweat,땀
-transpiration,땀
+sweat,땀, 땀을 흘리다
+transpiration,증산 작용, 발산
 sweaty,땀 흘리게 하는
 sudorific,땀나는
 miliaria,땀띠
@@ -1996,9 +1996,9 @@ disengage,떨어지다
 sever,떨어지다
 latcheron,떨어지지 않는 사람
 bredinthebone,떨쳐버릴 수 없는
-shudder,떪
+shudder,몸서리치다, 전율하다
 astringent,떫다
-turf,떼
+turf,잔디밭, 잔디, 세력권
 sod,떼
 bevy,떼
 caboodle,떼
@@ -2043,7 +2043,7 @@ mutt,똥개
 dung,똥거름
 dunghill,똥거름더미
 curb,똥누게 도랑쪽으로 데리고 가다
-shithead,똥살 놈
+shareholder,주주
 coprophilous,똥에서 자라는
 dejecta,똥오줌
 coprophagous,똥을 먹고 사는
@@ -2119,7 +2119,7 @@ zonal,띠의
 raga,라가
 ragarock,라가록
 lager,라거비어
-라고,라고
+stipulation,조항, 약정, 조건
 methinks,라고 생각되다
 moluccas,라고도 함
 ragout,라구
@@ -2900,7 +2900,7 @@ marxism,마르크스주의
 marxist,마르크스주의자
 martini,마르티니
 desiccation,마름
-ashlaring,마름돌 ?기
+ashlaring,마름돌 기
 diamondcut,마름모 꼴로 다듬은
 diamondback,마름모 무늬가 있는 동물
 lozenge,마름모꼴
@@ -3358,7 +3358,7 @@ gormand,많이 먹다
 gormandize,많이 먹다
 teem,많이 있다
 firstling,맏배
-맏아들,맏이
+predecessor,전임자, 이전 모델
 phatic,말 따위가 깊은 뜻이 없는 의례적인
 mum,말 마라!
 talkative,말 많은
@@ -3601,7 +3601,7 @@ devastation,망친
 naught,망한
 goddamn,망할
 goddam,망할
-blanketyblank,망할 놈
+benchmark,기준, 벤치마크
 punchdrunk,맞고 비틀비틀하는
 cogwheel,맞물리는 톱니바퀴
 headwind,맞바람
@@ -4473,7 +4473,7 @@ moses,모세
 capillary,모세관의
 mosaic,모세의
 dendrite,모수석
-discrepancy,모순
+discrepancy,불일치, 괴리
 incongruity,모순
 inconsistency,모순
 oxymoron,모순 어법
@@ -5369,7 +5369,7 @@ contextual,문맥상의
 unlettered,문맹의
 laws,문물
 stationer,문방구상
-벼루,문방사우
+stationery,문구류, 사무용품
 analphabetic,문뱅의
 grammarian,문법가
 grammaticality,문법성

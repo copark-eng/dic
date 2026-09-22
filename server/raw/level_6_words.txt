@@ -1,4 +1,4 @@
-abnormality,병신
+abnormality,이상, 비정상, 기형
 adaptive,적합한
 approximation,근사치
 categorize,분류하다
@@ -19,7 +19,7 @@ event,큰 사건
 exemplify,예시하다
 explain,덧붙이기
 explanatory,해석상의
-fact,일
+fact,사실, 실제
 geographical,지라적인
 hierarchical,성직자단
 horizontal,수평선
@@ -37,7 +37,7 @@ intrinsic,본래 갖추어진
 introduce,끼워넣다
 localized,지방적인
 locally,장소상으로
-meaning,뜻
+meaning,의미, 뜻
 mediate,중개의
 methodological,방법론적
 modern,근대적인
@@ -162,7 +162,7 @@ grounded,근거있는
 syssarcosis,근골연결
 suburbicarian,근교 주택 지구의
 rhizosphere,근권
-yesteryear,근년
+yesteryear,지난날, 과거, 작년
 chard,근대
 nightingale,근대 간호학 확립의 공로자
 redbrick,근대 대학
@@ -337,7 +337,7 @@ farraginous,긁어 모은
 scraping,긁어 모은것
 claw,긁어모으다
 boomerang,긁어부스럼
-aurum,금
+aurum,금 (원소)
 goldsmith,금 세공인
 emery,금강사
 diamondcutter,금강석을 다듬는 사람
@@ -525,13 +525,13 @@ haulabout,급탄선
 scamper,급하게 훑어 읽기
 hasty,급한
 presto,급한
-affirmation,긍
+affirmation,확언, 단언, 긍정
 litmusless,긍정도 부정도 안하는
 affirmative,긍정문
 affirmatory,긍정의
-tinge,기
-tint,기
-mist,기
+tinge,엷은 색조, 기미, 기운
+tint,색조, 염색하다
+mist,안개, 연무
 bunting,기 만드는 천
 vertiport,기 이착륙장
 unquailing,기가 꺾이지 않는
@@ -1309,7 +1309,7 @@ diminution,김소
 fescue,김의털
 sew,깁다
 stitch,깁다
-feathering,깃
+feathering,깃털 장식, 깃털 모양
 flagpole,깃대
 flagstaff,깃대
 indwell,깃들다
@@ -1322,7 +1322,7 @@ shuttlecock,깃털공
 fledge,깃털로 덮다
 plume,깃털로 장장식하다
 deplume,깃털을 잡아 뜯다
-fledgeling,깃털이 갓난새 새끼
+fledgeling,신출내기, 초보자, 어린 새
 unfledged,깃털이 다 나지 않은
 fledged,깃털이 다 난
 callow,깃털이 아직 나지 않은
@@ -1433,7 +1433,7 @@ openeyed,깜작 놀란
 startle,깜작놀라다
 blimey,깜짝이야!
 geewhizz,깜짝이야!
-답답하다,깝깝하다
+stifling,숨 막히는, 답답한
 scutum,깝상 연골
 phalarope,깝작도요무리
 tenaciousness,깡체질
@@ -1538,7 +1538,7 @@ batrachian,꼬리업는 양서루의 동물
 ringtail,꼬리에 고리 무의가 있는 동물
 fishtail,꼬리치기 활공
 speedwell,꼬리풀의 일종
-brat,꼬마놈
+brat,버릇없는 아이, 개구쟁이
 jacksmelt,꼬마도요
 nipper,꼬마둥이
 turnstone,꼬마물떼새
@@ -1572,7 +1572,7 @@ tightly,꼭꼭
 phantom,꼭두
 madder,꼭두서니
 seizing,꼭쥠
-braided,꼰
+braided,땋은, 꼰
 plait,꼰 끈
 pigtail,꼰 담배
 organzine,꼰 명주실
@@ -1679,16 +1679,16 @@ impacted,꽉 채워진
 bodice,꽉끼는
 handfast,꽉쥐기
 chockablock,꽉차서
-pow,꽝
-thud,꽝
+pow,쾅, 쿵 (의성어)
+thud,쿵 하는 소리
 quackquack,꽥꽥
 squawk,꽥꽥 거리다
 squall,꽥꽥 떠들다
 gabble,꽥꽥 울다
 squeaker,꽥꽥거리는 사람
-trickery,꾀
-devices,꾀
-artifices,꾀
+trickery,사기, 속임수
+devices,장치들, 계책, 고안
+artifices,책략, 계교
 finical,꾀까다로운
 squeamish,꾀까다로운
 waspish,꾀까다로운
@@ -2526,7 +2526,7 @@ butch,남성역의 여성
 bulldagger,남성역의 여성 동성 연애자
 buds,남성용 내의
 menswear,남성용 의류
-metapausr,남성의 갱년기
+andropause,남성 갱년기
 beefcake,남성의 근육미 사진
 anima,남성의여성적요소
 twofisted,남성적인
@@ -2816,7 +2816,7 @@ declivity,내리막
 downhill,내리받이
 deign,내리시다
 downhaul,내림밧줄
-마음,내면
+sentiment,정서, 감정, 심리
 internality,내면성
 internalization,내면화
 barracks,내무반
@@ -3633,7 +3633,7 @@ quivive,누구야!
 somebody,누군가
 abate,누그러뜨리다
 allay,누그러뜨리다
-mitigate,누그러뜨리다
+mitigate,완화하다, 경감하다
 soothingly,누그러지게 하여
 inappeasable,누그러지게 할수 없는
 assuasive,누그러지게하는
@@ -5194,7 +5194,7 @@ objectfinder,대상 파인더
 argosy,대상선
 cingulotomy,대상속 절개 수술
 shingles,대상포진
-대학생,대생
+undergraduate,대학생, 학부생
 st,대서양 남부의 영국령의 섬
 helena,대서양 남부의 영국령의 섬
 atlantica,대서양 세계
@@ -5333,7 +5333,7 @@ groundprox,대지 접근 경보 장치
 passepartout,대지용 접착 테이프
 zygodactyl,대지족류의 새
 squire,대지주
-도회지都會地,대처
+metropolis,주요 도시, 대도시
 antipodal,대척적인
 antipodes,대척지
 broadbrush,대체적인

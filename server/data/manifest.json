@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-21T15:55:57.278188+00:00",
+  "updated_at": "2026-09-22T11:02:13.147819+00:00",
   "levels": {
     "1": {
       "name": "기초",
@@ -53,9 +53,9 @@
       "code": "L6",
       "total_words": 5500,
       "file": "level_6.json",
-      "file_size_bytes": 3639718,
-      "sha256": "903b6169fd181a06a9441321cf5463e9cf27e10e0bf8b15520b28e586d09e727",
-      "updated_at": "2026-09-20T02:53:01.619081+00:00",
+      "file_size_bytes": 4779749,
+      "sha256": "75c34b59be22c480911e2bc69e5f5f1005a6089833a5c9135ec76642d31022be",
+      "updated_at": "2026-09-22T10:51:13.765362+00:00",
       "count": 5500
     },
     "7": {
@@ -63,9 +63,9 @@
       "code": "L7",
       "total_words": 6500,
       "file": "level_7.json",
-      "file_size_bytes": 4294961,
-      "sha256": "626f301e5e95945c369f3f3d72e4b903d97c0b0e29e3dfd0175327fe8c142e53",
-      "updated_at": "2026-09-20T02:59:09.997294+00:00",
+      "file_size_bytes": 5648353,
+      "sha256": "0cf65cb40a264addb953f5148198a8d4138277ebbd6180b192c4e24034659973",
+      "updated_at": "2026-09-22T11:02:13.147819+00:00",
       "count": 6500
     },
     "0": {
