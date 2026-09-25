@@ -55,9 +55,9 @@
       "code": "L6",
       "total_words": 5500,
       "file": "level_6.json",
-      "file_size_bytes": 4779749,
-      "sha256": "75c34b59be22c480911e2bc69e5f5f1005a6089833a5c9135ec76642d31022be",
-      "updated_at": "2026-09-22T10:51:13.765362+00:00",
+      "file_size_bytes": 5417105,
+      "sha256": "0b04f65c55fbfd90265e83b91bfa611d9a95c34e6b26fc227a06208c99e22ea7",
+      "updated_at": "2026-09-25T16:26:55.036557+00:00",
       "count": 5500
     },
     "7": {
