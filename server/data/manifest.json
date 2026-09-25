@@ -35,9 +35,9 @@
       "code": "L4",
       "total_words": 4500,
       "file": "level_4.json",
-      "file_size_bytes": 2960325,
-      "sha256": "d60c79f163090749cdd08c6fe3c33cf4ab1b663e187c57159b1d00cb9dec09c6",
-      "updated_at": "2026-09-20T02:43:17.192073+00:00",
+      "file_size_bytes": 4368868,
+      "sha256": "2640a22ee83b0490d46a2411e60c8f5049af37a5b3471a5d24b0c13bf455a331",
+      "updated_at": "2026-09-25T15:49:46.244355+00:00",
       "count": 4500
     },
     "5": {
