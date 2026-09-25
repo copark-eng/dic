@@ -1,8 +1,8 @@
 academic,대학의
-accommodation,대부금
-ad,서력
-addition,가산
-admire,감탄하다
+accommodation,숙소, 숙박시설; 편의; 수용
+ad,광고
+addition,추가, 덧셈; 부가물
+admire,감탄하다, 존경하다, 칭찬하다
 admit,승인하다
 advanced,고등의
 advise,조언하다
@@ -37,7 +37,7 @@ battery,구타
 bend,결삭
 block,모탕
 bomb,대성공-폭격하다
-border,가
+border,국경, 경계; 가장자리
 bother,귀찮게하다
 breath,선들거림
 breathe,살아있다
@@ -52,9 +52,9 @@ chain,고리줄
 chapter,분회
 cheerful,기분 좋은
 childhood,아동기
-clause,구
+clause,(문법) 절; (법률·계약) 조항
 click,딸깍 소리가 나다
-client,예속 평민
+client,고객, 의뢰인
 cloth,걸레
 clue,퍼즐의 열쇠
 coal,석탄
@@ -98,7 +98,7 @@ departure,발차
 despite,불구하고
 destination,목적지
 determined,결정된
-diagram,도
+diagram,도표, 도식, 다이어그램
 diamond,금강석
 dirt,굴욕을 참다
 discount,할인하다
@@ -248,12 +248,12 @@ payment,급부
 persuade,권유하다
 photographer,사진사
 photography,사진술
-pipe,관
+pipe,파이프, 배관, 관; 파이프 담배
 pleasant,탐탁
 plot,음모
 plus,더하기의
 poem,아름다운 물건
-poison,독
+poison,독, 독약; 해악; 독살하다
 poisonous,독한
 policy,담화문
 politician,정객
@@ -303,7 +303,7 @@ release,개봉
 reliable,미덥다
 religious,거룩한
 remind,상기시키다
-remote,먼
+remote,외딴, 먼; 원격의; 희박한
 rent,끊어진 틈
 repeat,다시 경험하다
 repeated,되풀이된
@@ -327,7 +327,7 @@ script,방송원고
 secondary,부수적
 sensible,분별 있는
 servant,고용인
-setting,짐
+setting,배경, 환경; 설정, 장소
 sex,성교
 shell,깍지
 shift,꾸려나가다
@@ -346,7 +346,7 @@ southern,남주 제주의
 specifically,명수
 spoken,구술
 staff,권표
-standard,기
+standard,표준, 기준; 일반적인, 표준의
 stranger,낯선 사람
 strength,강하기
 strongly,강경히
@@ -369,7 +369,7 @@ tin,양철
 tongue,널름거리다
 trick,속여서 시키다
 truth,사실은
-tube,관
+tube,관, 튜브; (영국) 지하철
 type,의 전형이 되다
 typically,예에 따라
 unable,할 수 없는
@@ -386,7 +386,7 @@ used,에 익숙하여
 version,입장에서 본 어떤 사건의 설명
 victim,산 재물
 viewer,검사관
-violent,변사
+violent,폭력적인, 격렬한, 맹렬한
 volunteer,자발적으로 나서다
 vote,부결하다
 weigh,달아서 나누다
@@ -406,7 +406,7 @@ input,인풋
 palate,구개
 situation,물정
 clothe,싸다
-gauge,게이지
+gauge,계량기, 측정기; 측정하다, 판단하다
 scale,흐림
 pride,거만
 sisters,자매
@@ -417,7 +417,7 @@ resources,자력
 autonomy,자율
 vestige,발자취
 agency,대리권
-lawn,론
+lawn,잔디, 잔디밭
 jumper,급등시키다
 submarine,바다속의
 dragonfly,잠자리
@@ -428,7 +428,7 @@ dealer,상안
 decoration,꾸밈
 someday,멀지 않아로 바꾸어 쓸 수 있음
 incessant,그칠새 없는
-guage,재다
+gauge,계량기, 측정기; 측정하다, 판단하다
 revival,재생
 finances,금융
 recycling,재사용
@@ -444,14 +444,14 @@ expansion,전개
 evolve,발전시키다
 prospect,가망
 observe,거행하다
-ddisplayed,전시되다
+displayed,전시된, 진열된; 나타난
 convert,개심시키다
 absolute,기계어로 쓰인
 despair,절망
 hopelessness,가망없음
 thrift,검약
 formalities,절차
-수속,절차
+procedure,절차, 수속, 과정
 inspection,감사
 decent,반듯하다
 proximity,접근
@@ -501,7 +501,7 @@ inhabitants,주민
 dwellers,주민
 stock,가계
 assertion,단언
-insistance,주장
+insistence,고집, 주장, 강조
 interruption,중단
 suspension,매달림
 stopped,중단되다
@@ -511,7 +511,7 @@ augmentation,증가
 proof,튼튼하게 하다
 securities,유가증권
 deed,증권
-perception,력
+perception,지각, 인식, 통찰력
 consciousness,감지
 tiring,지겹다
 zone,지대
@@ -574,7 +574,7 @@ scoring,관현악보 작성
 penalty,처벌
 heaven,상공
 discretion,분별
-steel,강
+steel,강철, 철강; 단단하게 하다
 railroad,철도
 thoroughness,철저하다
 cleanliness,깨끗함을 좋아함
@@ -602,7 +602,7 @@ liking,비위
 reckon,간주하다
 calculate,계산해 내다
 silence,무소식
-tacity,침묵
+taciturnity,과묵, 말수가 적음, 침묵
 composure,침착
 ketchup,케첩
 course,경과
@@ -612,11 +612,11 @@ gifted,타고나다
 depravity,타락
 corruption,개악
 degradation,격하
-prominished,탁월하다
+prominent,저명한, 탁월한; 눈에 띄는
 fault,결점
 blame,가책
 select,극상의
-grounds,턱
+grounds,근거, 이유; (건물 주변) 부지, 땅
 hollow,골허하다
 terror,무서운사람
 contest,경연
@@ -641,9 +641,9 @@ opening,개시
 destruction,멸망
 demolition,파괴
 fax,팩스
-facximile,팩시밀리
+facsimile,팩스, 팩시밀리, 복제본
 facilities,설비
-services,편
+services,서비스, 공공 업무, 봉사
 convenience,간편
 expediency,편의
 evaluation,값을구함
@@ -653,7 +653,7 @@ abolition,노예 폐지폐지론
 downy,솜같은
 inclusion,산입
 comprehension,내포
-voilent,폭력
+violent,폭력적인, 격렬한, 맹렬한
 exterior,표면
 norm,노르마
 criteria,표준
@@ -670,16 +670,16 @@ indispensable,없어서는 안되는
 imperative,강제적인
 underneath,의 밑에
 excessively,하도
-hardwaer,하드웨어
+hardware,하드웨어, 장비, 쇠붙이
 watercourse,하천
 tuition,수업료
-scolarship,학술
+scholarship,장학금; 학문, 학식
 supplies,광량
 scholar,선비
 rancor,원한
 midwinter,한겨울
 boundary,한계
-glampse,한눈
+glimpse,흘긋 봄, 언뜻 봄; 흘긋 보다
 midsummer,한여름
 rational,도리를 아는
 reasonable,과하지 않은
@@ -699,11 +699,11 @@ consent,동의
 allowance,급여액
 approved,공인된
 ponder,헤아리다
-actuality,현
+actuality,현실, 실제, 사실
 realistic,사실적인
 cooperation,원조
 formation,편대
-curiousity,호기심
+curiosity,호기심, 진기함, 진기한 것
 pumpkin,호박
 respiration,단숨
 inundation,범람
@@ -712,7 +712,7 @@ conviction,뱃심
 enlargement,확대
 unobstructed,환하다
 vigor,만만하다
-vitality,기
+vitality,활력, 생기, 생명력
 briskly,상쾌하게
 extensively,광범하다
 recovery,간척
@@ -811,7 +811,7 @@ tidewaiter,감시원
 trailer,감은 끝의 공백의 부분
 ooze,감탕흙
 thyroid,갑상 연골
-calyptra,갓
+calyptra,(식물) 근관, 선모
 tabling,갓천
 tone,강해지다
 mephistophelean,같은
@@ -838,7 +838,7 @@ agraffe,걸쇠
 shuffle,걸치다
 metage,검량
 yellowbird,검은 방울새의 일종
-crust,겉
+crust,(빵의) 껍질; (지구의) 지각, 딱딱한 표층
 crawler,겉옷
 seemingly,겉으로 보기에
 winnow,겨를 까부르다
@@ -1027,7 +1027,7 @@ unlace,끈을 풀다
 magnetize,끌어 당기다
 trot,끌어내어 걸려 보이다
 surge,끓어오르다
-foreend,끝
+foreend,앞쪽 끝, 전단
 off,나가서
 hornpipe,나무피리
 miller,나방의 일종
@@ -1076,7 +1076,7 @@ lick,넘실거리다
 purl,넘어뜨리다
 slop,넘쳐 흐르다
 cater,네 끗
-quarter,네갈래로 찢다
+quarter,4분의 1; 15분; 25센트 동전; 분기
 frow,네덜란드여자
 languid,노곤
 troll,노래하다
@@ -1113,7 +1113,7 @@ topknot,다발
 relive,다시 체험하다
 downs,다운스 정박지
 fleshiness,다육성
-terrace,단
+terrace,테라스, 계단식 대지
 misericorde,단검
 mononucleosis,단구 증가증
 minicourse,단기 강좌
@@ -1133,7 +1133,7 @@ treadmill,답차
 mallow,당아욱 속
 immune,당할 염려가 없는
 hawse,닻줄 구멍이 있는 부근
-versus,대
+versus,~대(對), ~와 대비하여
 subtend,대 하다
 showstopper,대갈채를 얻은 것
 follicular,대과 모양의
@@ -1220,24 +1220,24 @@ oat,들뜨다
 salute,들리다
 leveled,등고의
 madame,등의 총칭
-pulled,딴
+pulled,잡아당긴, 당겨진
 owing,때문에
 tumult,떠들썩함
 orient,떠오르는
 puckery,떫은
-skein,떼
+skein,(실 등의) 타래; 꼬인 것
 flight,떼지어 날다
 swarm,떼지어 분봉하다
 tang,뗑하고 울리다
 tick,똑딱거리다
 ticktack,똑딱똑딱
 ticktock,똑딱똑딱
-casting,똥
+casting,주조, 주물; 배역 선정
 immerge,뛰어들다
 thrum,뜯다
 maxi,뜻의 결합사
 floatable,띄울 수 있는
-la,라
+la,(음악) 계이름 '라' (A음)
 wireless,라디오 수신기
 lama,라마승
 vicuna,라마의 종류
@@ -1310,7 +1310,7 @@ knit,메리야스 류
 impoverishment,메마르게 하다
 methanogen,메탄 생성 미생물
 linsey,면모교직
-legend,명
+legend,전설; 범례; 전설적인 인물
 ming,명나라
 singe,명성을 손상하다
 turning,몇 사람이 손을 대면 신령의 힘으로 테이블이 저절로 움직이는 현상
@@ -1420,8 +1420,8 @@ tailrace,방수로
 floodgate,방출구
 prohibit,방해하다
 trafficator,방향 지시기
-floatage,배
-flotage,배
+floatage,부유, 부력; 떠 있는 물건
+flotage,부유, 부력
 coulisse,배경
 micketmouse,배경 음악을 넣다
 shareout,배급물
@@ -1472,7 +1472,7 @@ canter,보통 구보로 가다
 pugilistic,복서의
 minidose,복용약
 thicken,복잡하게 하다
-mammon,부
+mammon,재물, 부, 탐욕
 tarsus,부골
 manus,부권
 kulak,부농
@@ -1492,7 +1492,7 @@ embryoid,부정배
 punka,부채
 punkah,부채
 inflate,부풀게하다
-shuttle,북
+shuttle,정기 왕복 버스/열차; 셔틀; 왕복하다
 subtreasury,분고
 prism,분광
 nimbus,분위기
@@ -1505,7 +1505,7 @@ forceland,불시착시키다
 jealous,불신앙을 용서치 않는
 lunge,불쑥 내밀다
 flirtatious,불장난하는
-ff,불합격자
+flunk,낙제하다, 불합격하다; 실패하다
 magot,붉은털원숭이
 linchpin,비녀장
 velure,비로드 솔
@@ -1529,7 +1529,7 @@ the,빠르면 빠를수록 좋다
 chink,빠져나갈 구멍
 downed,빠져든
 transparent,빤히 들여다뵈는
-toke,빵
+toke,(속어) 한 모금; 피우다
 wipe,빼다
 usurp,빼앗다
 bold,뻔뻔하다
@@ -1600,7 +1600,7 @@ fluffer,선로 청소부
 ormazd,선신
 hull,선체가 수평선 밑에 안보일 정도로 멀리
 schema,선험적 도식
-doxy,설
+doxy,(고어) 교의, 독단; 정부
 sadness,설구워진
 clapper,설렁
 illustrate,설명하다
@@ -1651,7 +1651,7 @@ hoax,속이다
 laity,속인
 laic,속인의
 territorial,속지주의
-donny,손
+donny,(방언) 손
 loop,손  공중제비하다
 lavabo,손씻는 예식
 grope,손으로 더듬어 나아가다
@@ -1690,7 +1690,7 @@ tagger,술래
 puffed,숨이 차서
 racker,숫자 복권
 linger,쉬이 사라지지않다
-layup,쉼
+layup,(농구) 레이업 슛; 휴항
 humble,스스로를 낮추어
 gall,스쳐서 벗겨진 상처
 triphammer,스프링 해머
@@ -1719,7 +1719,7 @@ liberty,신교의 자유
 godfearing,신을 두려워하는
 freshperson,신입생
 signalbox,신호소
-chamber,실
+chamber,(공공 목적의) 방, 회의실; 의회
 silurian,실루리아 사람의
 laden,실린
 heroic,실물보다 큰
@@ -1858,7 +1858,7 @@ household,온 집안 사람
 lasso,올가미
 forwardness,올됨
 heave,올림
-mange,옴
+mange,(동물의) 옴, 피부병
 omnibus,옴니버스 영화
 latitudinarian,옹졸하지 않은
 gone,와 사랑하여
@@ -1901,7 +1901,7 @@ menorrhoea,월경
 moonstrike,월면 착륙
 mondayize,월요일로 바꾸다
 wedgwood,웨지우드 도자기
-gizzard,위
+gizzard,(조류의) 모래주머니
 hereinbefore,위에
 pseudepigrapha,위전
 pseudopod,위족을 가진 원생동물
@@ -1961,7 +1961,7 @@ inmigrate,이주해 오다
 wane,이지러짐
 hereinafter,이하에
 malapropism,익살맞은 오용
-kernel,인
+kernel,알맹이, 낟알; (사상의) 핵심
 manmade,인공위성
 miranda,인권 옹호적인
 indus,인더스강
@@ -2063,7 +2063,7 @@ subtenant,전차인
 foreplay,전희
 messianism,절대적 지지
 stringhalt,절름증
-maculae,점
+maculae,(의학) 반점, 망막 황반
 overthecounter,점두 판매의
 lamplighter,점등부
 occupancy,점유
@@ -2107,8 +2107,8 @@ seating,좌석
 skeleton,좌흥을 깨뜨리는 것
 clinch,죄기
 lanyard,죔줄
-crownland,주
-shire,주
+crownland,국유지, 왕실 영지
+shire,(영국) 주(州), 카운티
 nozzle,주둥이
 gilled,주름이 있는
 sac,주머니 모양의 부분
@@ -2178,10 +2178,10 @@ wringer,짜는 기계
 windblown,짧게 잘라 옆에 착 붙인
 kirtle,짧은 겉옷
 miniski,짧은 스키
-floater,찌
+floater,(낚시) 찌; 유동인구; 부유물
 lee,찌끼
 foin,찌름
-majority,차
+majority,대다수, 과반수
 marbling,차돌박이
 teatime,차마시는 시간
 jilt,차버리다
@@ -2191,7 +2191,7 @@ puna,찬바람
 thwack,찰싹 때리다
 godown,창고
 versicle,창화의 단구
-thill,채
+thill,(마차의) 채, 멍에 채
 outfit,채비
 foodgatherer,채집민
 foodgathering,채집생활의
@@ -2223,7 +2223,7 @@ sachem,추장
 loll,축 늘어지다
 vernalize,춘화 처리하다
 printout,출력정보
-nautch,춤
+nautch,(인도의) 전통 무용
 knockon,충격에 의해 방출되는
 tupelo,충충나무과의 큰 나무
 workday,취업시간
@@ -2267,7 +2267,7 @@ tire,타이어
 timetravel,타임터널 여행
 takahe,타케이히
 mendicant,탁발 수도사
-torrid,탄
+torrid,격렬한, 몹시 더운, 열대의
 carbonize,탄소를 칠하다
 talipot,탈리폿야자
 lipography,탈자
@@ -2284,7 +2284,7 @@ puggree,터반
 trudge,터벅터벅 걷다
 turban,터번
 luge,터보건 썰매
-uturn,턴
+uturn,유턴, 유턴하다; (정책의) 180도 전환
 terry,테리천
 taillight,테일라이트
 megamachine,테크놀로지 지배의 거대 사회
@@ -2295,7 +2295,7 @@ toast,토스트하다
 tallage,토지 사용료
 adscript,토지에 부속된
 torch,토치램프
-tangya,톡 쏘는
+tangy,톡 쏘는, 톡 쏘는 맛의
 acrid,톡 쏘는 스미는
 synchromesh,톱니바퀴를 동시에 맞물게 하는 장치
 fringed,톱니처럼 째진
@@ -2348,9 +2348,9 @@ inclusive,포함하여
 inflation,폭등
 nosedive,폭락하다
 toboggan,폭락하다
-crisscross,표
+crisscross,십자 무늬; 교차하다; 십자 모양의
 obverse,표면
-selfeffacment,표면에 나서지 않음
+self-effacement,겸손, 삼가는 태도
 telltable,표시
 hob,표적기둥
 timezone,표준 시간대낡은
@@ -2362,8 +2362,8 @@ starch,풀을 먹이다
 tanager,풍금조
 skyhook,풍선
 puree,퓨레로 만들다
-fusilieer,퓨질리어 연대 보병
-fusilier,퓨질리어 연대 보병
+fusilier,퓨질리어, 소총수
+fusilier,퓨질리어, 소총수
 francicize,프랑스어로 하다
 fraise,프레즈반
 proam,프로와 아마추어의 경기
@@ -2371,7 +2371,7 @@ masonry,프리메이슨 조합
 floorshift,플로어 시프트
 fumigate,피우다
 footer,피트인 사람
-zip,핑
+zip,지퍼; 빠르게 움직이다; 닫다
 downcycle,하강기
 fourflusher,하는 사람
 skim,하는 사람
@@ -2538,7 +2538,7 @@ hendecasyllabic,11음절의
 halfroyal,1212인치 크기의 마분치
 quaterquicentennial,125주년 기념일
 dodecagon,12각형
-dozen,12개
+dozen,1다스, 12개, 다수
 twelvemonth,12개월
 zodiacal,12궁의
 dodecahedron,12면체
@@ -2576,8 +2576,8 @@ sixteenth,16분의1
 sixteen,16의
 sixteenmo,16절판
 hexadecimal,16진
-rr,17번째
-seventeenth,17분의 1
+seventeenth,17번째의, 열일곱 번째
+seventeenth,17번째의, 열일곱 번째
 seventeen,17의
 swingover,180도 전환
 hundredandeightydegree,180도의
@@ -2605,7 +2605,7 @@ annual,1년의
 biyearly,1년의 2번의
 midyear,1년의 중간 쯤
 yearround,1년중 계속되는
-dz,1다스
+dozen,1다스, 12개, 다수
 dib,1달러
 frogskin,1달러 지폐
 oneoff,1대 1의
@@ -2623,14 +2623,14 @@ demipension,1박 2식제
 bonk,1발
 trigamy,1부 3처
 oneminute,1분 담화
-firstgenerarion,1세의 귀화 미국인의
+first-generation,1세대의, 초대의
 sentimo,1센티모 동전
 horary,1시간 마다의
 shilling,1실링 은화
 anker,1앙커 들이 통
 centimillionaire,1억 달러 이상의 부자
 monobasic,1염기의
-jnuary,1월
+January,1월
 epact,1월1일의 월령
 bicron,1의 10억 분의
 belize,1의 옛 수도
@@ -2749,7 +2749,7 @@ doubleteam,2명이 1명의 상대방 선수를 동시에 방해하다
 twostep,2박자의 원무
 biunique,2방향 유일성의
 bi,2배
-doublebly,2배로
+doubly,두 배로, 더욱, 훨씬
 duplex,2배의
 doubleness,2배크기
 midiron,2번 아이언
@@ -2769,7 +2769,7 @@ ticking,2색 이상의 줄무늬
 dichroism,2색성
 bichrome,2색의
 secondgeneration,2세의
-doublebarrdled,2연발의
+double-barreled,두 갈래의; 2연발의
 doublebarrel,2연발총
 bofors,2연장 자동 고사포
 bifarious,2열의
@@ -2803,7 +2803,7 @@ doubledecker,2중갑판의 배
 diphthongal,2중모음의
 diphthongize,2중모음화하다
 bicentric,2중심의
-doubly,2중으로
+doubly,두 배로, 더욱, 훨씬
 diploid,2중의
 duet,2중주곡
 bipack,2중천연색필름
@@ -2918,7 +2918,7 @@ trisyllabic,3음절의
 triumvirate,3인 관리제
 threesome,3인경기
 triphosphate,3인산염
-treeseater,3인승자동차
+three-seater,3인승의; 3인승 차/비행기
 bernard,3인의 프랑스 성자의 이름
 triangle,3인조
 trio,3인조
@@ -2988,7 +2988,7 @@ tetraploid,4배체
 quadricentennial,4백년 기념
 quatercentenary,4백년제
 cleanup,4번
-quater,4번
+quarter,4분의 1; 15분; 25센트 동전; 분기
 quadrilateral,4변형
 harmonist,4복음서의 공관적 연구자
 fourpart,4부 합창의

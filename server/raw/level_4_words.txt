@@ -1,93 +1,93 @@
-abandon,나락
+abandon,버리다, 포기하다
 absorb,동화하다
-abstract,방심한
-accent,사트리
-accommodate,숙박시키다
+abstract,추상적인, 관념적인; 요약, 개요; 추출하다
+accent,억양, 말씨; 강세, 강조; 강조하다
+accommodate,수용하다, 숙박시키다; 부응하다, 맞추다
 accompany,동반
 accountant,계리사
-accuracy,적실성
+accuracy,정확성, 정밀도, 정확도
 accurate,정밀한
-accurately,또박또박
+accurately,정확하게, 정밀하게
 accuse,고발하다
-acid,신맛
+acid,산성의; 신맛이 나는; (화학) 산
 acquire,습득하다
-activate,동원하다
+activate,활성화하다, 작동시키다
 actual,실재의
 additional,부가적
 additionally,이외에도
 adequate,충분한
-administration,줌
+administration,행정, 관리; 정부, 행정부; 투약, 집행
 adopt,채용하다
-affair,물품
-affordable,줄 수 있는
-afterwards,뒤
+affair,일, 사건, 용무; 문제
+affordable,가격이 알맞은, 감당할 수 있는
+afterwards,나중에, 그 후에
 agenda,의제
 aggressive,공격적
 alongside,곁에
-alter,박뀌다
-altogether,아주전혀
+alter,바꾸다, 고치다, 변경하다
+altogether,완전히, 전적으로; 모두 합쳐; 대체로
 ambulance,구급차
 analyst,경제분석가
 anniversary,기념일의
 apology,사죄
-apparent,거죽만
+apparent,분명한, 명백한; 외관상의
 apparently,명백히
-appeal,매료
+appeal,항소하다; 호소하다; 매력, 호소력
 applicant,응모자
-appropriate,도용하다
+appropriate,적절한, 알맞은; (예산을) 책정하다; 도용하다
 arms,병기
-arrow,사수
-artificial,부자연스러운
+arrow,화살, 화살표
+artificial,인공의, 인조의; 부자연스러운, 거짓된
 artwork,도판 제작
 ashamed,낯을 붉히어
-aspect,상
-assess,과세하다
+aspect,측면, 양상; 국면, 방향
+assess,평가하다, 사정하다; (세금을) 부과하다
 assessment,부과
-asset,가치있는것
-assign,명하다
+asset,자산, 재산; 유용한 자질
+assign,배정하다, 할당하다; 임명하다
 associate,공동시키다
 association,결합
-assumption,건방짐
-assure,보험에 넣다
+assumption,가정, 추정; (책임 등의) 인수, 수임
+assure,확신시키다, 장담하다; 보장하다
 astonishing,놀라운
 attachment,부착
-auction,경매하다
+auction,경매; 경매로 팔다
 audio,저주파의
 automatically,자동식으로
 bacteria,균주
 badge,기장
 balloon,기구를 타고 올라가다
-barely,드러내놓고
-bargain,거래
-barrier,관문
+barely,거의 ~않다; 간신히, 겨우
+bargain,특가품; 매매 협정; 협상하다, 흥정하다
+barrier,장벽, 장애물; 한계
 basement,지계
 basically,기본적으로
-bat,깜박이다
+bat,야구방망이, 배트; 박쥐; (눈을) 깜빡이다
 beg,구걸하다
 being,생존
-beneficial,양호
+beneficial,유익한, 이로운
 bent,굽은
 beside,곁에
-bet,건돈-내기를 하다
-bias,경사
-bid,값매기다
+bet,내기, 베팅; 돈을 걸다, 확신하다
+bias,편견, 편향; 편향을 갖게 하다
+bid,입찰하다, 값을 부르다; 입찰, 제시
 biological,생물학상
 blind,눈먼
 bombing,무찌르기
-bond,결합하다
+bond,유대, 결속; 채권; 결합하다
 booking,기입
-boost,값을 올리다
+boost,신장시키다, 북돋우다; 증가, 격려
 brick,벽돌
-briefly,간결하게
+briefly,간단히, 잠시 동안
 broadly,대범하게
-budget,한묶음
-bug,젠체하는사람
+budget,예산, 비용
+bug,벌레, 곤충; 오류, 버그; 괴롭히다
 bullet,소총탄
 bush,무성하게자라다
 cabin,거주 부분
 cable,강삭
 candle,등불
-capable,의 능력이 있는
+capable,유능한, ~할 능력이 있는
 capacity,법적 자격
 capture,노획물
 carbon,카본지
@@ -119,7 +119,7 @@ closely,면밀히
 coincidence,동시에일어난 사건
 collector,세리
 colony,거류민
-comfort,낙
+comfort,안락, 편안함; 위로; 위로하다, 달래다
 comic,만화 책
 commander,경시장
 commission,거간
@@ -155,7 +155,7 @@ cope,덮걔
 corporate,법인 자격으로
 corporation,도시 자치체
 council,지방의회
-county,군
+county,(행정구역) 군(郡), 주(州)
 courage,담력
 coverage,서비스구역
 crack,결점
@@ -170,7 +170,7 @@ critically,아슬아슬하게
 criticize,비난하다
 crop,귀에 낸 표
 cruise,경제속도로 달리다
-cue,당구가
+cue,신호, 단서; (당구) 큐대
 cure,가황
 curious,묘하다
 curriculum,교정
@@ -227,7 +227,7 @@ domestic,가사의
 dominant,딸림음의
 dominate,억제하다
 donation,기부금
-dot,점재
+dot,점; 점을 찍다, 산재하다
 downtown,도심지
 downwards,쇠잔하여
 draft,끌기
@@ -255,7 +255,7 @@ empire,절대 지배권
 enable,할수있게하다
 engage,고용하다
 enjoyable,즐거운
-enquiry,인콰이어리
+enquiry,문의, 질문, 조사
 ensure,안전하게하다
 entertaining,유쾌한
 enthusiasm,열광
@@ -290,7 +290,7 @@ facility,기지
 fantasy,공상
 fare,대접받다
 feather,깃으로 장식하다
-fee,숙식비
+fee,수수료, 요금, 참가비
 feedback,반향
 fever,발열시키다
 finance,자금을 공급하다
@@ -324,7 +324,7 @@ genius,기풍
 genuine,진실의
 genuinely,진정으로
 gesture,거동
-gig,가벼운 보트
+gig,(음악) 공연, 연주회; 일자리
 globe,공 모양으로 하다
 golden,가장 좋은
 gorgeous,호화스러운
@@ -344,8 +344,8 @@ herb,초본
 hesitate,주저하다
 hidden,숨겨놓다
 highway,간선 도로
-hip,장미의 열매
-honour,과 동의어
+hip,엉덩이, 골반; 멋진, 유행에 밝은
+honour,명예, 영예; 경의를 표하다
 hook,갈고리
 hopefully,잘만 되면
 housing,주택공급
@@ -353,7 +353,7 @@ humorous,해학적
 hunger,갈망
 hypothesis,가설
 icon,도상
-id,내경
+id,(심리학) 이드, 원초아; 신분증(ID)
 identical,흡사
 illustration,도판
 immigration,입국관리
@@ -377,7 +377,7 @@ inhabitant,거주자
 inherit,계승하다
 initially,시초에
 initiative,국민발의권
-ink,먹물
+ink,잉크; 서명하다
 inner,과녁의 내권내권 명중
 innovation,기술혁신
 innovative,혁신적인
@@ -401,7 +401,7 @@ jet,분출
 journalism,신문기수투의 문체
 justice,공정
 justify,비난에 대하여 변명하다
-kit,나무통
+kit,도구 세트, 용품, 키트
 landing,상륙
 largely,너그러이
 leadership,주장
@@ -536,7 +536,7 @@ probable,보결선수
 procedure,조치
 programming,프로그래밍
 progressive,누진적인
-project,개발토목계획
+project,프로젝트, 사업
 promising,싸가지가 있다
 prompt,감정을환기하다
 propose,제기하다
@@ -556,7 +556,7 @@ radiation,발광
 rail,가로대
 random,닥치는 대로의
 rating,경주용 요트의 등급
-raw,구질구질하고 추운
+raw,날것의, 가공되지 않은; 원자재의
 reasonably,마땅하여
 rebuild,개조하다
 recall,리콜
@@ -587,19 +587,19 @@ retail,들은 말을 옮기다
 retain,고용하다
 retirement,벽촌
 reveal,계시하다
-revenue,국세청
+revenue,수익, 매출
 revision,개역
 reward,보상하다
 rhythm,규칙적인 반복운동
 ridiculous,우스꽝스럽게
 risky,모험적인
-rob,강탈하다
+rob,강탈하다, 털다; 빼앗다
 robbery,강탈
 rocket,겨자과의 식물
 romance,공상벽
 roughly,개략적으로
 routine,관례
-rub,감정을 해치기
+rub,문지르다, 비비다; 마찰
 rubber,고무
 satellite,위성국
 scare,겁냄
@@ -616,7 +616,7 @@ severe,극심
 sexy,농염하다
 shock,격돌
 shooting,격통
-shore,뭍
+shore,해안, 기슭, 물가
 shortage,결핍
 shot,산탄
 signature,접지 번호
@@ -677,7 +677,7 @@ suspect,용의자
 sympathetic,공명하는
 sympathy,공감
 tackle,복활차
-tag,가 붙잡다
+tag,꼬리표, 태그; 꼬리표를 붙이다
 tale,총수
 tank,저수지
 technological,기술적
@@ -699,17 +699,17 @@ tough,강인한
 tragic,비극적
 trait,얼굴 모습
 transfer,갈아타기
-transform,둔갑되다
+transform,변형시키다, 완전히 바꾸다
 transportation,수송
 trap,덫 사냥을 직업으로 하다
-treasure,명기하다
+treasure,보물; 대단히 귀하게 여기다
 trigger,방아쇠
-troop,군기 경례 분열식
-tropical,비유의
+troop,군대, 병력; 무리, 떼; 떼를 지어 가다
+tropical,열대의, 열대 지방의
 ultimate,근본의
 unacceptable,마음에 들지 않는
 uncertainty,미덥지 않은 일
-undergo,격다
+undergo,겪다, 경험하다, 받다
 undertake,떠맡다
 unexpected,불시의
 unfortunate,불행하다
@@ -720,26 +720,26 @@ urgent,절박하다
 usage,관용법
 variation,변이
 vast,막대하다
-venue,밀회
-vertical,대정의
+venue,장소, 개최지
+vertical,수직의, 세로의
 via,경유
 viewpoint,견지
 violence,난폭
 virtual,가상적
 visible,가시적
 vital,살아 있는
-wage,갚음
+wage,임금, 급여; (전쟁·전투를) 벌이다
 warming,가온
 weakness,가냘픔
 wealthy,부자인
 weird,기묘한
-wheat,밀
-whereas,로 시작하는 문서
-wherever,대체 어디에
-widespread,파다하다
+wheat,밀 (곡물)
+whereas,~인 반면에, ~임에 비하여
+wherever,어디에나, 어디든지; 어디에 있든
+widespread,널리 퍼진, 광범위한
 willing,기꺼이 하는
-wire,전보
-withdraw,물러서다
+wire,철사, 전선; 송금하다; 전보를 치다
+withdraw,물러나다; 철회하다; (돈을) 인출하다
 workshop,강습회
 worm,기듯 나아가다
 wrap,몸을 싸는 것
@@ -750,7 +750,7 @@ quartile,4분위수
 tetroxide,4산화물
 fourstar,4성의
 tetrastichous,4열의
-tertachloride,4염화물
+tetrachloride,사염화물
 quaternion,4원법 산법
 quadrisyllabic,4음절어
 tetrasyllable,4음절어
@@ -765,7 +765,7 @@ fourcycle,4주기의
 tetrastyle,4주식의건물
 quadruplicity,4중성
 quartet,4중주
-quadraped,4지 동물
+quadruped,네발짐승, 사족 동물; 네 발의
 tetradactyl,4지 동물
 quadrupedal,4지 동물의
 tetradactylous,4지를 가진
@@ -776,7 +776,7 @@ fourdimensional,4차원의
 quad,4채널
 quadraphony,4채널 방식
 seasonless,4철이 없는
-fher,4클럽회원
+four-H'er,4-H 클럽 회원
 quadruplication,4통 작성
 fourpounder,4파운드 포
 quartern,4파운드의 빵 덩어리
@@ -1038,13 +1038,13 @@ slim,가냘픈
 sylphlike,가냘픈
 thready,가냘픈
 mewl,가냘픈 소리로 울다
-gracilty,가냘픈 아름다움
+gracility,가냘픔, 날씬함, 우아함
 gracile,가느다란
 slender,가느다란
 thinnish,가느다란
 assegai,가느다란 창
 tubule,가느다란관
-slimlu,가느다랗게
+slimly,가느다랗게, 호리호리하게; 약간
 finely,가늘게
 thinly,가늘게
 spindle,가늘게 길어지다
@@ -1184,7 +1184,7 @@ conceal,가리다
 garibaldi,가리발디
 scallops,가리비
 scalloping,가리비잡이
-occlutation,가리어 안보임
+occultation,성식(星蝕), 가림, 은폐
 indiscriminate,가리지 않는
 daintiness,가림
 nudity,가림없는 물건
@@ -1276,7 +1276,7 @@ gabon,가봉
 gabonese,가봉 사람의
 baste,가봉하다
 paternalism,가부장적 태도
-divisivility,가분성
+divisibility,가분성, 나눌 수 있음
 separability,가분성
 gobble,가블
 facile,가뿐한
@@ -1423,7 +1423,7 @@ hotpress,가열 압착하다
 heater,가열기
 heathy,가열용의
 warmer,가열장치
-saiting,가염소금치기
+salting,염장, 소금치기; 소금 절이기
 phyllode,가엽
 commiserable,가엾은
 deplorable,가엾은
@@ -1463,7 +1463,7 @@ guyaness,가이아나의
 endlessly,가이없이
 chummage,가입금
 affiliate,가입시키다
-attched,가입하고
+attached,첨부된, 소속된; 애착을 가진
 conditioned,가입학의
 affiliated,가입한
 intromission,가입허가
@@ -1609,7 +1609,7 @@ havenot,가진 것 없는나라
 girandole,가진 달린 장식 촛대
 poise,가짐새
 downpoint,가짓수를 줄이다
-glodbrick,가짜 금덩어리
+goldbrick,가짜 금괴; 게으름뱅이, 꾀부리다
 clinquant,가짜 금박
 bastard,가짜-서출의
 abrahamman,가짜로 미치광이 짓을 하며 다니는 거지
@@ -1641,7 +1641,7 @@ vocalism,가창법
 melic,가창용의
 probational,가채용
 probationary,가채용
-hearint,가청거리
+hearing,청력; 가청 거리; 공청회
 audibility,가청도
 spectrum,가청전파
 subaudible,가청치 이하의
@@ -1692,7 +1692,7 @@ interpolator,가필자
 sadist,가학 성애자
 sadomaso,가학 피학성
 sadomasochism,가학 피학성 변태 성욕
-sadismist,가학성 변태 성욕자
+sadist,가학성애자, 사디스트
 infliction,가함
 navigability,가향성
 interim,가협정
@@ -1709,7 +1709,7 @@ oppressive,가혹한
 commutative,가환의
 vulcanizate,가황물
 vulcanized,가황한
-titilation,가흥
+titillation,기분 좋은 자극, 흥분
 chantress,가희
 rightly,가히
 internuncial,각 기관을 연락하는
@@ -1795,8 +1795,8 @@ disallow,각하하다
 interscholastic,각학교간의
 fagot,간 요리의 하나
 faggot,간 요리의 하나
-occassionally,간간이
-intermitence,간간이 중단됨
+occasionally,가끔, 때때로
+intermittence,간헐성, 주기적 중단
 exciting,간간하다
 spacing,간격을 두기
 spacer,간격을 띄으는 것
@@ -1825,7 +1825,7 @@ condensation,간결화
 liverwurst,간고기 소시지
 overlooking,간과
 bacillary,간균의
-bacukkary,간균의
+bacillary,간균의, 막대 모양 세균의
 interbrain,간뇌
 intermission,간단
 commune,간담
@@ -1859,7 +1859,7 @@ sawder,간살
 oiliness,간살부림
 honeyed,간살스러운
 eggsucker,간살쟁이
-bacilius,간상균
+bacillus,바실루스, 간균
 demitint,간색
 halftone,간색
 tideland,간석지
@@ -1890,7 +1890,7 @@ hepatoma,간암
 dehortation,간언
 remonstrance,간언
 remonstration,간언
-dehotative,간언의
+dehortative,권계의, 간언하는
 remonstrative,간언적인
 remonstrant,간언하는
 remonstrator,간언하는 사람
@@ -1964,10 +1964,10 @@ extramarital,간통의
 expostulate,간하다
 geyserite,간헐석
 clonus,간헐성 경련
-intermitent,간헐열
+intermittent,간헐적인, 간헐성의
 clonic,간헐적 경련성의
 geyser,간헐천
-brownness,갈
+brownness,갈색임, 갈색
 tillable,갈 수 잇는
 cleek,갈고랑이
 hanger,갈고리
@@ -2007,7 +2007,7 @@ slut,갈보
 tart,갈보
 arrowroot,갈분
 bronzing,갈색화
-connction,갈아탐
+connection,연결, 접속; 관련, 관계; 환승
 nexion,갈아탐
 turner,갈이장이
 crevalle,갈전갱이
@@ -2084,7 +2084,7 @@ episcopalian,감독과의 사람
 commissioner,감독관
 intendant,감독관
 intendance,감독관리
-episxopate,감독단
+episcopate,주교직, 주교단
 surrogate,감독대리
 commissarial,감독대리의
 consistory,감독법원
@@ -2110,7 +2110,7 @@ amrit,감로
 supervision,감리
 methodist,감리교도
 methodism,감리교파
-superintendant,감리자
+superintendent,관리인, 감독관, 서장
 methodists,감리회
 xunit,감마선
 gammasonde,감마선 강도 관측기
@@ -2269,9 +2269,9 @@ inspiration,감화
 reformation,감화
 uninfluenced,감화되지 않은
 untinged,감화받지 않은
-cape,갑
-promontory,갑
-headland,갑
+cape,곶 (바다로 뻗은 육지); 망토
+promontory,곶, 해안 절벽, 돌출부
+headland,곶, 갑 (바다로 돌출한 육지)
 crustacea,갑각류
 crustaceous,갑각류
 crustaceology,갑각류학
@@ -2313,15 +2313,15 @@ invaluable,값을 헤아릴 수 없는
 priced,값이 붙은
 valueless,값이 없는
 richly,값지게
-lampshade,갓
+lampshade,전등갓, 갓
 sundry,갓갓
 newlaid,갓깐
 capstone,갓돌
 coping,갓돌
 newmade,갓만든
 newblown,갓핀
-atrium,강
-cavity,강
+atrium,중정, 안뜰; (해부) 심방
+cavity,구멍, 충치; (해부) 체강, 빈 곳
 holm,강 가운데 있는 섬
 transpontine,강 남쪽의
 transpadane,강 저편의
@@ -2402,7 +2402,7 @@ cardiotonic,강심성의
 cordial,강심성의
 ballsy,강심장의
 puppyhood,강아지임
-puppyhoodom,강아지임
+puppyhood,강아지 시절, 어린 시절
 coercion,강압
 coercive,강압적
 trochee,강약격
@@ -2460,7 +2460,7 @@ roust,강제로 일으키다
 coact,강제로 하게하다
 requisition,강제사용하다
 relocate,강제소거시키다
-forecd,강제의
+forced,강제적인, 강요된; 부자연스러운
 forcer,강제자
 compulsorily,강제적으로
 forcibly,강제적으로
@@ -2632,7 +2632,7 @@ frank,개방적
 gabardine,개버딘
 haecceity,개별성의 특성
 idiographic,개별적 구체적 사례의 개성기술적인
-individualy,개별적으로
+individually,개별적으로, 각각
 unbundle,개별적으로 가격을 매기다
 handfeed,개별적으로 먹이를 주다
 individualize,개별적으로 취급하다
@@ -2652,7 +2652,7 @@ estimation,개산
 approximative,개산의
 opercular,개상부
 dissection,개석
-dossected,개석된
+dissected,해부된, 절개된
 remedial,개선적
 ameliorative,개선적
 canis,개속
@@ -2711,7 +2711,7 @@ peculium,개인재산
 personhood,개인적 특질
 nonjudgmental,개인적 판단을 피하는
 personalize,개인적으로 하다
-personallt,개인적으로는
+personally,개인적으로, 직접
 nonpersonal,개인적이 아닌
 clothesline,개인적인 문제
 individualism,개인주의
@@ -2726,8 +2726,8 @@ converted,개장한
 mediacy,개재
 intron,개재배열
 unsheathe,개전 하다
-impenrtent,개전의 정이 없는
-impenrtence,개전의 정이 없음
+impenitent,뉘우치지 않는, 완고한
+impenitence,회개하지 않음, 완고함
 amendment,개정
 redaction,개정
 revisionism,개정론
@@ -2794,7 +2794,7 @@ opencircuit,개회로의
 thoracotomy,개흉
 objectivity,객관성
 outness,객관성
-outwatdness,객관성
+outwardness,외면성, 객관성
 externalization,객관화
 depersonalization,객관화
 objectify,객관화하다
@@ -2807,7 +2807,7 @@ tittletattle,객적은 이야기
 hankypanky,객적인 이야기
 carriage,객차
 hemoptysis,객혈
-unclouded,갠
+unclouded,구름 없는, 맑은; 쾌청한
 ganges,갠지스강벵골 만으로 흐르는 인도의 큰강
 gangetic,갠지스강의
 galloway,갤러웨이 종 육우
@@ -2821,7 +2821,7 @@ galveston,갤버스턴
 galbraith,갤브레이스
 galbraithian,갤브레이스주의
 gambia,갬비아의
-gaposis,갭
+gaposis,(옷 단추 사이 등의) 벌어짐, 틈새
 waterside,갯가
 squilla,갯가제
 encrinite,갯나리
@@ -2998,7 +2998,7 @@ caponize,거세하다
 geld,거세하다
 castrate,거세하다
 neuter,거세하다
-inn,거소
+inn,여관, 주막, 소형 호텔
 agnail,거스러미
 counteracting,거스르다
 boatable,거슬러 올라 갈 수 있는
@@ -3015,7 +3015,7 @@ macroanalysis,거시적 분석
 macro,거시적인
 insubordination,거역
 armyworm,거염벌레
-catoprtic,거울의
+catoptric,반사 광학의, 거울의
 goosey,거위
 gooseherd,거위 기르는 사람
 gooseneck,거위 목 모양의 연장 또는 관
@@ -3114,7 +3114,7 @@ catgut,거트
 gut,거트
 spumescent,거품 모양의
 spumy,거품 모양의
-frrghopper,거품 벌레
+froghopper,거품벌레
 fizzy,거품 이는
 frothy,거품 투성이의
 spumescence,거품모양
@@ -3133,12 +3133,12 @@ solicitude,걱정거리
 uneasy,걱정되는
 insecure,걱정스러운
 anxiously,걱정스럽게
-disquienting,걱정하게 하는
+disquieting,불안하게 하는, 걱정스러운
 solicitous,걱정하는
 concernedly,걱정하여
 uneasily,걱정하여
-sinew,건
-tendon,건
+sinew,(해부) 힘줄, 건; 정력, 체력
+tendon,(해부) 힘줄, 건
 parimutuel,건 돈 기록기
 sweepstakes,건 돈을 독점하는 경마
 venture,건 물건
@@ -3176,7 +3176,7 @@ skipping,건너뜀
 footrope,건널 밧줄
 gatekeeper,건널목 지키는 사람정보의누설을 통제하는 사람
 flagman,건널목지기
-gaetkeeper,건널목지기
+gatekeeper,문지기, 수문장; 정보 관리자
 spivery,건달 생활
 roguish,건달의
 weedy,건달인
@@ -3205,7 +3205,7 @@ intramural,건물안의
 builtup,건물이 빽빽이 들어찬
 rachmanism,건물주의 임대료 착취 행위
 cheekily,건방지게
-peremtorily,건방지게
+peremptorily,단호하게, 거만하게
 cocky,건방진
 impertinent,건방진
 pompous,건방진
@@ -3213,7 +3213,7 @@ presumptuous,건방진
 cheekiness,건방짐
 impertinence,건방짐
 impudence,건방짐
-smartleckism,건방짐
+smart-aleckism,아는 체함, 잘난 체하기
 hardtack,건빵
 xerophyte,건생생물
 psoriasis,건선
@@ -3292,7 +3292,7 @@ cadge,걸식하다
 greedy,걸신들린
 wader,걸어 건너는 사람
 peripatetic,걸어 돌아다니는 사람
-grapping,걸어 잡는 도구
+grappling,격투, 맞잡기; 걸어 잡는 도구
 footwork,걸어다니는 취재
 ambulate,걸어다니다
 walkabout,걸어다니며 서민과 접촉하기
@@ -3316,16 +3316,16 @@ wingfooted,걸음이 빠른
 trotter,걸음이 빠른 사람
 paced,걸음이 인
 rack,걸이
-외설스럽다obscene,걸쭉하다
-provocative,걸쭉하다
+obscene,음란한, 외설적인; 터무니없는, 가증스러운
+provocative,도발적인, 자극적인; 화를 돋우는
 mushy,걸쭉하다
 pappy,걸쭉하다
 preeminence,걸출
 astraddle,걸치어
 astride,걸치어
-sword,검
-saber,검
-dagger,검
+sword,칼, 검, 도검
+saber,군도(軍刀), 사벨; 사브르 (펜싱)
+dagger,단검, 비수
 xiphoid,검 모양의
 sabertoothed,검 모양의 송곳니가 있는
 swordsman,검객
@@ -3404,7 +3404,7 @@ authorized,검정필
 verification,검증
 verified,검증되다
 tapper,검차원
-cid,검찰국
+cid,범죄수사국 (CID)
 stipple,검채하다
 detection,검출
 gladiator,검투사
@@ -3455,7 +3455,7 @@ factitious,겉꾸민
 semblance,겉꾸밈
 facing,겉단장
 extrados,겉둘레
-crocodelian,겉만의
+crocodilian,악어목의; 거짓의
 veneer,겉바르기 하다
 facade,겉보기
 visually,겉보기로는
@@ -3522,7 +3522,7 @@ leadswinging,게으름 피우기
 lallygag,게으름 피우다
 laze,게으름 피우다
 droningly,게으름 피우며
-bum,게으름뱅이
+bum,부랑자, 게으름뱅이; 빌리다
 deadbeat,게으름뱅이
 goofoff,게으름뱅이
 idler,게으름뱅이
@@ -3540,19 +3540,19 @@ gael,게일사람
 gaelic,게일어
 gaeltacht,게일어 사용 지구
 tableboard,게임대
-ace,게임에서1점
+ace,에이스, 명수; 에이스 카드
 crabbing,게잡이
 crabber,게잡이 어부
 gesellschaft,게젤샤프트
 rigger,게체 조립 및 장비공
 getter,게터
 gehenna,게헤나
-gel,겔
+gel,겔, 젤 (반고체 콜로이드)
 gelandesprung,겔렌더슈프룽
 gelation,겔화
 gethsemane,겟세마네
-bran,겨
-offal,겨
+bran,(곡물의) 겨, 속겨
+offal,(도축한 가축의) 내장, 부속 고기; 찌꺼기
 aiming,겨냥
 biddable,겨눌수 있는
 oxter,겨드랑
@@ -3581,7 +3581,7 @@ crucifer,겨자과 식물
 cruciferous,겨자과의
 charlock,겨자과의 잡초
 piccalilli,겨자절임
-thumbsup,격겨
+thumbsup,격려, 찬성, 승인 (thumbs-up)
 biennale,격년 행사
 fury,격노
 hotness,격노
@@ -3602,11 +3602,11 @@ telekinesis,격동
 upturn,격동
 concussion,격동
 concuss,격동시키다
-rip,격랑
+rip,찢다, 뜯어내다; 거칠게 찢어짐
 animate,격려하다
 prod,격려하다
 acuity,격렬
-impetusosity,격렬
+impetuosity,성급함, 격렬함, 맹렬함
 fierily,격렬히
 violently,격렬히
 altercation,격론
@@ -3691,7 +3691,7 @@ grappler,격투자
 scuffle,격투하다=
 demotion,격하
 downranking,격하
-rif,격하시키다
+rif,정리해고하다; 인원 감축(RIF)
 ablaze,격하여
 agitato,격하여
 relegate,격하하다
@@ -3705,7 +3705,7 @@ impregnability,견고
 solidity,견고
 substantiality,견고
 tightness,견고
-vertebratebration,견고성
+vertebration,척추 형성, 분절화
 nutwood,견과 나무그 목재
 nutty,견과 맛이 있는
 nuttree,견과가 열리는 나무
@@ -3726,11 +3726,11 @@ informed,견문이 넓은
 sampler,견본 채취구
 sampling,견본 추출
 apprentice,견습
-np,견습간호사
+np,전문간호사 (Nurse Practitioner)
 trainee,견습공
 novitiate,견습기간
 cadet,견습생
-cub,견습생
+cub,(사자·곰 등의) 새끼; 견습 기자
 entrylevel,견습적인
 underclerk,견습점원
 penetrating,견식 높은
@@ -3766,7 +3766,7 @@ censure,견책
 reprehensive,견책적인
 reprimand,견책하다
 eyetooth,견치
-veining,결
+veining,(돌·나무 등의) 결, 나뭇결, 잎맥 무늬
 incision,결각렬
 makeorbreak,결과가 극단적인
 redound,결과가 미침
@@ -3798,7 +3798,7 @@ graining,결무늬로 칠하기종이 면을 도톨도톨하게 하기
 binding,결박
 tying,결박
 aggravation,결발
-incorruptibilty,결백
+incorruptibility,청렴, 결백, 매수되지 않음
 incorruption,결백
 innocence,결백
 inculpable,결백하다
@@ -3809,7 +3809,7 @@ concatenate,결부시키다
 interface,결부하다
 freezing,결빙
 freezeup,결빙기
-nip,결빙의 강압
+nip,살짝 물다, 꼬집다; 살짝 물림
 closing,결산
 frostiness,결상
 calculous,결석의
@@ -3850,7 +3850,7 @@ tuber,결절
 nodosity,결절성
 tuberosity,결절성
 nodular,결절성의
-tubercualr,결절의
+tubercular,결핵의, 결절성의
 tuberculation,결절현상
 demerit,결점
 failing,결점
@@ -3929,7 +3929,7 @@ joiner,결합자
 incorporative,결합적인
 joinder,결합하기
 associative,결합하는
-conjuctive,결합하는
+conjunctive,결합하는, 연결하는; 접속사
 conjoin,결합하는 것
 cohere,결합하다
 interlock,결합하다
@@ -3945,7 +3945,7 @@ premalignant,결혼 전의
 premarital,결혼 전의
 marriagebroker,결혼 중매인
 matchmaker,결혼 중매인
-prothalamiom,결혼 축가
+prothalamion,결혼 축가
 prothalamium,결혼 축가
 solemnization,결혼식을 올림
 hymeneal,결혼식의 노래
@@ -3953,7 +3953,7 @@ precontract,결혼예약
 agamy,결혼이 없음
 antenuptial,결혼전의
 epithalamium,결혼축하시
-connubiality,결환생활
+connubiality,결혼 생활, 부부 관계
 selfabasement,겸비
 humility,겸손
 modestly,겸손하게
@@ -3965,7 +3965,7 @@ modesty,겸양
 syllepsis,겸용법
 concurrent,겸임하여
 forceps,겸자
-ply,겹
+ply,(합판 등의) 겹, 가닥, 층; 정기 왕복하다
 calycle,겹꽃받침
 digraph,겹자
 omasum,겹주름위
@@ -3975,7 +3975,7 @@ overlap,겹치다
 clashing,겹침
 overlapping,겹침
 lapstrake,겹판으로 만든
-sutra,경
+sutra,(불교) 경전, 수트라
 albuminoid,경 단백질
 inclination,경각
 inclinometer,경각계
@@ -3996,7 +3996,7 @@ godliness,경건
 pietism,경건
 piety,경건
 impious,경건치 않은
-pietismtist,경건파 교도
+pietist,경건주의자, 독실한 신자
 holily,경건하게
 respectable,경건하다
 venerant,경건하다
@@ -4074,7 +4074,7 @@ contempt,경멸
 disdain,경멸
 indignity,경멸
 scorn,경멸
-contemptious,경멸적
+contemptuous,경멸하는, 업신여기는
 despise,경멸하다
 poohpooh,경멸하다
 adoration,경모
@@ -4190,7 +4190,7 @@ gunsandbutter,경제 양립
 autarkist,경제 자립 주의자
 ecopolitics,경제 정치학
 indicator,경제 지표
-eca,경제 협력국MSA의 구칭
+eca,경제협력처 (미국 대외원조 기구)
 economizer,경제가
 revitalization,경제력 활성화
 blockade,경제봉쇄
@@ -4236,7 +4236,7 @@ hinged,경첩이 달린
 heelpost,경첩이 달린 기둥
 contracture,경축
 festivity,경축
-joubells,경축의 종
+joybells,축종, 축하의 종소리
 congratulate,경축하다
 bemaul,경치게 하다
 confounded,경칠놈의
@@ -4255,7 +4255,7 @@ wonderment,경탄
 mindboggling,경탄스러운
 marvell,경탄하다
 falconet,경포
-congratulantp,경하의
+congratulant,축하하는, 축하객
 interplead,경합권리 확인 수속을 밟다
 aerostation,경항공기 조종법
 given,경향을 띠어
@@ -4279,7 +4279,7 @@ indurate,경화된
 uncoined,경화로 주조되지 않은
 coinage,경화주조
 scleroma,경화증
-scierosed,경화증에 걸린
+sclerosed,경화증에 걸린, 딱딱해진
 harden,경화하다
 ossify,경화하다
 sclerous,경화한
@@ -4384,7 +4384,7 @@ revelator,계시자
 covenant,계약 조항
 contractor,계약사
 contractual,계약상의
-covenated,계약상의 의무가 있는
+covenanted,계약상의, 약속된
 indenture,계약서
 uncovenanted,계약에 의하지 않은
 contracting,계약의
@@ -4422,10 +4422,10 @@ projector,계획자
 intentional,계획적인
 premeditative,계획적인
 willful,계획적인
-deceased,고
+deceased,사망한, 고인이 된; 고인
 highness,고가
 overpass,고가 도로
-el,고가 철도
+el,고가 철도 (Elevated Train)
 flyunder,고가 철도 밑을 지나는 철도
 flyover,고가 횡단 도로
 viaduct,고가교
@@ -4454,7 +4454,7 @@ gorgon,고곤
 dignitary,고관
 grandee,고관
 highranker,고관
-vip,고관
+vip,VIP, 귀빈, 주요 인사
 highlevel,고관의
 swordbearer,고관의 칼을 받드는 사람
 coxa,고관절

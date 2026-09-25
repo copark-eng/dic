@@ -67,12 +67,12 @@ twenty,스물, 이십
 thirty,서른, 삼십
 forty,마흔, 사십
 fifty,쉰, 오십
-hundred,백
-thousand,천
+hundred,백, 100
+thousand,천, 1,000
 first,첫 번째의
-second,두 번째의, 초
+second,둘째의; 초 (시간 단위)
 third,세 번째의
-time,시간, 때
+time,시간, 시각; 때, 번
 day,날, 하루, 낮
 week,주, 일주일
 month,달, 월
@@ -88,7 +88,7 @@ hour,시간, 1시간
 minute,분, 잠깐
 clock,시계
 calendar,달력
-spring,봄, 샘
+spring,봄; 샘, 온천; 용수철; 튀어오르다
 summer,여름
 autumn,가을
 winter,겨울
@@ -115,7 +115,7 @@ mother,어머니
 dad,아빠
 mom,엄마
 son,아들
-daughter,딸
+daughter,딸, 자녀
 brother,형제, 오빠, 남동생
 sister,자매, 언니, 여동생
 grandfather,할아버지
@@ -128,17 +128,17 @@ neighbor,이웃
 body,몸, 신체
 head,머리, 우두머리
 hair,머리카락, 털
-face,얼굴, 마주하다
-eye,눈
-ear,귀
-nose,코
-mouth,입
+face,얼굴, 표정; 직면하다
+eye,눈, 시력, 안목
+ear,귀, 청각
+nose,코, 후각
+mouth,입, 구강
 lip,입술
 tooth,이, 치아
 teeth,이들(복수)
-neck,목
+neck,목, 목덜미
 shoulder,어깨
-arm,팔, 무기
+arm,팔; 무기; 무장하다
 hand,손, 건네다
 finger,손가락
 thumb,엄지손가락
@@ -152,7 +152,7 @@ toe,발가락
 skin,피부, 껍질
 heart,심장, 마음
 blood,피, 혈액
-bone,뼈
+bone,뼈, 골격
 voice,목소리, 음성
 health,건강
 sick,아픈, 병든
@@ -163,12 +163,12 @@ doctor,의사, 박사
 nurse,간호사
 hospital,병원
 food,음식, 식량
-water,물
+water,물, 수분
 milk,우유
 juice,주스, 즙
-tea,차
+tea,차, 홍차, 녹차
 coffee,커피
-bread,빵
+bread,빵, 주식
 rice,쌀, 밥
 meat,고기
 beef,소고기
@@ -202,10 +202,10 @@ tomato,토마토
 potato,감자
 carrot,당근
 onion,양파
-meal,식사, 끼니
+meal,식사, 한 끼
 breakfast,아침 식사
 lunch,점심 식사
-dinner,저녁 식사, 만찬
+dinner,저녁 식사
 restaurant,식당, 레스토랑
 cafe,카페, 찻집
 menu,메뉴, 식단표
@@ -216,13 +216,13 @@ dish,접시, 요리
 bowl,그릇, 사발
 spoon,숟가락
 fork,포크
-knife,칼
-bottle,병
+knife,칼, 나이프
+bottle,병, 병에 담다
 house,집, 주택
 home,가정, 집
 apartment,아파트
-room,방, 공간
-door,문
+room,방, 공간; 여지, 기회
+door,문, 출입구
 window,창문
 wall,벽, 담
 floor,바닥, 층
@@ -283,8 +283,8 @@ button,단추, 버튼
 zipper,지퍼
 glasses,안경
 sunglasses,선글라스
-watch,손목시계, 지켜보다
-ring,반지, 울리다
+watch,손목시계; 지켜보다, 주시하다
+ring,반지; (종·전화가) 울리다; 전화하다
 umbrella,우산
 bag,가방, 자루
 wallet,지갑
@@ -295,10 +295,10 @@ teacher,선생님, 교사
 class,수업, 학급, 반
 classroom,교실
 lesson,수업, 교훈
-book,책, 도서
+book,책, 도서; 예약하다
 notebook,공책, 노트북
 paper,종이, 신문
-pen,펜
+pen,펜, 볼펜, 만년필
 pencil,연필
 eraser,지우개
 ruler,자, 지배자
@@ -314,15 +314,15 @@ test,시험, 검사, 테스트하다
 grade,학년, 성적, 등급
 score,점수, 득점
 question,질문, 문제
-answer,대답, 정답, 대답하다
-problem,문제, 곤란
+answer,대답, 정답
+problem,문제
 word,단어, 낱말, 말
 sentence,문장, 판결
 story,이야기, 층
 page,페이지, 쪽
-letter,편지, 글자
+letter,편지; 글자, 문자
 number,숫자, 번호
-subject,과목, 주제, 대상
+subject,과목, 주제; 피실험자; 영향을 받기 쉬운
 math,수학
 science,과학
 history,역사
@@ -341,7 +341,7 @@ draw,그리다, 당기다
 paint,페인트칠하다, 그리다
 sing,노래하다
 dance,춤추다
-play,놀다, 연주하다, 경기하다
+play,놀다, 경기하다, 연주하다; 연극
 game,게임, 경기
 toy,장난감
 doll,인형
@@ -362,7 +362,7 @@ cinema,영화관
 theater,극장, 공연장
 museum,박물관, 미술관
 zoo,동물원
-park,공원, 주차하다
+park,공원; 주차하다
 bench,벤치, 긴 의자
 city,도시
 town,마을, 읍
@@ -376,7 +376,7 @@ bridge,다리, 교량
 corner,모퉁이, 구석
 building,건물, 빌딩
 shop,상점, 가게, 쇼핑하다
-store,가게, 저장하다
+store,가게, 상점; 저장하다, 보관하다
 market,시장
 supermarket,슈퍼마켓
 bank,은행, 둑
@@ -389,12 +389,12 @@ factory,공장
 office,사무실, 직무
 church,교회
 temple,사원, 절
-castle,성
+castle,성, 대저택
 tower,탑, 타워
 place,장소, 곳, 두다
 car,자동차, 차
 bus,버스
-train,기차, 열차, 훈련하다
+train,기차, 열차; 훈련하다
 subway,지하철
 taxi,택시
 truck,트럭
@@ -412,8 +412,8 @@ wheel,바퀴, 핸들
 nature,자연, 본성
 sky,하늘
 sun,태양, 해
-moon,달
-star,별, 인기인
+moon,달, 위성
+star,별, 항성; 인기 스타, 주연
 cloud,구름
 rain,비, 비가 오다
 snow,눈, 눈이 내리다
@@ -432,21 +432,21 @@ dust,먼지, 털다
 mud,진흙
 rock,바위, 암석, 흔들다
 stone,돌, 보석
-mountain,산
+mountain,산, 산맥
 hill,언덕
-river,강
+river,강, 하천
 lake,호수
 sea,바다
 ocean,대양, 바다
 beach,해변, 바닷가
 coast,해안, 연안
-island,섬
+island,섬, 도서
 forest,숲, 삼림
 wood,나무, 목재, 숲
 tree,나무
-plant,식물, 공장, 심다
+plant,식물, 초목; 심다; 공장
 flower,꽃, 꽃이 피다
-rose,장미
+rose,장미 (꽃); 일어났다 (rise의 과거)
 leaf,나뭇잎, 잎
 leaves,나뭇잎들(복수)
 grass,풀, 잔디
@@ -455,23 +455,23 @@ branch,나뭇가지, 지점
 root,뿌리, 근원
 animal,동물
 pet,애완동물
-dog,개
+dog,개, 강아지
 puppy,강아지
 cat,고양이
-kitten,새끼 고양이
-bird,새
+kitten,새끼 고양이, 아기 고양이
+bird,새, 조류
 duck,오리
 goose,거위
-horse,말
+horse,말 (동물)
 cow,암소, 소
 pig,돼지
-sheep,양
+sheep,양 (동물)
 goat,염소
 rabbit,토끼
 mouse,쥐, 마우스
-rat,쥐
+rat,쥐 (시궁쥐)
 monkey,원숭이
-bear,곰, 견디다
+bear,곰; (참고) 견디다; (아이를) 낳다
 lion,사자
 tiger,호랑이
 elephant,코끼리
@@ -482,7 +482,7 @@ panda,판다
 fox,여우
 wolf,늑대
 deer,사슴
-snake,뱀
+snake,뱀 (파충류)
 frog,개구리
 turtle,거북이
 whale,고래
@@ -490,10 +490,10 @@ dolphin,돌고래
 shark,상어
 insect,곤충, 벌레
 ant,개미
-bee,벌
+bee,벌, 꿀벌
 butterfly,나비
 spider,거미
-fly,파리, 날다
+fly,날다, 비행하다; 파리
 mosquito,모기
 tail,꼬리
 wing,날개
@@ -512,7 +512,7 @@ gold,금, 금색
 silver,은, 은색
 bright,밝은, 영리한
 dark,어두운, 캄캄한
-light,빛, 가벼운, 밝은
+light,빛, 전등; 밝은; 가벼운
 big,큰, 커다란
 large,넓은, 거대한
 small,작은, 적은
@@ -546,12 +546,12 @@ bitter,쓴, 쓰라린
 sour,신, 시큼한
 salty,짠, 짭짤한
 delicious,맛있는
-hard,단단한, 어려운, 열심히
+hard,단단한, 딱딱한; 어려운, 힘든; 열심히
 soft,부드러운, 푹신한
 rough,거친, 대략의
 smooth,매끄러운, 부드러운
 sharp,날카로운, 급격한
-fast,빠른, 빨리
+fast,빠른, 빨리; 단식하다
 quick,재빠른, 신속한
 slow,느린, 천천히
 early,이른, 일찍
@@ -562,7 +562,7 @@ young,젊은, 어린
 good,좋은, 착한
 nice,좋은, 멋진, 친절한
 great,위대한, 훌륭한, 큰
-fine,괜찮은, 좋은, 벌금
+fine,좋은, 괜찮은; (가루가) 고운; 벌금
 bad,나쁜, 서투른
 terrible,끔찍한, 형편없는
 beautiful,아름다운, 예쁜
@@ -575,7 +575,7 @@ clever,영리한, 기발한
 wise,지혜로운, 현명한
 foolish,어리석은, 바보 같은
 stupid,어리석은, 바보 같은
-kind,친절한, 종류
+kind,친절한, 다정한; 종류, 유형
 gentle,온화한, 다정한
 brave,용감한
 strong,강한, 튼튼한
@@ -587,7 +587,7 @@ free,자유로운, 무료의, 한가한
 quiet,조용한, 차분한
 loud,소리가 큰, 시끄러운
 noisy,시끄러운
-safe,안전한, 금고
+safe,안전한; 금고
 dangerous,위험한
 happy,행복한, 기쁜
 glad,기쁜, 반가운
@@ -609,7 +609,7 @@ difficult,어려운, 힘든
 simple,단순한, 간단한
 true,진실한, 진짜의
 false,거짓의, 틀린
-right,옳은, 오른쪽의, 권리
+right,옳은, 올바른; 오른쪽의; 권리
 wrong,틀린, 잘못된
 real,진짜의, 실제의
 ready,준비된
@@ -666,7 +666,7 @@ keep,유지하다, 보관하다
 hold,잡고 있다, 개최하다
 catch,잡다, 따라잡다, 병에 걸리다
 drop,떨어뜨리다, 방울
-fall,떨어지다, 넘어지다, 가을
+fall,떨어지다, 넘어지다; 가을; 하락
 pick,고르다, 뽑다, 꺾다
 pull,당기다, 끌다
 push,밀다, 누르다
@@ -675,7 +675,7 @@ hit,치다, 때리다, 맞히다
 cut,자르다, 베다
 break,깨뜨리다, 부수다, 휴식
 open,열다, 개장하다, 열린
-close,닫다, 끝나다, 가까운
+close,닫다, 끝나다; 가까운, 친밀한
 shut,닫다, 잠그다
 lock,자물쇠로 잠그다, 자물쇠
 turn,돌다, 돌리다, 차례
@@ -690,7 +690,7 @@ leave,떠나다, 남기다, 휴가
 arrive,도착하다
 enter,들어가다, 입학하다
 pass,지나가다, 통과하다, 건네다
-cross,건너다, 가로지르다, 십자가
+cross,건너다; 십자가; 성난, 짜증 난
 follow,따라가다, 따르다
 lead,이끌다, 안내하다
 run,달리다, 운영하다
@@ -702,7 +702,7 @@ ride,타다, 승차
 drive,운전하다, 몰다
 stand,서다, 참다
 sit,앉다
-lie,눕다, 거짓말하다, 거짓말
+lie,눕다, 놓여 있다; 거짓말하다; 거짓말
 sleep,자다, 잠
 wake,깨어나다, 깨우다
 eat,먹다
@@ -746,7 +746,7 @@ sell,팔다, 판매하다
 pay,지불하다, 돈을 내다
 cost,비용이 들다, 비용
 spend,쓰다, 시간을 보내다
-work,일하다, 작동하다, 일
+work,일하다, 작동하다; 일, 직업, 작품
 try,노력하다, 시도하다
 change,바꾸다, 변하다, 거스름돈
 grow,자라다, 키우다, 재배하다
@@ -813,7 +813,7 @@ top,꼭대기, 맨 위, 최고의
 bottom,바닥, 맨 아래
 center,중심, 중앙, 센터
 middle,가운데, 중간
-left,왼쪽의, 왼쪽, 남겨진
+left,왼쪽의, 왼쪽; 남겨진 (leave의 과거분사)
 north,북쪽, 북부
 south,남쪽, 남부
 east,동쪽, 동부
@@ -827,16 +827,16 @@ together,함께, 같이
 alone,혼자서, 외로이
 only,오직, 유일한
 just,방금, 그저, 공정한
-even,심지어, ~조차도, 평평한
+even,평평한, 짝수의; 심지어 ~조차도
 name,이름, 지명하다
 age,나이, 연령, 시대
 birthday,생일
 party,파티, 정당
 gift,선물, 재능
-present,선물, 현재, 출석한, 제시하다
+present,현재의; 출석한; 선물; 제시하다, 주다
 holiday,휴일, 공휴일, 휴가
 vacation,휴가, 방학
-trip,여행, 발을 헛디딤
+trip,여행; 발이 걸려 넘어지다
 tour,여행, 견학, 관광하다
 picnic,소풍
 camp,캠프, 야영지
@@ -861,21 +861,21 @@ post,우편, 게시물, 기둥
 stamp,우표, 도장
 picture,그림, 사진
 photo,사진
-sound,소리, 건전한, ~하게 들리다
+sound,소리, 음향; ~하게 들리다; 건강한, 건전한
 noise,소음, 잡음
 shadow,그림자
 line,선, 줄, 늘어서다
-point,점, 요점, 가리키다
+point,점, 점수; 가리키다; 요점
 circle,원, 동그라미
 square,정사각형, 광장
 size,크기, 치수
 shape,모양, 형태
 weight,무게, 체중
 speed,속도, 빠르기
-step,걸음, 계단, 조치
+step,걸음, 발자국; 단계; 걷다, 밟다
 habit,습관, 버릇
 rule,규칙, 지배하다
-order,주문, 순서, 명령하다
+order,주문하다; 명령하다; 순서, 질서
 custom,관습, 풍습
 skill,기술, 솜씨
 job,직업, 일
@@ -902,7 +902,7 @@ accident,사고, 재난
 trouble,문제, 곤란, 괴롭히다
 danger,위험
 safety,안전
-fire,불, 화재, 발사하다
+fire,불, 화재; 발사하다; 해고하다
 smoke,연기, 담배를 피우다
 energy,에너지, 활기
 power,힘, 전력, 권력
@@ -911,29 +911,29 @@ oil,기름, 석유
 iron,철, 다리미
 plastic,플라스틱
 box,상자, 박스
-can,캔, 통조림, ~할 수 있다
+can,~할 수 있다; 캔, 통조림
 rope,밧줄, 로프
 string,끈, 줄
 bell,종, 벨
 flag,깃발, 국기
-sign,표지판, 신호, 서명하다
+sign,표지판; 서명하다; 신호
 mark,자국, 표시, 채점하다
 hole,구멍, 구덩이
 edge,가장자리, 모서리
 space,우주, 공간
-bark,나무껍질, 짖다
+bark,(개가) 짖다; 나무껍질
 yes,네, 예
 no,아니오, 없는
 not,~이 아니다
 oh,오, 아
-ah,아
+ah,아!, 아하
 wow,와, 대단해
 hi,안녕
 hello,안녕하세요
 bye,안녕, 잘 가
 goodbye,작별 인사
 okay,괜찮은, 알았어
-well,잘, 좋게, 우물
+well,잘, 좋게; 건강한; 우물
 maybe,아마도, 어쩌면
 perhaps,아마, 혹시
 really,정말로, 참으로
@@ -957,7 +957,7 @@ across,가로질러
 action,동작
 activity,능동적
 add,더해지다
-address,제언
+address,주소; (문제를) 다루다, 고심하다; 연설하다
 advice,조언
 ago,지금부터 전에
 also,담판
@@ -969,7 +969,7 @@ area,경지
 around,둘레에
 article,규약
 august,8월
-band,끈
+band,밴드, 무리; 끈, 줄; 묶다
 bath,목욕실
 become,어두워지다
 beer,맥주
@@ -978,14 +978,14 @@ behind,나중-의 나중에
 below,미만
 best,가장좋은
 better,내기하는 사람
-bill,계산서
+bill,계산서, 청구서; 지폐; 법안
 blonde,금발 흰 피부의 사람
 boot,구둣발질하다
 bored,따분한
 both,다같이
 boyfriend,남자친구
 business,볼일
-cannot,못
+cannot,~할 수 없다
 capital,기둥머리
 card,목록표
 career,생애

@@ -1,45 +1,45 @@
-ability,능력
-able,기능을 나타내는 형용사를 만듦
-abroad,대외
-accept,감수하다
-achieve,달성하다
-act,극의 막
-active,민활하다
-actually,막상
-advantage,강점
-adventure,모험
-advertise,공고하다
+ability,능력, 재능
+able,할 수 있는, 유능한
+abroad,해외로, 외국의
+accept,수락하다, 받아들이다
+achieve,달성하다, 성취하다
+act,행동하다, 연기하다
+active,활동적인, 적극적인
+actually,실제로, 사실은
+advantage,이점, 장점
+adventure,모험, 도전
+advertise,광고하다, 홍보하다
 advertisement,광고
 advertising,광고업
-affect,영향하다
-against,겨루다
-airline,직행로
-alive,살아서
-although,설렵
-among,에 둘러싸여
-amount,결같다-합계
+affect,영향을 미치다
+against,~에 반대하여, 맞서
+airline,항공사
+alive,살아 있는, 활기찬
+although,비록 ~일지라도
+among,~사이에, ~중에
+amount,양, 액수
 ancient,고래의
 ankle,발목
 anybody,누구도
 anyway,어떻게 해서든
 anywhere,어디에나
 appear,나타나다
-appearance,곡두
-apply,바르다
+appearance,외모, 모습; 나타남, 출현
+apply,지원하다, 신청하다; 적용하다; (연고 등을) 바르다
 architect,건축가
 architecture,건조물
 argue,논쟁하다
 argument,논의
 arrange,마련하다
-arrangement,배열
+arrangement,배열, 정돈; 준비, 합의
 asleep,마비되어
 assistant,보좌의
 attack,공격
 attention,보살핌
 attractive,관심을 끄는
-audience,과객
+audience,관객, 청중, 관람객
 author,작가
-available,가용
+available,이용 가능한, 시간이 있는, 구할 수 있는
 average,보통의
 avoid,꺼리다
 award,수여하다
@@ -51,156 +51,156 @@ based,근거가 있는
 beat,면하다-연거푸 치다
 behave,올바르게 행동하다
 belong,에속하다
-benefit,은전
+benefit,혜택, 이익; 이익을 얻다
 billion,10억의
 bin,큰상자
 biology,생물학
-birth,가문
+birth,출생, 탄생
 biscuit,비스킷
-bit,비트
+bit,조금, 약간; 작은 조각
 blank,공백으로하다
-blow,강타
+blow,(바람이) 불다; 세게 치다, 강타; 타격
 boil,격분하다
 brilliant,번쩍번쩍하는
-broken,고장
-burn,개울
+broken,고장 난, 깨진, 부러진
+burn,불타다, 태우다; 화상
 businessman,기업인
-camping,노숙
+camping,야영, 캠핑
 care,간호하다
 carefully,신중히
-carpet,깔개
+carpet,양탄자, 카펫; 카펫을 깔다
 cartoon,만화 영화
-case,문제
-cash,맞돈
-cause,빚다
+case,경우, 사례; 상자, 용기; 사건, 소송
+cash,현금; 현금으로 바꾸다
+cause,원인, 이유; 야기하다, 초래하다
 celebrate,거행하다
-celebrity,명사
-certain,몇개
-chance,가망
-character,괴짜
-charity,구호
-chat,담소
+celebrity,유명 인사, 명사
+certain,확실한, 확신하는; 특정한, 어떤
+chance,기회; 가능성; 우연
+character,성격, 특징; 등장인물; 글자
+charity,자선 단체, 자선, 구호
+chat,잡담하다, 이야기하다; 수다, 대화
 chef,주방장
 chemistry,성격등이 잘 맞음
-chip,깨다
-choice,발탁
+chip,(감자 등의) 칩, 조각; 흠집; 깨지다
+choice,선택, 선택권; 고른 것
 classical,고전 문학의
 closed,금렵중인
-clothing,의료
-coach,2등
-code,법전
+clothing,의류, 옷
+coach,코치, 감독; 대형 버스; 지도하다
+code,암호, 부호; 규범, 관례; 코드
 colleague,동료
 collect,가다듬다
 column,꽃술대
 comedy,인생극
 comfortable,기분이 좋은
-comment,세평
+comment,논평, 언급; 의견을 밝히다
 communicate,성찬을 받다
 community,공동사회
 compete,경쟁하다
-competition,각축
+competition,경쟁, 대회, 시합
 complain,고소하다
 completely,극단적
-condition,상태
-conference,상의
+condition,상태, 조건; 질환; 길들이다
+conference,학회, 회의, 회담
 connect,결합하다
 connected,관련하여
 consider,간주하다
 contain,견제하다
-context,문맥
+context,문맥, 맥락, 전후 사정
 continent,극기의
 continue,게속자
-control,감리
+control,통제하다, 제어하다; 지배; 통제, 제어
 cooker,요리 도구
 copy,광고문
-correctly,바로
+correctly,올바르게, 정확하게
 count,간주하다
 couple,2개의
-crazy,반한
+crazy,미친, 열광하는, 정신 나간
 creative,독창적인
 credit,대월 계정
 crime,군기위반으로 처벌하다
 criminal,범죄적
 crowd,꽉 들어차다
 crowded,분주하다
-cupboard,벽장
+cupboard,찬장, 벽장
 curly,곱슬곱슬하게 하다
-cycle,1군
+cycle,순환, 주기; 자전거를 타다
 daily,날마다
 data,데이터
 dead,쓸모없이된
 deal,거래량
 dear,귀여운 사람
-decision,원심
-definitely,단연
-degree,계급
+decision,결정, 판단
+definitely,분명히, 틀림없이, 절대로
+degree,도, 정도; 학위
 dentist,치과의사
-department,국
+department,부서, 과, 학과; (백화점 등의) 매장
 depend,나름이다
-desert,불모 시대
+desert,사막; 버리다, 떠나다
 designer,도안자
 destroy,멸하다
 detective,탐정의
-develop,개척하다
-device,계략
+develop,개발하다, 발전시키다; (병에) 걸리다
+device,장치, 기기; 고안, 방법
 diary,일기장
 differently,같지 않게
 digital,계수형인
 direct,똑바른
-direction,방면
-director,중역
+direction,방향; 지도, 지시; 감독
+director,감독, 연출가; 이사, 임원
 disagree,맞지 않다
 disappear,소실하다
-disaster,난민
-discover,찾다
-discovery,발견
-discussion,논의
-distance,거리
-divorced,남남
+disaster,재난, 재앙, 참사
+discover,발견하다, 알아내다
+discovery,발견, 발견된 것
+discussion,토론, 논의
+distance,거리, 간격; 먼 곳
+divorced,이혼한
 document,기록문헌
 double,2배가되다
 downstairs,아래층
 drama,극적사건
 drawing,달여내기
-driving,운전
+driving,운전; 추진하는, 강력한
 drug,마취시키다
 earn,감사 따위를 받을 만하다
-education,교육
+education,교육, 교육학
 effect,결과를 가져오다
 either,어느것인가
-electricity,전기
-employ,고용
+electricity,전기, 전력
+employ,고용하다; (기술·방법을) 쓰다, 이용하다
 employee,고용인
 employer,고용주
-ending,결말
+ending,결말, 끝; 종결
 engine,기관차
 engineer,공학가
 enormous,거창하다
-environment,둘레
+environment,환경, 자연환경; 주위 상황
 equipment,설비
 error,과실
 essay,소론
 everyday,만날
 everywhere,곳곳
-evidence,증
+evidence,증거, 흔적
 exact,꼼꼼한
 exactly,그렇소
 excellent,우량
-except,외
+except,~을 제외하고, ~이외에는
 exist,실재하다
 expect,라고 생각하다
-experience,경로
+experience,경험, 체험
 expert,감정인
-explanation,변명
+explanation,설명, 해명, 이유
 express,급행열차
 expression,표출
 extreme,과격한
 extremely,가뜩
 factor,대리상
 fail,게을리하다
-fair,가망이 있는
+fair,공정한, 타당한; 박람회; 꽤 많은
 fan,부채꼴로 펼치다
-farming,농사
+farming,농업, 농사
 fashion,유행
 fear,경외
 feature,인기 거리로 내세우다
@@ -208,7 +208,7 @@ feed,공급재료
 female,여성
 fiction,가설
 field,벌판
-figure,도면
+figure,인물; 수치, 숫자; 모양; 생각하다, 판단하다
 film,피막
 final,결정적인
 fishing,고기잡이
@@ -221,7 +221,7 @@ foreign,이질의
 formal,정식 무도회
 fortunately,다행히
 forward,급진적인
-fun,응
+fun,재미, 즐거움; 즐거운
 furniture,가구
 further,그이상의
 future,미래
@@ -229,15 +229,15 @@ gallery,노대
 gap,산이 끊어진 데
 general,개괄적인
 goal,결승점
-god,신
+god,신, 하느님
 golf,골프
 government,경륜
 guest,빈객
 guide,가이드
 gun,소총
 guy,버팀밧줄
-hall,교사
-headache,두통
+hall,홀, 복도, 강당
+headache,두통; 골칫거리
 heat,가열
 height,고도
 himself,그자신
@@ -259,9 +259,9 @@ injury,명예훼손
 instead,의 대신에
 instruction,소송위임장
 instructor,가르치는 사람
-instrument,계기
+instrument,악기; 기구, 도구
 intelligent,슬기롭다
-international,국제
+international,국제의, 국제적인
 introduction,끼워넣음
 invent,날조하다
 invention,꾸며낸 일
@@ -276,7 +276,7 @@ kid,새끼염소
 knock,두드리다
 knowledge,조예
 lab,노동 자문위원회
-lady,부인
+lady,숙녀, 귀부인, 여성
 laptop,무릎에 얹어 놓을 크기의 퍼스널 컴퓨터
 last,견뎌내다
 later,나중에
@@ -287,7 +287,7 @@ lazy,게으르다
 leader,굴지
 learning,박식
 least,가장  않다
-less,덜
+less,더 적은; 덜, 덜하게
 level,낮추다
 lifestyle,고도화
 lift,걷힘
@@ -298,13 +298,13 @@ lost,길잃은
 lovely,멋진
 major,큰쪽의
 male,나쁜의 뜻
-manage,다루다
+manage,경영하다, 관리하다; 간신히 해내다
 manager,교섭 위원
 manner,매너
 marry,결혼하다 결혼하다
 material,물적 증거
 mathematics,수학
-matter,물질
+matter,문제, 일; 물질; 중요하다
 may,5월
 media,미디어
 medical,개업의
@@ -314,7 +314,7 @@ metal,금속
 method,방법
 might,권불십년
 mind,거두다
-mine,내
+mine,나의 것; 광산; 채굴하다
 missing,없어진
 mobile,자유로 움직이는
 mostly,다분히
@@ -328,7 +328,7 @@ network,네트워크
 normal,규격대로의
 normally,보통은
 notice,고지
-novel,새롭다
+novel,소설; 참신한, 새로운
 nowhere,별볼일 없는
 nut,견과
 offer,드리다
@@ -353,7 +353,7 @@ past,수상쩍은
 pattern,규범
 penny,티끌 모아 태산
 per,매우의 뜻
-perform,실행하다
+perform,공연하다, 연주하다; 수행하다, 실행하다
 permission,용납
 personality,사람됨
 petrol,가솔린
@@ -378,7 +378,7 @@ printer,인서기
 prison,감옥
 prize,고맙게 여기다
 process,조사 분석하다
-produce,발부
+produce,생산하다, 만들어내다; 농산물
 professional,지적 직업에 종사하는
 professor,지휘자
 profile,인물단평
@@ -397,7 +397,7 @@ quantity,미지수
 race,북이 왔다갔다 하는 길
 railway,경편궤도
 raise,가격 인상
-rate,등급등
+rate,비율, 속도; 요금; 평가하다, 등급을 매기다
 rather,그렇고 말고
 reach,빛깔 등의
 react,반동하다
@@ -408,7 +408,7 @@ reception,감득
 recipe,비방
 recognize,목불식정
 recommend,마음에 들게 하다
-record,공판기록
+record,기록, 음반; 기록하다, 녹음하다
 recording,녹음
 recycle,재생하여 이용하다
 reduce,감소시키다
@@ -420,14 +420,14 @@ remove,다음 접시
 repair,구하러 가다
 replace,갈다
 reply,답변하다
-report,공보
+report,보고서, 발표
 reporter,보고자
 request,간청
 research,과학적 탐구
 researcher,연구가
 respond,대응주
 response,리스폰스
-rest,걸려있다
+rest,휴식, 쉬다; 나머지
 review,검열하다
 rise,개막
 role,배역
@@ -444,14 +444,14 @@ sale,매각
 sauce,맛을 내다
 scary,무서운
 scene,경치
-schedule,명세표
+schedule,일정, 시간표
 screen,심사하다
 search,찾다
 secondly,둘째로
 secret,그윽히
 secretary,간사
 seem,로 보이다
-sense,읽다
+sense,감각; 의미; 분별력; 느끼다
 separate,가려내다
 series,수열
 serious,묵작하다
@@ -480,13 +480,13 @@ source,소스
 speaker,변사
 specific,독특하다
 speech,담화
-stage,단
+stage,단계; 무대; 상연하다
 stair,한 단
-state,국사범
+state,상태; 국가, 주(州); 진술하다, 말하다
 steal,후무리다
 stomach,욕망
 straight,솔직하게
-strategy,병법
+strategy,전략, 전술
 stress,강세
 structure,조직
 succeed,에 계속하다
@@ -498,17 +498,17 @@ support,먹이다
 suppose,만일
 surprise,기습
 surprising,경악스럽다
-survey,개관
-symbol,부호
-system,계
+survey,설문조사; 조사하다, 살피다
+symbol,상징; 기호, 부호
+system,체계, 시스템, 제도
 tablet,메모장
 target,목표액
-task,일
+task,과제, 업무, 일
 teaching,가르치기
 technology,과학기술
 teenage,10대의 소년
 temperature,기온
-term,개정기
+term,용어; 학기; 기간; 조건
 text,본문
 themselves,그들자신
 thinking,내성
@@ -517,9 +517,9 @@ tidy,정돈하다
 tip,끝에 붙이는 것
 tool,공작기계
 tourism,유람
-towards,로
+towards,~쪽으로, ~을 향하여
 track,신발에 묻혀 들이다
-tradition,관례
+tradition,전통, 관습
 traditional,재래식
 trainer,트레이너
 training,조교
@@ -543,7 +543,7 @@ view,가망
 virus,바이러스
 washing,빨래
 wave,기복하다
-web,거미줄 모양의 것
+web,거미줄; 인터넷망, 웹
 wedding,결혼 기념식
 while,빈둥 빈둥보내다
 wild,미개지
@@ -554,35 +554,35 @@ worried,걱정스런
 worry,고생하며 헤쳐 나아가다
 worse,더욱 나쁘게
 worst,가장 나쁘게
-zero,영
+zero,숫자 0, 영; 아무것도 없음
 most,가장
-family,가구
-thanks,감사
+family,가족, 가정
+thanks,감사, 고마움; 고마워
 marriage,결혼
-continuously,계속
+continuously,계속해서, 끊임없이
 hometown,고향
 textbook,교과서
 september,9월
 mood,고양
-me,나
+me,나를, 나에게
 proceed,나가다
 weather,뚫고 나아가다
 date,기일
 husband,남편
-daytime,낮
+daytime,낮, 주간
 descend,급승하다
 freezer,냉동기
 broad,넓다
 pour,넣다
-set,넣다
+set,놓다, 설정하다; (해·달이) 지다; 세트, 한 벌
 insert,끼워넣다
 thrust,넣다
-your,네
+your,너의, 당신의, 여러분의
 necktie,넥타이
 fourth,넷째
 song,이야기
-eyes,눈
-everything,계
+eyes,눈, 시선, 안목
+everything,모든 것, 전부
 fifth,5분의1
 next,그다음
 polish,광나게  하다
@@ -605,18 +605,18 @@ physique,덩지
 whatever,어떤 이라도
 meter,미터
 exchange,교환무역
-group,군
-company,같이 있음
+group,무리, 집단, 그룹
+company,회사; 동행, 함께 있음
 pronunciation,명료도
-pear,배
-abdomen,배
+pear,(과일) 배, 배나무
+abdomen,복부, 배
 sickness,구역질
-parents,부모
-minutes,분
+parents,부모, 양친
+minutes,몇 분; (회의) 회의록
 video,비디오
 crimson,빨간색
 purchase,구입품
-dictionary,사서
+dictionary,사전
 stroll,만보하다
 march,분열 행진하다
 arise,생기다
@@ -630,7 +630,7 @@ customer,고객
 shopping,물건사기
 handkerchief,수건
 classes,수업
-alcohol,술
+alcohol,알코올, 술
 sports,스포츠
 sorrowful,가슴아픈
 timekeeper,계시기
@@ -655,11 +655,11 @@ embrace,껴안다
 pharmacy,약국
 everytime,언제나
 mamma,유방
-absent,결석
+absent,결석한, 부재중인
 eighty,80년대
 various,가지 가지
 summertime,여름
-depot,역
+depot,차고, 정류장; 창고, 저장소
 practice,개업하다
 exercise,걸다
 enthusiastically,열심히
@@ -672,7 +672,7 @@ our,당소
 motion,동작
 stadium,스타디움
 weep,실컷울다
-krw,원
+krw,한국 원(KRW), 원화
 june,6월
 sixty,60의
 moment,계기
@@ -686,7 +686,7 @@ frequently,번번이
 seize,붙들다
 amusement,재미
 enjoyment,완상
-uh,저
+uh,어, 저기, 음 (망설일 때 내는 소리)
 lunchtime,점심때
 graduation,졸업
 regret,낙담
@@ -710,24 +710,24 @@ cola,생계비 조정
 christmas,성탄절
 stature,신장
 tv,유료
-team,팀
+team,팀, 조, 선수단
 percent,100분
 grapes,포도
 indication,계기의 시도
 exhausted,고단하다
-pian,피아노
+piano,피아노 (악기)
 pizza,고기 따위가 얹힌 큰 파이
 requirement,수요
 necessity,궁경
 nevertheless,그럼에도불구하고
 hamburger,얼굴이 상처투성이의 프로 복서
 full,천의 올을 배게 하다
-famly,가정
+family,가족, 가정
 eggplant,가지
 fake,가짜
 snack,가벼운 식사
-persimmon,감
-feelings,감
+persimmon,감 (과일)
+feelings,기분, 감정, 마음
 possess,갖다
 materials,거리
 result,결과
@@ -735,13 +735,13 @@ economy,검약
 economical,검약한
 calculation,계산
 calculator,계산기
-contract,계약
+contract,계약, 계약서; 계약하다; 수축하다
 amend,개심하다
 scientifically,과학적
 spectator,관객
 concretely,구체적
 noodles,국수
-mr,군
+mr,~씨, ~선생 (남성의 성이나 성명 앞에 붙임)
 gram,그램
 laborer,근로자
 writing,글쓰기
@@ -750,8 +750,8 @@ technician,기사
 coughing,기침
 guitar,기타
 tension,긴장
-seaweed,김
-laver,김
+seaweed,해조류, 미역, 김
+laver,김 (식용 해조류)
 deepness,깊이
 depth,깊이
 reason,까닭
@@ -796,7 +796,7 @@ hang,결정하지 않다
 moonlight,달빛
 flee,내빼다
 resemble,닮다
-charge,값을 매기다
+charge,요금을 청구하다; 기소하다; 충전하다; 책임, 요금
 duty,구실
 counterpart,1통
 considerable,대단하다
@@ -805,7 +805,7 @@ representative,대리의
 confront,대하다
 foul,충돌하다
 indebtedness,덕분
-incompletely,덜
+incompletely,불완전하게, 불충분하게
 veil,구실
 instance,경우의뢰
 escape,남지않다
@@ -816,7 +816,7 @@ german,독일 사람
 garlic,마늘
 flooring,마루
 massage,마사지
-meeting,결투
+meeting,회의, 모임
 complete,끝마치다
 carelessly,경솔하게
 obstruct,막다
@@ -830,10 +830,10 @@ fascination,눈독들임
 charm,마력
 bewitchery,매력
 bare,결핍된
-naked,맨
+naked,벌거벗은, 알몸의; 가감 없는
 headhair,머리카락
 swallowed,먹히다
-smartness,멋
+smartness,단정함, 말쑥함; 영리함
 stylish,멋있다
 tasteful,멋있다
 memo,메모
@@ -842,13 +842,13 @@ monitor,경고자
 model,개작하다
 signs,모양
 indications,모양
-form,격
+form,형태, 유형; 서식; 형성하다
 gather,거두어들이기
 assemble,모이다
 necklace,네크리스
-object,목적 없는
+object,물체, 대상; 목적; 반대하다
 secretly,몰래
-radish,무
+radish,무 (채소)
 fearful,걱정하여
 dreadful,무서운
 disregard,경시
@@ -889,7 +889,7 @@ unclothe,덥개를 벗기다
 undress,벗기다
 transformation,변모
 particularly,각별히
-information,견문
+information,정보, 자료
 worth,상당하는 분량
 guarantee,보장
 insurance,보험
@@ -912,7 +912,7 @@ disgrace,무안
 disgraceful,부끄럽다
 tender,만만하다
 envy,부러움
-portion,몫
+portion,부분, 몫; 1인분
 lack,결핍되다
 insufficiency,미흡
 favor,부탁
@@ -927,7 +927,7 @@ dissatisfaction,불만
 uneasiness,불안
 anxiety,걱정거리
 anxious,걱정스러운
-scalet,붉다
+scarlet,진홍색, 다홍색; 진홍색의
 liquid,돈으로 바꿀 수 있는
 stick,걸리게 하다
 affix,도장을 누르다
@@ -943,13 +943,13 @@ extract,끌어내다
 sprinkle,끼얹다
 scatter,뿌리다
 objects,사물
-things,댓
+things,사물, 일, 상황; 소지품
 employment,고용직
 consumer,사용자
 socially,사교상
 oxygen,산소
-flesh,살
-muscle,살
+flesh,(사람·동물의) 살, 피부; 과육
+muscle,근육; 힘, 영향력
 spare,검약하다
 rescue,구원
 lightly,가볍게
@@ -958,9 +958,9 @@ companion,길동무
 rival,경쟁자
 imagination,가상
 imagine,미루어 생각하다
-wound,해치다
+wound,상처, 부상; 부상을 입히다
 lettuce,상추
-product,곱
+product,제품, 상품; 산출물, 결과물
 damage,데미지
 injure,다치게 하다
 newly,새로
@@ -975,12 +975,12 @@ papers,서류
 unskilled,서투르다
 clumsy,꼴사나운
 petroleum,석유
-blend,섞다
+blend,섞다, 혼합하다; 조화되다
 mix,사귀게하다
 blended,블렌드된
 dishwashing,설거지
 celsius,섭씨
-surname,성
+surname,성(姓), 성씨
 success,성공
 achievement,성공
 tax,과세하다
@@ -1006,7 +1006,7 @@ cluster,군생하다
 surgery,수술
 beard,수염
 income,수입
-sytem,순서
+system,체계, 시스템, 제도
 sequence,순서
 skate,잠깐 언급하다
 style,고상함
@@ -1017,19 +1017,19 @@ period,경과
 attempt,시도하다
 establishment,설립
 institution,공공시설명물
-suberbs,근교
+suburbs,교외, 근교
 occasion,시절
 preferably,식구
 provisions,마련
 vinegar,식초
-groceries,식품
+groceries,식료품, 잡화
 joy,기쁨거리
-delight,신
+delight,큰 기쁨, 즐거움; 매우 기쁘게 하다
 declaration,선언
 bride,새색시
 confidence,대담함
 trust,털어놓다
-proposal,부결하다
+proposal,제안, 제안서
 signaling,신호
 blinker,깜박이
 newlyweds,신혼부부
@@ -1043,10 +1043,10 @@ rot,3주문의연속쓰러짐
 mince,썰다
 dice,썰다
 wrestling,레슬링
-valiantl,씩씩하다
+valiantly,용감하게, 씩씩하게
 mis,아가씨
 announcer,아나운서
-nay,거부
+nay,아니, 아니오; 반대표
 casually,아무 생각 없이
 africa,아프리카
 handshake,악수
@@ -1057,7 +1057,7 @@ precede,보다중요하다
 accessory,부속의
 vegetables,야채
 approximately,내외
-volume,양
+volume,음량, 볼륨; 양, 부피; (책의) 권
 cabbage,양배추
 recede,감퇴하다
 superficial,면적의
@@ -1074,14 +1074,14 @@ lay,꼬인자리
 obtain,얻다
 freeze,동결
 rapidly,급성장
-buisness,업무
+business,사업, 업무; 회사, 기업
 extravagant,낭비하는
 elevator,곡물창고
 reserve,감춤
 surplus,여유
 inform,보도하다
 historian,역사가
-historical,사적
+historical,역사적인, 역사상의
 likewise,똑같이
 attach,메우다
 investigate,수사하다
@@ -1103,7 +1103,7 @@ solely,오로지
 cuttlefish,뼈오징어
 squid,오징어
 corn,곡물
-entire,온
+entire,전체의, 완전한
 wholly,모조리
 entirely,낱낱이
 olympic,국제올림픽대회
@@ -1118,19 +1118,19 @@ greed,욕심
 selfishness,욕심
 accidentally,우연히
 depressed,내리 줄인
-fortune,운
-fate,숙명
+fortune,운, 행운; 많은 돈, 재산
+fate,운명, 숙명
 crying,골짝골짝
 weeping,눈물울 흘리는
 stir,뒤섞다
 waiter,요리 나르는 쟁반
 violation,어김
-infringment,위반
+infringement,(권리 등의) 침해, 위반
 confucianism,유교
 uncommon,드문
 exceptional,유난히
 europe,유럽
-fame,명리
+fame,명성, 명예
 kindergarten,유치원
 vogue,유행
 ugh,억!
@@ -1140,14 +1140,14 @@ drift,떠돌다
 accomplish,가르치다
 achieved,이루어지다
 premature,너무 서두른
-forehead,부분
+forehead,이마
 bedding,기반
 indisposition,마음이 내키지않음
 abnormal,변태의
 queer,결딴내다
 reasoning,논법
-profit,이윤
-times,배
+profit,이익, 수익
+times,시대, 시절; 배, 곱절
 divorce,별거
 ripe,곪은
 popularity,대중성
@@ -1160,7 +1160,7 @@ universal,널리행해지는
 common,공중의
 commence,개시하다
 settled,일정
-wages,급료
+wages,임금, 급여
 temporary,덧없는
 pregnant,가득 찬
 entrance,가입
@@ -1169,8 +1169,8 @@ qualification,검정
 credential,성적증명서
 qualifications,자격
 oneself,자기
-numerouno,자기
-self,귀사
+numero uno,최고, 일인자; 최고의
+self,자신, 스스로, 본인
 constantly,노상
 repeatedly,여러 차례
 automatic,기계적인
@@ -1191,20 +1191,20 @@ sneezing,재채기
 savings,저축
 saving,구제
 actively,적극적
-proper,단정
+proper,적절한, 올바른, 적당한
 specialty,날인증서
 generally,개략적으로
 convention,가조약
 convey,나르다
 utterly,순전히
 absoluteness,절대
-absolutely,단연
+absolutely,절대로, 완전히, 전적으로
 youthful,젊다
 marks,점수
 gradually,점진적
 platter,접시
 gesticulate,젓다
-arrangment,정리
+arrangement,배열, 정돈; 준비, 합의
 regulation,정리
 adjustment,수정
 intelligence,사고력
@@ -1226,14 +1226,14 @@ bounds,제한
 sculpture,조각
 stipulation,명문화
 investigation,연구연구
-inquiry,심리
+inquiry,문의, 조사, 탐구
 ancestors,조상
 cautious,세심한
 nephew,생질의 사생아
 doze,졸기
-species,종
+species,(생물 분류) 종, 종류
 religion,광신
-waitress,여급
+waitress,웨이트리스, 여성 웨이터
 synthesis,접골
 principally,주로
 mainly,주로
@@ -1241,18 +1241,18 @@ fist,주먹
 heroine,여걸
 maintain,자활하다
 topic,논제
-row,가
-chord,건
-stem,굽
+row,열, 줄; 배를 젓다
+chord,(음악) 화음, 코드
+stem,줄기; (기원·원인이) 비롯되다, 유래하다
 stalk,경상부
 diminish,줄다
 decrease,비례
 importance,거드름
 consequence,잘난체함
-namely,즉
+namely,즉, 다시 말해
 pleasure,기호마음대로 ,   take  a
 merriment,웃고 즐기기
-symptoms,증
+symptoms,증상, 징후
 elapse,경과하다
 holler,지르다
 scream,깔깔대다
@@ -1282,14 +1282,14 @@ initial,가조인하다
 neophyte,새성직자
 photographing,촬영
 films,촬영
-atleast,최소한
+at least,적어도, 최소한
 congratulation,경하
 celebration,찬양
 ample,충분하다
 sufficiently,충분히
 cancellation,소거
-anulment,취소
-calloff,취소하다
+annulment,취소, 무효화, 폐기
+call off,취소하다, 중지하다
 assume,가정하다
 heal,아물다
 kindness,베풀다
@@ -1318,27 +1318,27 @@ burst,충만하다
 explode,격발하다
 terminal,단말장치
 fur,거웃
-feathers,털
-tape,끈
+feathers,깃털
+tape,테이프, 끈; 테이프로 붙이다
 communications,통신
-correspondance,통신
+correspondence,서신, 편지; 통신, 일치
 flow,많이있다
 extraordinary,보통이 아닌
 solid,견실하다
 compact,간결한
-firm,강경
-onions,파
+firm,회사; 확고한, 단단한
+onions,양파
 waves,미해군 여자 예비부대
 billows,파도
 file,서류철
 selling,팔리는
 unfold,펴다
-compilation,편
+compilation,모음집, 편집본, 편찬
 editing,감수
 handy,편리하다
 comfortably,부족함이 없이
 stretch,길이가
-plain,무늬없는
+plain,명백한, 분명한; 평범한, 소박한; 평원, 평지
 ordinarily,그만하게
 packing,짐꾸리기
 wrapping,포장
@@ -1366,23 +1366,23 @@ sunbeams,햇볕
 sunlight,일광
 sunshine,양지
 behavior,행동
-happiness,복
+happiness,행복, 기쁨, 만족
 fragrance,방향
-aroma,김
+aroma,향기, 은은한 향
 perfume,방향
 approve,마음에들다
 grant,교부금
 shabby,쩨쩨하다
 homepage,홈페이지
 splendor,장려
-makup,화장품
+makeup,화장, 화장품; 구성, 구조
 cosmetics,화장품
 magnify,과장하다
 confirmation,견진성사
 corroborate,확실하게 하다
 sprightly,기운찬
 utilize,활용하다
-chariman,회장
+chairman,의장, 회장, 위원장
 conversations,회화
 crossing,건널목
 effectiveness,유효
@@ -1392,13 +1392,13 @@ sway,기우뚱거리다
 commonly,공통적
 effuse,유출하다
 spill,내동댕이 치다
-interest,관계시키다
+interest,관심, 흥미; 이자; 이해관계; 관심을 끌다
 zeal,열심
 settle,식민하다
 subside,내려앉다
 supposition,가정
 catholic,가톨릭
-liver,간
+liver,(신체 부위) 간
 exec,간부
 executive,간부
 management,간부
@@ -1411,16 +1411,16 @@ objective,객관적
 bubble,거품
 construction,건설
 walking,걷기
-mustard,갓
+mustard,겨자, 머스터드
 warning,경고
 competitiveness,경쟁력
 economics,경제학
-account,계산서
+account,계좌; 계정; 설명, 기술; 설명하다
 auditorium,공연장
 commonness,공통
 principal,교장
 internationalization,국제관리화
-마지막으로,궁극적
+lastly,마지막으로, 끝으로
 ultimately,궁극적
 graphic,그래픽
 foundational,근본적
@@ -1436,17 +1436,17 @@ married,기혼
 planning,계획화
 emergency,긴급
 gangster,깡패
-hoodlum,갱
+hoodlum,부랑자, 깡패, 불량배
 realization,구현
 scolding,가책
 bind,구속하다-묶는 것
 braid,꼬다
-braiding,끈
+braiding,땋은 머리, 땋은 끈
 boundlessly,끝없이
 interrupt,끼어들다
 divide,갈라지다
 revolt,난리
-others,남
+others,다른 사람들, 타인들; 다른 것들
 waste,낭비
 lower,내리다
 exhale,내뿜다
@@ -1454,7 +1454,7 @@ internal,내면적
 brook,냇물
 refrigeration,냉각
 widely,널따랗게
-melt,녹아 섞이다
+melt,녹다, 녹이다
 dissolve,녹이다
 logic,논리
 logical,논리적
@@ -1464,9 +1464,9 @@ debate,논하다
 banter,놀리다
 handle,놀리다
 plantation,농장
-brains,뇌
+brains,뇌, 두뇌; 지능
 voluntary,수의근
-treat,간주하다
+treat,대우하다, 다루다; 치료하다; 대접하다; 한턱
 pledge,금주의 맹세
 vow,할 것을 맹세하다
 swear,다짐하다
@@ -1478,9 +1478,9 @@ simplicity,간단
 fragment,단편
 undertaking,담당
 encounter,당하다
-buses,대
-vehicles,대
-era,대
+buses,버스들
+vehicles,차량, 탈것; 수단, 매개체
+era,시대, 연대
 consideration,대가
 value,뽐내다
 provision,공급량
@@ -1492,11 +1492,11 @@ disposal,대처하다
 summary,간결한
 lending,대여
 represent,대리하다
-dam,댐
+dam,댐, 방파제
 besides,게다가-더하여
 moreover,더욱이
 virtue,고결
-morality,덕
+morality,도덕, 도덕성, 도덕적 관념
 lighten,덜다
 append,덧붙이다
 immorality,난행
@@ -1507,7 +1507,7 @@ unique,각별하다
 characteristic,독특하다
 distinctive,독보적
 peculiar,괴상함
-approppriate,마땅하다
+appropriate,적절한, 적당한; (예산 등을) 책정하다
 marathon,마라톤
 preparations,마련
 completion,낙성
@@ -1526,17 +1526,17 @@ whip,거품일게 하다
 rod,간균
 cane,가볍고 가는 지팡이
 medias,매체
-cotton,면
+cotton,면, 목화, 솜
 anchovy,멸치
 directive,명령어
 honor,인수하고 지불하다
-title,명목
+title,제목; 직함; 자격, 권리
 precise,꼼꼼한
 flock,털 부스러기를 채우다
 collection,기부금 모집
 catalogue,대학요람
 nothing,도 아무것도 아니다
-nil,무
+nil,영(0), 없음, 무(無)
 indifference,냉담
 unconcern,냉담
 weapon,무기
@@ -1546,14 +1546,14 @@ sweltering,무더운
 unreasonable,무리
 peaceful,그윽하다
 passage,문구
-paragraph,구
+paragraph,단락, 절, 문단
 grammar,문법
 letters,문자
 literary,문어체
 cultural,개척상의
 moisture,물기
 corporeal,물질적
-beauty,미
+beauty,아름다움, 미; 미인
 grace,고상함
 slippery,매끄러운
 mini,미니
@@ -1580,7 +1580,7 @@ dough,반죽
 shine,금화
 glitter,반짝반짝 빛나다
 gait,걸음걸이
-steps,경위
+steps,단계; 걸음, 조치
 ballet,무용극
 footprint,발자국
 prospering,발전되다
@@ -1595,15 +1595,15 @@ sailor,뱃사람
 spit,성나서 그르렁거리다
 tolerate,관대히 다루다
 punishment,강타
-abruptly,뚝
+abruptly,갑자기, 불쑥, 뜻밖에
 statute,법령
 legal,벌률상
 alteration,변경
-flucutation,변동
-vindication,변명
+fluctuation,변동, 오르내림, 동요
+vindication,변호, 옹호, 입증
 disguise,가장복
 nickname,닉네임
-alias,별명
+alias,가명, 별명
 chick,병아리
 custody,감금
 deposit,공탁금
@@ -1611,46 +1611,46 @@ bonus,보너스
 barley,보리
 compensation,구상
 mending,수선할 것
-maintainance,보수
+maintenance,유지, 보수, 지속
 conservation,보수
 conservative,보수적
 security,보장
-ingegrity,보전
-preservation,방부
+integrity,진실성, 도덕성; 온전함, 완전성
+preservation,보존, 보호, 유지
 assistance,보조
 aid,돕다
 conserve,보존하다
-fillup,보충하다
+fill up,(가득) 채우다, 채워지다
 guard,감시하다
-memeograph,복사기
+mimeograph,등사판, 등사 인쇄기
 peach,멋진 것
 exemplary,모법적인
 essence,본질
 bowling,볼링
 attendance,돌봄
 deputy,대리
-wealth,부
-riches,명리
-squad,부대
+wealth,부, 재산, 부유함
+riches,부, 재물, 부유함
+squad,분대, 반, 선수단
 category,범주
 departmental,과의
 absence,결핍
-injustice,부정
-wrongfulness,부정
-negative,거부
-irregular,2등품
+injustice,불의, 부정, 부당함
+wrongfulness,부당함, 부도덕, 위법
+negative,부정적인; 소극적인; 음성의
+irregular,불규칙한, 고르지 못한, 변칙적인
 diligently,부지런히
-liabilities,부채
+liabilities,부채, 빚; 책임
 parts,나부랭이
-accessories,부품
+accessories,액세서리, 장신구; 부속품
 bulk,더미
 rage,거세지다
 anger,노기
 separation,별거
-segration,분리
+segregation,분리, 격리; 차별 대우
 obvious,분명하다
 analysis,분석
-distribution,배급
+distribution,분배, 배급, 유통
 inevitable,면하기 어려운
 unavoidable,불가피하다
 deformity,불구 不具
@@ -1679,17 +1679,17 @@ proportion,비례시키다
 critical,결정적인
 aviation,비행
 raindrops,빗방울
-debt,빚
+debt,빚, 부채, 은혜
 shade,그늘지게하다
 hue,비난의 소리
 entice,꾀다
 entrap,낚다
 sip,빨다
 suck,빨기흡인력
-snach,빼앗다
+snatch,와락 붙잡다, 잡아채다; 낚아채기
 evident,명백한
 incident,부대적인
-contemplation,관상
+contemplation,명상, 사색, 심사숙고
 morale,도의
 hunting,사냥
 insignificant,대수롭지 않은
@@ -1704,7 +1704,7 @@ survive,살아남다
 murder,고살망치다
 swallow,빨아들이다
 upper,갑피
-concern,것
+concern,우려, 걱정; 관심사; 우려하다; 영향을 미치다
 relation,법의 효력의 소급
 consultation,상담
 fitting,상당
@@ -1719,7 +1719,7 @@ trader,상인
 symbolic,기호를 사용하는
 emblematic,상징의
 symbolize,상징하다
-exhilirating,상쾌하다
+exhilarating,신나는, 기분을 돋우는, 아주 신나는
 trademark,상표
 engrave,새기다
 leak,누전
@@ -1743,13 +1743,13 @@ found,녹이다
 establish,개업시키다
 diarrhea,배탈
 disappointed,섭섭하다
-fortress,성
+fortress,요새, 성채
 successfully,성공적
 formed,성립되다
 statement,성명
 growth,발육
 sexual,성적
-epoch,세
+epoch,시대, 신기원
 generation,대대로 계속해서
 refined,고상하다
 seminar,세미나
@@ -1765,7 +1765,7 @@ consumption,소비
 pediatrics,소아과
 usefulness,소용
 possessor,소유자
-cacaphony,소음
+cacophony,불협화음, 불쾌한 음조
 valuable,가치적
 seriously,소중히
 temperament,격정
@@ -1790,7 +1790,7 @@ slumber,수면
 hundreds,수백
 thousands,수천
 accomplishment,수행하다
-instanteous,순간적
+instantaneous,순간적인, 즉각적인
 momentary,순간적
 purity,결백
 genuineness,순수
@@ -1804,7 +1804,7 @@ passengers,승객
 match,걸맞다
 promotion,진흥
 advancement,선진화
-poetry,시
+poetry,시(詩), 시가
 angle,각도
 spinach,시금치
 scenario,극본
@@ -1834,7 +1834,7 @@ judgment,가늠
 examination,심리
 referencing,심판
 umpireship,심판
-sprout,싹
+sprout,새싹; 싹이 트다, 발아하다
 twins,쌍둥이
 greatly,관대하게
 employed,고용자들
@@ -1857,7 +1857,7 @@ stability,불변
 aluminum,알루미늄
 examine,심문하다
 acknowledge,승인하다
-appreciate,그득하다
+appreciate,진가를 인정하다; 감사하다; 감상하다; 이해하다
 pressure,곤경
 troubles,고욕
 worries,근심걱정
@@ -1867,10 +1867,10 @@ mewing,야옹
 meowing,야옹
 garish,번쩍거리는
 medicines,약품
-mean,불수진
+mean,의미하다; 비열한; 보통의, 평균의
 ram,격돌하다
 concession,거류지
-compromise,더럽히다
+compromise,타협하다, 절충하다; 손상시키다, 위태롭게 하다; 타협, 절충
 raising,양식
 amodality,양식
 conscience,도의심
@@ -1902,7 +1902,7 @@ presentation,배알
 combination,공동 동작
 federacy,동맹
 union,결합 연합
-totally,영
+totally,완전히, 전적으로
 movies,동영상
 nutrition,영양
 sales,매상고
@@ -1940,7 +1940,7 @@ consolation,위로
 solace,위로
 illegality,불법행의
 riskiness,위험성
-jeapordy,위험성
+jeopardy,위험, 위험에 빠짐
 menace,위협
 threat,위협
 talented,유능하다
@@ -1958,7 +1958,7 @@ purposefully,의도적
 dresses,의류
 garments,의복
 resolve,결단
-consciuosness,의식
+consciousness,의식, 자각, 알고 있음
 awareness,알아채고있음
 unexpectedly,공교롭게도
 surprisingly,다짜다짜

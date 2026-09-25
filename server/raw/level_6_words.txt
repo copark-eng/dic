@@ -757,7 +757,7 @@ desperation,기를 씀
 discouragement,기를 죽이는 것
 struggling,기를쓰는
 papillote,기름 먹인 종이
-olier,기름 붓는사람
+oiler,기름 치는 사람, 급유선, 유조선
 oily,기름같이
 fatty,기름기가 많은
 fattiness,기름기가 많음
@@ -1437,7 +1437,7 @@ stifling,숨 막히는, 답답한
 scutum,깝상 연골
 phalarope,깝작도요무리
 tenaciousness,깡체질
-benne,깨
+benne,(식물) 참깨, 깨
 natty,깨끔한
 ablution,깨끗이 씻는 물
 slickedup,깨끗이 정돈된
@@ -1705,7 +1705,7 @@ leadswinger,꾀병쟁이
 bugout,꾀부리는 사람
 decoy,꾀어들이다
 slyboots,꾀자기
-enticement,꾐
+enticement,유혹, 꾐; 유인하는 것
 borrower,꾸는 사람
 parcel,꾸러미
 unpack,꾸러미를 끄르다
@@ -1845,8 +1845,8 @@ unceasing,끊임 없는
 ceaseless,끊임없는
 incessantly,끊임없는
 uninterrupted,끊임없는
-borer,끌
-chisel,끌
+borer,송곳, 천공기; 나무 뚫는 벌레
+chisel,끌, 정; 조각하다, 깎다
 quenchless,끌 수 없는
 unquenchable,끌 수 없는
 extinguishable,끌 수 있는
@@ -1871,8 +1871,8 @@ slay,끔찍하게 죽이다
 appalling,끔찍하다
 hideous,끔찍하다
 cruelty,끔찍함
-hits,끗
-points,끗
+hits,명중, 타격; 안타, 히트
+points,점수, 요점, 포인트
 overtrump,끗수가 높은 패로 따다
 groaningly,끙끙대다
 desinence,끝 행
@@ -2396,7 +2396,7 @@ edgy,날이 날카로운
 keenedged,날이 날카로운
 glaive,날이 넓은 칼
 sealer,날인자
-bulidup,날조
+buildup,증강, 축적; 날조, 과대선전
 buildup,날조 조작
 forger,날조자
 concoct,날조하다
@@ -2667,7 +2667,7 @@ frater,남학생 클럽 회원
 schoolboyish,남학생같은
 southing,남항 행정
 southbound,남행의
-wax,납
+wax,밀랍, 왁스; 커지다, 달이 차다
 waxing,납 바르기
 leaded,납 중독에 걸린
 caltrop,납가새
@@ -2698,7 +2698,7 @@ cerecloth,납포
 cerement,납포
 ordering,납품
 encaustic,납화
-bursa,낭
+bursa,(해부) 점액낭, 주머니
 lycanthropy,낭광
 recital,낭독
 ambo,낭독대
@@ -2970,8 +2970,8 @@ stink,냄새를 맡아내다
 perfumer,냄새를 풍기는 사람
 olfactory,냄새의
 odoriferous,냄새좋은
-nappe,냅
-sire,냅
+nappe,(지질) 나프, 밀려온 암층; 폭포수
+sire,(동물의) 아비; 폐하, 종마
 tearing,냅다
 napkin,냅킨
 neptune,냅튠바다
@@ -3211,9 +3211,9 @@ neptunium,넵투늄방사능 원소의 하나 , 기호 , 번호 9
 frogmarch,넷이 팔다리를 붙들고 나르다
 agnomen,넷째 이름
 quartus,넷째의
-hearth,노
-fireplace,노
-kiln,노
+hearth,난로 바닥, 벽난로, 화덕
+fireplace,벽난로, 화로
+kiln,(가마) 가마, 화로, 건조로
 oary,노 모양의
 oarage,노 장비
 oarsmanship,노 젓는 법
@@ -3421,8 +3421,8 @@ gerovital,노화방지 약
 aloe,노회
 synodic,노회와 전국 총회의 중간 조직
 crocky,노후한
-rust,녹
-tarnish,녹
+rust,녹; 녹슬다; 퇴보하다
+tarnish,(광택을) 잃다, 변색되다; (명예를) 더럽히다
 antirust,녹 방지제
 hartshorn,녹각정
 fusible,녹기쉬운
@@ -3930,7 +3930,7 @@ agedness,늙음
 gallant,늠름하다
 manly,늠름하다
 decibel,늠향 측정 단위
-mausoleum,능
+mausoleum,영묘, 거대한 묘
 outachieve,능가하다
 outrival,능가하다
 florentine,능견의 일종
@@ -3969,7 +3969,7 @@ unfasten,늦추다
 defer,늦추다
 unfixed,늦추어진
 unrelaxed,늦춰지지 않은
-incisors,니
+incisors,(해부) 앞니, 절치
 negus,니거스술
 fennelflower,니겔
 negro,니그로
@@ -4506,7 +4506,7 @@ brightwork,닦아서 반짝반짝하는 쇠붙이
 brushup,닦음
 holystone,닦음돌
 unpolished,닦지 않은
-stairs,단
+stairs,계단, 층계
 sweetie,단 과자
 columniation,단 구획
 univalve,단각 연체 동물
@@ -4830,7 +4830,7 @@ langouste,닭새우
 cockfight,닭싸움
 cockfighting,닭싸움
 henhouse,닭장
-saltation,닮
+saltation,(생물) 도약 변이; 도약, 뜀
 resemblance,닮음
 corrade,닳게 하다
 abrade,닳리다
@@ -5007,8 +5007,8 @@ flurried,당황한
 muddleheaded,당황한
 panicstricken,당황한
 cathead,닻걸이
-bamboo,대
-greater,대
+bamboo,대나무
+greater,더 큰, 대(大)
 ostpolitik,대 동유럽정책
 bioactivity,대 생물 작용
 stemless,대 없는
@@ -5427,7 +5427,7 @@ longboat,대형 보트
 hypermarket,대형 슈퍼마켓
 superstore,대형 슈퍼마켓
 armoire,대형 옷장
-arine,대형 위성 발사용 로켓
+ariane,아리안 로켓 (유럽의 대형 위성 발사체)
 charabanc,대형 유람 버스
 supersybmarine,대형 잠수함
 bombardon,대형 저음 금관악기의 일종
@@ -5453,7 +5453,7 @@ dancercise,댄서사이즈
 dallas,댈러스
 dallasite,댈러스의 주민
 damsite,댐 건설 부지
-bong,댕
+bong,(종소리) 댕댕 울리는 소리
 lapwing,댕기 물떼새
 pewit,댕기물떼새
 outjump,더 높이 뛰다
