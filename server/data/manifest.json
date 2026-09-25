@@ -45,9 +45,9 @@
       "code": "L5",
       "total_words": 4000,
       "file": "level_5.json",
-      "file_size_bytes": 2642434,
-      "sha256": "0a7c3d4aee6ea2108d8e9e43c23e8d8cdbaa3d61dbe4b9a13e9d253a82691dc3",
-      "updated_at": "2026-09-20T02:47:53.406329+00:00",
+      "file_size_bytes": 3922347,
+      "sha256": "50acfd0f4438a7775225a74558f8e8aa58325f515f030011e26c44ae9b9fea91",
+      "updated_at": "2026-09-25T16:15:42.731372+00:00",
       "count": 4000
     },
     "6": {
