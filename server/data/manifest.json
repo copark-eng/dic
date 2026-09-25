@@ -25,9 +25,9 @@
       "code": "L3",
       "total_words": 3000,
       "file": "level_3.json",
-      "file_size_bytes": 1969424,
-      "sha256": "c6a968a7789652c26c4fc927e4b8a4f19fc3f7757d50129677a8b5763d10c7c1",
-      "updated_at": "2026-09-20T02:38:43.097577+00:00",
+      "file_size_bytes": 2876757,
+      "sha256": "5918a2afe4d62ef5a1a0e2ca1af5477bb2653f01021ce29bc159f57ecd8ba0d6",
+      "updated_at": "2026-09-25T14:11:30.401965+00:00",
       "count": 3000
     },
     "4": {
