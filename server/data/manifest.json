@@ -6,7 +6,9 @@
       "name": "기초",
       "count": 1000,
       "file": "level_1.json",
-      "sha256": "909517436b7297b997ad0baeaa8c010195b233eeda6392791ce281b51dff4870"
+      "file_size_bytes": 932112,
+      "sha256": "225364924ec78c265d35d28853b3374f821dd3c070662b2b63cdc91a4c725415",
+      "updated_at": "2026-09-25T12:25:19.229052+00:00"
     },
     "2": {
       "name": "중등",
