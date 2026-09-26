@@ -40,7 +40,7 @@ hurling,던지기, 헐링 (스포츠)
 pitching,던짐
 deemphasize,덜 강조하다
 backlash,덜거덕 거림
-coappedout,덜거덕거리는
+clappedout,덜거덕거리는, 다 낡은, 고장 난
 rumbly,덜거덕거리는
 bump,부딪치다, 덜컹거리며 가다
 trembly,덜덜 떠는
@@ -136,8 +136,8 @@ reconduct,데리고 돌아오다
 derris,데리스
 derrick,데릭 기중기
 delilah,데릴라
-grapevine,데마
-demagogic,데마
+grapevine,포도나무; (구어) 유언비어, 풍문, 입소문
+demagogic,선동적인, 민중 선동의
 demagoguery,데마를 퍼뜨림
 demo,데모
 demosthenes,데모스테네스
@@ -156,7 +156,7 @@ decistere,데시스테르
 deciare,데시아르
 smatter,데알기
 sciolism,데앎
-sciolismlist,데앎
+sciolist,어설픈 학자, 사이비 학자, 박식한 체하는 사람
 davidic,데이브의
 daisy,데이지
 daisied,데이지가 피어있는
@@ -248,7 +248,7 @@ nonmoral,도덕에 관계없는
 immoral,도덕에 어긋나는
 cinemorality,도덕영화
 morally,도덕적으로
-moraly,도덕적으로
+morally,도덕적으로, 도덕상, 도의적으로
 exemplum,도덕적이야기
 highblown,도도한
 peremptory,도도한
@@ -450,7 +450,7 @@ defiant,도전적인
 itinerary,도정
 journey,도정
 articled,도제계약의
-apprentceship,도제살이
+apprenticeship,도제살이, 수습 기간, 수습 신분
 bolt,도주-뛰어나가다
 flyaway,도주자
 stopover,도중 하차
@@ -645,7 +645,7 @@ autocracy,독재정치
 monopolization,독점
 antimonopoly,독점 금지의
 proprietary,독점의
-monopolost,독점자
+monopolist,독점자, 전매자, 독점주의자
 monopolize,독점하다
 concertino,독주 악기군
 soloist,독주자 독창자
@@ -982,7 +982,7 @@ synchronicity,동시발생
 connate,동시발생의
 simultaneity,동시성
 concurrently,동시에
-coincidential,동시에 일어나는
+coincidental,동시 발생의, 일치하는, 우연의 일치인
 synchronous,동시에 일어나는
 coexist,동시에 존재하다
 synchronize,동시에 하게 하다
@@ -1205,7 +1205,7 @@ tautologize,되풀이해서 말하다
 avocet,됫부리장다리떼새
 dunkirk,됫케르크
 semidetached,두 가구 연립의
-amphiblous,두 가지로 해석되는
+amphibious,수륙 양용의, 양서류의; 두 가지로 해석되는
 divaricate,두 갈래로 갈라지다
 bifid,두 갈래의
 biforked,두 갈래의
@@ -1515,7 +1515,7 @@ hippoket,뒷주머니
 welter,뒹굶
 dugong,듀공
 dewberry,듀베리
-drvetyn,듀베틴
+duvetyn,두베틴 (부드러운 보풀이 있는 능직 모직물)
 vantageout,듀스 후에 리시브측에서 얻은 1점
 vantagein,듀스 후에 서브측에서 얻은 1점
 dualin,듀얼린
@@ -1580,7 +1580,7 @@ audient,듣는 사람
 hearer,듣는 사람
 disobey,듣지 않다
 plains,평원, 평지
-etcaetera,등등, 기타 등등
+etcetera,등등, 기타 등등 (etc.)
 fieldwards,들 쪽에
 dingo,들개
 dogcatcher,들개 포획인
@@ -1775,7 +1775,7 @@ inattentive,등한하다
 negligent,등한하다
 illumination,조명, 밝힘, 계몽
 candlepower,촉광, 광도
-di,디
+di,접두사 di- (둘, 2배의); (음계) 레의 올림음
 digamma,디감마
 digitalis,디기탈리스
 foxglove,디기탈리스
@@ -1842,7 +1842,7 @@ dictaphone,딕터폰
 dictograph,딕토그래프
 dilettante,딜레탕트풍의
 deme,고대 그리스의 자치구, 지방민
-dit,딧
+dit,모스 부호의 점(.), 짧은 신호 음
 barnacle,따개비
 unstitch,따내다
 ostracization,따돌림
@@ -1897,7 +1897,7 @@ rattlebox,딸랑딸랑상자활나물
 rattlebag,딸랑주머니
 cum,딸린의 뜻
 perspiration,땀, 땀 흘리기, 노력
-sudor,땀
+sudor,(의학) 땀, 발한(發汗)
 sweat,땀, 땀을 흘리다
 transpiration,증산 작용, 발산
 sweaty,땀 흘리게 하는
@@ -1970,7 +1970,7 @@ bustle,떠들게 하다
 fuss,떠들게 하다
 jollity,떠들며 놀기
 bustling,떠들썩하다
-noisely,떠들썩하다
+noisily,떠들썩하게, 요란하게, 시끄럽게
 clamor,떠들어대다
 unruffled,떠들어대지않는
 babble,떠듬거리는 말
@@ -1999,9 +1999,9 @@ bredinthebone,떨쳐버릴 수 없는
 shudder,몸서리치다, 전율하다
 astringent,떫다
 turf,잔디밭, 잔디, 세력권
-sod,떼
-bevy,떼
-caboodle,떼
+sod,잔디, 뗏장; (땅에) 잔디를 입히다
+bevy,(여성·새 등의) 무리, 떼
+caboodle,(the whole ~) 통틀어, 모두, 한 무리
 shoal,떼 다수
 unyoke,떼다
 disconnect,떼다
@@ -2031,13 +2031,13 @@ ticker,똑딱거리는 물건
 taptap,똑똑
 drip,똑똑 떨어지다
 trickle,똑똑 떨어지다
-inariticulate,똑똑하게 의견을 말하지 않는
+inarticulate,불분명한, 똑똑히 말하지 않는, 표현을 못하는
 aloud,똑똑히
 enunciate,똑똑히 발음하다
 directness,똑바름
 yob,똘마니
-shit,똥
-turd,똥
+shit,대변, 똥; 허튼소리; 젠장, 빌어먹을
+turd,똥 덩어리; 빌어먹을 놈, 비열한 놈
 midden,똥 무더기
 mutt,똥개
 dung,똥거름
@@ -2092,9 +2092,9 @@ scummy,뜬 찌끼투성이의
 furphy,뜬소문
 cinder,뜬숯
 forfeit,뜯기다
-extacted,뜯기다
+extracted,추출된, 뽑아낸; 발췌된
 disassemble,뜯다
-flotation,뜸
+flotation,부유(浮遊), 뜸; (기업) 주식 공모, 회사 설립
 limpkin,뜸부기과의 새
 cautery,뜸술
 cauterize,뜸을 뜨다
@@ -2102,7 +2102,7 @@ cauterization,뜸질
 deckle,뜸틀
 unawares,뜻밖에
 sparsely,띄엄띄엄
-zoster,띠
+zoster,(의학) 대상포진, 띠 모양의 포진
 zonary,띠 모양의
 cingulate,띠 모양의 것이 있는
 ribbonfish,띠 모양의 바다 물고기
@@ -2155,7 +2155,7 @@ rama,라마화신
 ramses,라메스
 ramie,라미
 ramee,라미
-chlavydia,라미디아
+chlamydia,클라미디아 (병원체 미생물)
 rabat,라바트
 lavalava,라발라바
 lavender,라벤더
@@ -2283,7 +2283,7 @@ landler,랜틀러
 rallymaster,랠리 조직위원장
 rallyist,랠리 참가자
 rallycross,랠리크로스
-rem,램
+rem,(방사선) 렘 (방사선 흡수량 단위); 렘수면(REM)
 ramekin,램킨
 ramequin,램킨
 langley,랭글리
@@ -2410,19 +2410,19 @@ lev,레프
 replicase,레플리카아제
 replicon,레플리콘
 lehua,레후아
-lek,렉
+lek,(동물) 짝짓기 장소; (알바니아 화폐) 레크
 rectenna,렉테나
 lentil,렌즈콩
 wrench,렌치
 rembrandt,렘브란트
 rembrandtesque,렘브란트풍의
 lempira,렘피라
-rep,렙
-repp,렙
+rep,두둑이 있는 직물; (구어) 평판; 대표, 외판원
+repp,골이 진 능직 천, 렙 직물
 lepcha,렙차 말
 leptospirosis,렙토스피라병
 sentient,력이있는
-rho,로
+rho,그리스 문자 17번째 자모 (Ρ, ρ)
 tapestried,로 꾸민
 acity,로 끝나는 형용사에 대응하는 명사를 만듦
 slipper,로 때리다
@@ -2552,7 +2552,7 @@ raleigh,롤리
 rollmops,롤몹스
 bun,롤빵
 rolfing,롤프식 맛사지
-loam,롬
+loam,(지질) 양토, 참흙; (벽 등에) 양토를 바르다
 lombard,롬바르드족의 사람
 lombardy,롬바르디아
 loamy,롬의
@@ -2567,7 +2567,7 @@ radiopaque,뢴트겐 사진으로 보이는
 roentgenotherapy,뢴트겐 요법
 radioscopy,뢴트겐 진찰
 roentgenology,뢴트겐과
-roux,루
+roux,(요리) 루 (버터와 밀가루를 볶은 소스 베이스)
 runic,루닉
 rood,루드
 rudbeckia,루드베키아
@@ -2627,7 +2627,7 @@ roulette,룰렛
 rumba,룸바
 flopper,룸펜
 lumpen,룸펜의
-ruth,룻
+ruth,비애, 슬픔, 동정, 연민; (구약성서) 룻기
 rheumatism,류머티즘
 rheumatology,류머티즘학
 ruche,류슈
@@ -2731,7 +2731,7 @@ lyons,리용
 lysol,리졸
 lysine,리진
 richard,리처드
-richrdson,리처드슨
+richardson,리처드슨 (영국의 소설가 등 인명)
 flickertail,리처드슨 땅 다람쥐
 ricardo,리카도
 ricardian,리카도 학도
@@ -2791,7 +2791,7 @@ lincoln,링컨
 lincolnshire,링컨셔
 lincomycin,링코마이신
 lincrusta,링크러스타
-yam,마
+yam,(식물) 참마, 마; 고구마류
 marg,마가린
 margarine,마가린
 whitebeam,마가목류
@@ -2804,7 +2804,7 @@ abroach,마개를 따고
 untapped,마개를 안 뽑은
 marguerite,마거리트
 devildom,마계
-forecefully,마구
+forcefully,격렬하게, 힘차게, 단호하게
 stables,마구간
 harnessry,마구류
 saddlery,마구류
@@ -3199,7 +3199,7 @@ macaw,마코 앵무새
 macrame,마크라메레이스
 maquisard,마키 대원
 machiavellism,마키아벨리주의
-mattew,마태
+matthew,마태 (신약성서 마태오 복음서)
 martensite,마텐자이트
 matico,마티코
 vervain,마편초속의 다년초
@@ -3217,7 +3217,7 @@ baywood,마호가니의 일종
 mohammed,마호메트
 islam,마호메트교
 mecca,마호멧의 탄생지
-booth,막
+booth,부스, 칸막이 좌석, 임시 가설 오두막, 노점
 interlude,막간
 magdala,막달라
 incalculable,막대하다
@@ -3309,7 +3309,7 @@ tangible,만져서 알수 있는
 seamark,만조선
 intertidal,만조와 간조사이의
 floodmark,만조표
-gratifing,만족 시키는
+gratifying,만족을 주는, 흐뭇한, 보람 있는
 gratification,만족 시키는 것
 gratify,만족 시키다
 unsatisfying,만족시키지 않는
@@ -3614,7 +3614,7 @@ fitter,맞추는사람
 lipsync,맞추어 노래하기
 collate,맞추어 보다
 leftluggage,맡겨 둔 수하물
-whippped,매 맞은
+whipped,매 맞은; 휘핑크림의; 지친
 eyas,매 새끼
 paginal,매 페이지의
 vendition,매각
@@ -3742,7 +3742,7 @@ cornerman,매점자
 regrate,매점하다
 hoard,매점하다
 hoardingly,매점하여
-savageiy,매정하게
+savagely,야만스럽게, 잔인하게, 매정하게
 hardfisted,매정한
 snippety,매정한
 brusquerie,매정함
@@ -3791,7 +3791,7 @@ ergot,맥각
 nervation,맥계
 vas,맥관
 vasculitis,맥관염
-angigiitis,맥관염
+angiitis,(의학) 맥관염, 혈관염
 vascular,맥관의
 vascularity,맥관질
 angololgy,맥관학
@@ -4385,7 +4385,7 @@ scutcheon,명찰
 appellative,명칭
 nomenclator,명칭일람
 luculent,명쾌하다
-holesm,명탐정
+holmes,셜록 홈스, 명탐정
 blithe,명항한
 definiteness,명확
 definitude,명확성
@@ -4421,7 +4421,7 @@ unhallow,모독하다
 modularity,모듈 방식
 moratorium,모라토리엄
 broccoli,모란채
-brocoli,모란채
+broccoli,브로콜리, 모란채
 sandbed,모래 바닥
 chigoe,모래 벼룩
 sandstorm,모래 폭풍
@@ -4536,7 +4536,7 @@ miniature,모형
 ectype,모형복사
 opacity,모호
 moho,모호면
-ambiguious,모호하다
+ambiguous,모호한, 다의적인, 분명치 않은
 waffling,모호하다
 mahican,모히칸족
 ringneck,목 둘레에 고리 무늬가 있는 새.동물
@@ -4681,12 +4681,12 @@ elecampane,목향
 patternmaker,목형공
 cottonseed,목화씨
 pastoral,목회
-allotment,몫
-lot,몫
+allotment,할당, 배당; 할당액, 몫, 시민 농원
+lot,몫, 분량; 운명; (토지의) 한 구획, 부지; 제비뽑기
 montenegro,몬테네그로
 montenegrin,몬테네그로 사람
-montevodeo,몬테비데오
-mole,몰
+montevideo,몬테비데오 (우루과이의 수도)
+mole,(화학) 몰 (물질량 단위); 사마귀, 점; 두더지; 방파제
 ungainly,몰골스러운
 unshapely,몰골스러운
 moldavia,몰다비아
@@ -4701,13 +4701,13 @@ ponce,몰래 지내다
 sneaky,몰래하는
 molybdenum,몰리브덴
 wulfenite,몰리브텐 연광
-anihilation,몰살
+annihilation,절멸, 전멸, 몰살
 extermination,몰살
 confiscation,몰수
 expropriation,몰수
 forfeitable,몰수당할
 confiscate,몰수된
-consiscatory,몰수의
+confiscatory,몰수의, 압류하는; (세금 등이) 과중한
 confiscator,몰수자
 embargo,몰수하다
 expropriate,몰수하다
@@ -4906,7 +4906,7 @@ aclinic,무경각의
 unopposed,무경쟁의
 inexperience,무경험
 greener,무경험 직공
-impeachement,무고죄
+impeachment,탄핵, 고발, 비난
 spineless,무골 충의
 agranulocyte,무과립 백혈구
 nofault,무과실 손해 배상제도의
@@ -4951,7 +4951,7 @@ anuresis,무뇨
 snappish,무는 버릇이 있는
 biter,무는 사람
 gnawer,무는 사람
-helpnessness,무능
+helplessness,무력함, 무능, 속수무책
 inadequacy,무능
 incapability,무능
 nonability,무능
@@ -5135,7 +5135,7 @@ asexual,무성의
 genderless,무성의
 sexless,무성의
 unvoiced,무성의
-slopppy,무성의하다
+sloppy,무성의한, 엉성한, 헐렁한, 질척한
 unstratfied,무성충
 flourishing,무성하는
 thrifty,무성하는
@@ -5375,7 +5375,7 @@ grammarian,문법가
 grammaticality,문법성
 tagmeme,문법소
 solecism,문법위반
-grammatcal,문법의
+grammatical,문법의, 문법에 맞는
 condolatory,문상의
 condole,문상하다
 secretariate,문서과
@@ -5592,7 +5592,7 @@ muse,뮤즈 의 신
 mnemosyne,므네모시네
 brunette,므루네트인-브루네트인 여자
 mbira,므비라
-american,미
+american,미국의, 미국인의; 미국인
 interamerican,미 대륙간의
 schizy,미 정신 분열증의 , 다중 인격의
 unaesthetic,미가 결핍된
@@ -6007,11 +6007,11 @@ spinster,미혼여성
 spinsterhood,미혼여성
 divorcee,미혼자
 beautirication,미화
-glofification,미화
+glorification,찬미, 찬양, 미화
 microfossil,미화석
 houseproud,미화에 열심인
 beautifler,미화하는 것
-uncomfirmed,미확인
+unconfirmed,확인되지 않은, 미확인의
 unverified,미확인
 unrealized,미회수의
 blender,믹서
@@ -6121,11 +6121,11 @@ peddler,밀매인
 bootleg,밀매주
 sealant,밀봉제
 fascicle,밀산화서
-smugling,밀수
+smuggling,밀수, 밀수행위
 smuggling,밀수입
 moonshiner,밀수입자
 moonshine,밀수입주
-smugler,밀수자
+smuggler,밀수업자, 밀수선
 smuggle,밀수하다
 claustrophobia,밀실 공포증
 claustrophobic,밀실 공포증환자
@@ -6189,7 +6189,7 @@ goodman,바깥 주인
 outward,바깥 쪽으로=
 splay,바깥으로 벌어진
 outsert,바깥접장
-outwatdly,바깥쪽에
+outwardly,외견상으로, 겉으로는, 바깥쪽에
 revolute,바깥쪽으로 감긴
 transposition,바꾸어 놓음
 anagrammatize,바꾸어 다른 말로 만들다
@@ -6425,7 +6425,7 @@ calamitous,바참한
 votive,바친
 baccarat,바카라
 bacchus,바카스
-baccanal,바카스 예찬의
+bacchanal,바카스 축제의 참가자, 술잔치; 바카스 예찬의
 bacchanalian,바카스의
 bacchante,바커스 신의 여사제
 dithyramb,바커스의 찬가
@@ -6444,7 +6444,7 @@ barkbarque,바크배
 berkeley,바클리
 berkeleian,바클리 철학도
 baton,바통
-twiirler,바통걸
+twirler,배턴을 돌리는 사람, 바통걸
 baath,바트당
 bartlett,바틀렛종의 배
 bahamas,바하마

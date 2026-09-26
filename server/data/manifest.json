@@ -66,9 +66,9 @@
       "code": "L7",
       "total_words": 6500,
       "file": "level_7.json",
-      "file_size_bytes": 5648353,
-      "sha256": "0cf65cb40a264addb953f5148198a8d4138277ebbd6180b192c4e24034659973",
-      "updated_at": "2026-09-22T11:02:13.147819+00:00",
+      "file_size_bytes": 6408217,
+      "sha256": "ea17e2a74a2fb3c0d2e52e6ba223620c7e5822d48860d05b01243120e68bf88e",
+      "updated_at": "2026-09-26T06:41:47.532444+00:00",
       "count": 6500
     },
     "0": {
