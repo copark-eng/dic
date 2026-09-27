@@ -1,0 +1,85 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-09-26T01:37:31.131001",
+  "levels": {
+    "1": {
+      "name": "기초",
+      "count": 1000,
+      "file": "level_1.json",
+      "file_size_bytes": 932112,
+      "sha256": "225364924ec78c265d35d28853b3374f821dd3c070662b2b63cdc91a4c725415",
+      "updated_at": "2026-09-25T12:25:19.229052+00:00",
+      "total_words": 1000
+    },
+    "2": {
+      "name": "중등",
+      "code": "L2",
+      "total_words": 2000,
+      "file": "level_2.json",
+      "file_size_bytes": 1856357,
+      "sha256": "f65b4a7c0b4c0467793d17a9aa35687ffe3e06fe480bbc493da9ef269d06a9a9",
+      "updated_at": "2026-09-25T13:31:56.604507+00:00",
+      "count": 2000
+    },
+    "3": {
+      "name": "수능기본",
+      "code": "L3",
+      "total_words": 3000,
+      "file": "level_3.json",
+      "file_size_bytes": 2876757,
+      "sha256": "5918a2afe4d62ef5a1a0e2ca1af5477bb2653f01021ce29bc159f57ecd8ba0d6",
+      "updated_at": "2026-09-25T14:11:30.401965+00:00",
+      "count": 3000
+    },
+    "4": {
+      "name": "수능심화",
+      "code": "L4",
+      "total_words": 4500,
+      "file": "level_4.json",
+      "file_size_bytes": 4368868,
+      "sha256": "2640a22ee83b0490d46a2411e60c8f5049af37a5b3471a5d24b0c13bf455a331",
+      "updated_at": "2026-09-25T15:49:46.244355+00:00",
+      "count": 4500
+    },
+    "5": {
+      "name": "TOEIC 750",
+      "code": "L5",
+      "total_words": 4000,
+      "file": "level_5.json",
+      "file_size_bytes": 3922347,
+      "sha256": "50acfd0f4438a7775225a74558f8e8aa58325f515f030011e26c44ae9b9fea91",
+      "updated_at": "2026-09-25T16:15:42.731372+00:00",
+      "count": 4000
+    },
+    "6": {
+      "name": "TOEIC 900",
+      "code": "L6",
+      "total_words": 5500,
+      "file": "level_6.json",
+      "file_size_bytes": 5417105,
+      "sha256": "0b04f65c55fbfd90265e83b91bfa611d9a95c34e6b26fc227a06208c99e22ea7",
+      "updated_at": "2026-09-25T16:26:55.036557+00:00",
+      "count": 5500
+    },
+    "7": {
+      "name": "TOEIC 990",
+      "code": "L7",
+      "total_words": 6500,
+      "file": "level_7.json",
+      "file_size_bytes": 6408217,
+      "sha256": "ea17e2a74a2fb3c0d2e52e6ba223620c7e5822d48860d05b01243120e68bf88e",
+      "updated_at": "2026-09-26T06:41:47.532444+00:00",
+      "count": 6500
+    },
+    "0": {
+      "name": "디폴트 나만의 단어장",
+      "code": "MY",
+      "total_words": 1222,
+      "count": 1222,
+      "file": "custom_wordbook.json",
+      "file_size_bytes": 1154063,
+      "sha256": "8d8d5bb8956aaa2563d5d124e5d4e75fd7506566098e79328df35a884e65f7d6",
+      "updated_at": "2026-09-27T15:21:05.162813+00:00"
+    }
+  }
+}
